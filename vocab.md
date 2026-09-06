@@ -85,7 +85,13 @@ Arabic: بَيْتِي بَعِيدٌ عَنِ الْمَسْجِدِ
 
 Arabic: بَيْتِي لَيْسَ بَعِيدًا عَنِ الْمَسْجِدِ
 
+هَلْ ذَهَبَتْ بِلْقِيسُ إِلَى الْمَطْبَخِ؟
+Hal dhahabat Bilqīsu ilā al-maṭbakhi?
+“Did Bilqees go to the kitchen?”
 
+أَذَهَبَتْ بِلْقِيسُ إِلَى الْمَطْبَخِ؟
+ʾA-dhahabat Bilqīsu ilā al-maṭbakhi?
+“Did Bilqees go to the kitchen?”
 
 
 
