@@ -9,6 +9,28 @@
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+For a male speaker:
+
+**أَنَا ذَاهِبٌ إِلَى الْمَطْبَخِ.**  
+*Anā dhāhibun ilā al-maṭbakhi.*  
+“I’m going to the kitchen.”
+
+For a female speaker:
+
+**أَنَا ذَاهِبَةٌ إِلَى الْمَطْبَخِ.**  
+*Anā dhāhibatun ilā al-maṭbakhi.*
+
+
+**هُوَ يَذْهَبُ إِلَى الْمَطْبَخِ.**  
+*Huwa yadhhabu ilā al-maṭbakhi.*  
+“He goes to the kitchen.”
+
+**هُوَ** = he  
+**يَذْهَبُ** = goes  
+**إِلَى** = to  
+**الْمَطْبَخِ** = the kitchen
+
+
 
 
 ---
