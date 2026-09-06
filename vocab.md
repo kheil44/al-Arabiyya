@@ -62,6 +62,18 @@ For a male speaker:
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+For “I was at school,” standard Arabic uses:
+
+كُنْتُ فِي الْمَدْرَسَةِ.
+
+In some everyday dialects, you may hear:
+
+كُنْتُ بِالْمَدْرَسَةِ.
+“I was at school.”
+
+But فِي is the standard choice for “in / at.”
+
+
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
