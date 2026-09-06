@@ -81,6 +81,20 @@ Baytī baʿīdun ʿani al-masjidi.
 Baytī laysa baʿīdan ʿani al-masjidi.
 “My house is not far from the mosque.”
 
+Arabic: بَيْتِي بَعِيدٌ عَنِ الْمَسْجِدِ
+
+Arabic: بَيْتِي لَيْسَ بَعِيدًا عَنِ الْمَسْجِدِ
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
