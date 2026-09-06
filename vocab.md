@@ -24,6 +24,19 @@ For a male speaker:
 **يَذْهَبُ** = goes  
 **إِلَى** = to  
 **الْمَطْبَخِ** = the kitchen
+**أَنَا تَعْبَانُ.**  
+*Anā taʿbānu.*  
+“I’m tired.” — male speaker
+
+**أَنَا** = I  
+**تَعْبَانُ** = tired (male)
+
+**أَنَا نَعْسَانُ.**  
+*Anā naʿsānu.*  
+“I’m sleepy.” — male speaker
+
+**أَنَا** = I  
+**نَعْسَانُ** = sleepy (male)
 
 
 
