@@ -73,6 +73,13 @@ In some everyday dialects, you may hear:
 
 But فِي is the standard choice for “in / at.”
 
+بَيْتِي بَعِيدٌ عَنِ الْمَسْجِدِ.
+Baytī baʿīdun ʿani al-masjidi.
+“My house is far from the mosque.”
+
+بَيْتِي لَيْسَ بَعِيدًا عَنِ الْمَسْجِدِ.
+Baytī laysa baʿīdan ʿani al-masjidi.
+“My house is not far from the mosque.”
 
 
 ---
