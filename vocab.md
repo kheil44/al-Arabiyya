@@ -64,20 +64,20 @@ For a male speaker:
 
 For “I was at school,” standard Arabic uses:
 
-كُنْتُ فِي الْمَدْرَسَةِ.
+**كُنْتُ فِي الْمَدْرَسَةِ.**
 
 In some everyday dialects, you may hear:
 
-كُنْتُ بِالْمَدْرَسَةِ.
+**كُنْتُ بِالْمَدْرَسَةِ.**
 “I was at school.”
 
 But فِي is the standard choice for “in / at.”
 
-بَيْتِي بَعِيدٌ عَنِ الْمَسْجِدِ.
+** بَيْتِي بَعِيدٌ عَنِ الْمَسْجِدِ.**
 Baytī baʿīdun ʿani al-masjidi.
 “My house is far from the mosque.”
 
-بَيْتِي لَيْسَ بَعِيدًا عَنِ الْمَسْجِدِ.
+بَيْتِي لَيْسَ بَعِيدًا عَنِ الْمَسْجِدِ.**
 Baytī laysa baʿīdan ʿani al-masjidi.
 “My house is not far from the mosque.”
 
