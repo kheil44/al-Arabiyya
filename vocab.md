@@ -58,6 +58,8 @@ For a male speaker:
 
 
 
+## the following two examples are also at https://madinaharabic.com/free-content/grammar/lesson-10/part-8
+
 The translation for "Fatima's husband is Mu'awiya" formatted with full tashkeel and larger, bold text is:
 
 * Arabic: زَوْجُ فَاطِمَةَ مُعَاوِيَةُ
@@ -74,6 +76,25 @@ This sentence features a classic possessive relationship structure (الإِضَ
 * Spelling Note: Even though Mu'awiya is a male name, it ends structurally in a Tā’ Marbūṭah (ة). In Arabic grammar, any male name ending in a Tā’ Marbūṭah is also classified as a diptote. Therefore, it takes a single Dammah ( ُ ) and is banned from carrying a tanween.
 
 Would you like to see how to flip this sentence around to say "Mu'awiya is Fatima's husband" to practice changing the word order, or shall we translate another familial relationship?
+
+
+
+The translation for "Khalid went out with Talha" formatted with full tashkeel and larger, bold text is:
+
+* Arabic: خَرَجَ خَالِدٌ مَعَ طَلْحَةَ
+* Pronunciation: Khara-ja Khālidun maʿa Ṭalḥata
+
+------------------------------
+## Grammatical Breakdown (الإِعْرَاب) 💡
+
+* خَرَجَ (Khara-ja): "He went out". This is a past-tense verb (فِعْل مَاضٍ) built on a Fathah ( َ ) because it is a regular, three-letter verb in the singular third-person masculine form.
+* خَالِدٌ (Khālidun): "Khalid". This is the Subject/Doer (الْفَاعِل) of the verb. Because it is a regular masculine name, it takes the full Tanween Dammah ( ٌ ) to show it is in the nominative case.
+* مَعَ (Maʿa): "With". This is an adverb of place/association (Zarf) that functions like a preposition in this sentence structure.
+* طَلْحَةَ (Ṭalḥata): "Talha". This noun follows the word maʿa, meaning it must be in the genitive case (majroor).
+* Important Diptote Rule: Just like the name Mu'awiya in your previous sentence, طَلْحَة is a male name that structurally ends in a Tā’ Marbūṭah (ة). In Arabic grammar, this automatically makes it a diptote (مَمْنُوع مِنَ الصَّرْف). Because diptotes are legally banned from carrying a kasrah, it must use a Fathah ( َ ) to display its genitive status!
+
+Would you like to practice changing this sentence to "Talha went out with Khalid" to see how the vowel markers on the names swap places, or do you have another sentence ready to translate?
+
 
 
 
