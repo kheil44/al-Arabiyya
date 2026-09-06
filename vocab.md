@@ -14,6 +14,7 @@ For a male speaker:
 **أَنَا ذَاهِبٌ إِلَى الْمَطْبَخِ.**  
 *Anā dhāhibun ilā al-maṭbakhi.*  
 “I’m going to the kitchen.”
+
 **أَنَا ذَاهِبٌ إِلَى مَطْبَخِي.**  
 *Anā dhāhibun ilā maṭbakhī.*  
 “I’m going to my kitchen.” — male speaker
