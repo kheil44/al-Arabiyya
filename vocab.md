@@ -58,6 +58,32 @@ For a male speaker:
 
 
 
+The translation for "Fatima's husband is Mu'awiya" formatted with full tashkeel and larger, bold text is:
+
+* Arabic: زَوْجُ فَاطِمَةَ مُعَاوِيَةُ
+* Pronunciation: Zawju Fāṭimata Muʿāwiyatu
+
+------------------------------
+## Grammatical Breakdown (الإِعْرَاب) 💡
+This sentence features a classic possessive relationship structure (الإِضَافَة - Idafa) followed by a predicate proper noun:
+
+* زَوْجُ (Zawju): "Husband". This is the Subject (الْمُبْتَدَأ) of the sentence. It takes a single Dammah ( ُ ) and drops its tanween because it is the first part of an ownership structure (Mudaf).
+* فَاطِمَةَ (Fāṭimata): "Fatima". This is the second part of the possessive structure (Mudaf Ilayh).
+* Interesting Case Rule: Normally, the second noun in an Idafa must be in the genitive case and end with a Kasrah ( ِ ). However, فَاطِمَة is a female proper name, which makes it a diptote (مَمْنُوع مِنَ الصَّرْف). Diptotes reject a kasrah and instead use a Fathah ( َ ) to show they are in the genitive case!
+* مُعَاوِيَةُ (Muʿāwiyatu): "Mu'awiya". This is the Predicate (الْخَبَر) completing the sentence.
+* Spelling Note: Even though Mu'awiya is a male name, it ends structurally in a Tā’ Marbūṭah (ة). In Arabic grammar, any male name ending in a Tā’ Marbūṭah is also classified as a diptote. Therefore, it takes a single Dammah ( ُ ) and is banned from carrying a tanween.
+
+Would you like to see how to flip this sentence around to say "Mu'awiya is Fatima's husband" to practice changing the word order, or shall we translate another familial relationship?
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
