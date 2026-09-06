@@ -31,12 +31,25 @@ For a male speaker:
 **أَنَا** = I  
 **تَعْبَانُ** = tired (male)
 
-**أَنَا نَعْسَانُ.**  
+
+**أَنَا نَعْسَانُ.**
+
 *Anā naʿsānu.*  
 “I’m sleepy.” — male speaker
 
 **أَنَا** = I  
 **نَعْسَانُ** = sleepy (male)
+
+
+
+**أَنَا جَوْعَانُ وَعَطْشَانُ.**  
+*Anā jawʿānu wa ʿaṭshānu.*  
+“I’m hungry and thirsty.” — male speaker
+
+**أَنَا** = I  
+**جَوْعَانُ** = hungry  
+**وَ** = and  
+**عَطْشَانُ** = thirsty
 
 
 
