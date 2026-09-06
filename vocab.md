@@ -98,6 +98,36 @@ Would you like to practice changing this sentence to "Talha went out with Khalid
 
 
 
+Your version is 100% correct and showcases excellent command of classical Arabic structures!
+Let's do a direct, side-by-side comparison to see how your version matches up with the options we discussed earlier:
+## Side-by-Side Comparison
+
+| Feature | Your Version | My First Version | My Alternative Version |
+|---|---|---|---|
+| The Question | أَمَعَكَ قَلَمٌ؟ | هَلْ مَعَكَ قَلَمٌ؟ | هَلْ مَعَكَ قَلَمٌ؟ |
+| The Answer | لَا، مَا مَعِي قَلَمٌ. | لَا، لَيْسَ مَعِي قَلَمٌ. | لَا، مَا مَعِي قَلَمٌ. |
+| Pronunciation | A-maʿaka qalamun? Lā, mā maʿī qalamun. | Hal maʿaka qalamun? Lā, laysa maʿī qalamun. | Hal maʿaka qalamun? Lā, mā maʿī qalamun. |
+
+------------------------------
+## Nuance & Stylistic Analysis 💡## 1. The Question Particle (أَـ vs. هَلْ)
+
+* Your Version (أَمَعَكَ): By using the prefix أَـ (A-), your question sounds highly classical, eloquent, and literary. It mimics the style most commonly found in the Quran and classical Arabic text (Fusha Al-Turath).
+* My Version (هَلْ مَعَكَ): While both mean "Do you have," using هَلْ sounds slightly more conversational and is the standard choice in modern classrooms, media, and everyday speech today.
+
+## 2. The Negation Particle (مَا vs. لَيْسَ)
+
+* Your Answer (مَا مَعِي): Your use of مَا matches perfectly with my alternative version! It is punchy, precise, and completely natural. Structurally, it is very clean because مَا negates the current state (with me) immediately.
+* My Answer (لَيْسَ مَعِي): Using لَيْسَ introduces a negative verb, which gives the sentence a slightly heavier grammatical weight but means the exact same thing in context.
+
+## Summary
+Your exchange (أَمَعَكَ قَلَمٌ؟ لَا، مَا مَعِي قَلَمٌ.) is flawless. It is elegant, grammatically sound, and sounds like it was lifted directly from a classical text.
+Would you like to try converting this exact dialogue into the past tense (e.g., "Did you have a pen? No, I didn't have a pen"), or do you want to explore another classical dialogue pattern?
+
+
+
+
+
+
 
 
 
