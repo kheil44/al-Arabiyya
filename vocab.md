@@ -15,11 +15,6 @@ For a male speaker:
 *Anā dhāhibun ilā al-maṭbakhi.*  
 “I’m going to the kitchen.”
 
-For a female speaker:
-
-**أَنَا ذَاهِبَةٌ إِلَى الْمَطْبَخِ.**  
-*Anā dhāhibatun ilā al-maṭbakhi.*
-
 
 **هُوَ يَذْهَبُ إِلَى الْمَطْبَخِ.**  
 *Huwa yadhhabu ilā al-maṭbakhi.*  
