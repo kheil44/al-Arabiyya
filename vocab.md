@@ -262,6 +262,53 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+Yes—here is the table with the **Arabic columns bolded**:
+
+| English | Arabic | English | Arabic | English | Arabic |
+|---|---|---|---|---|---|
+| This<br>(this is…) | **هَـٰذَا** | Home | **بَيْتٌ** | Door | **بَابٌ** |
+| Mosque | **مَسْجِدٌ** | Book | **كِتَابٌ** | Key | **مِفْتَاحٌ** |
+| Chair | **كُرْسِىٌّ** | Pen | **قَلَمٌ** | Desk | **مَكْتَبٌ** |
+| Bed | **سَرِيرٌ** | Shirt | **قَمِيصٌ** | Star | **نَجْمٌ** |
+| Doctor | **طَبِيبٌ** | Boy | **وَلَدٌ** | Student | **طَالِبٌ** |
+| Man | **رَجُلٌ** | Merchant | **تَاجِرٌ** | Teacher | **مُدَرِّسٌ** |
+| Handkerchief | **مِنْدِيلٌ** | Dog | **كَلْبٌ** | Cat<br>(masculine) | **قِطٌّ** |
+| Donkey | **حِمَارٌ** | Horse | **حِصَانٌ** | Rooster | **دِيكٌ** |
+| Camel | **جَمَلٌ** | Yes | **نَعَمْ** | No | **لَا** |
+| Milk | **لَبَنٌ** | Sugar | **سُكَّرٌ** | Rock | **حَجَرٌ** |
+| Imam<br>(Muslim Prayer<br>Leader) | **إِمَامٌ** | Sweet | **حُلْوٌ** | Sick | **مَرِيضٌ** |
+| Shop | **الدُّكَّانُ** | Rich | **غَنِيٌّ** | Tall | **طَوِيلٌ** |
+| Poor | **فَقِيرٌ** | Short | **قَصِيرٌ** | Apple | **التُّفَّاحُ** |
+| Cold | **بَارِدٌ** | Hot | **حَارٌّ** | Sitting | **جَالِسٌ** |
+| Standing | **وَاقِفٌ** | New | **جَدِيدٌ** | Old | **قَدِيمٌ** |
+| Near | **قَرِيبٌ** | Far Away | **بَعِيدٌ** | Clean | **نَظِيفٌ** |
+| Dirty | **وَسِخٌ** | Small | **صَغِيرٌ** | Big | **كَبِيرٌ** |
+| Light | **خَفِيفٌ** | Heavy | **ثَقِيلٌ** | Paper | **اَلْوَرَقُ** |
+| Water | **الْمَاءُ** | Beautiful | **جَمِيلٌ** | The university | **الْجَامِعَةُ** |
+| The school | **الْمَدْرَسَةُ** | Japan | **الْيَابَانُ** | China | **الصِّينُ** |
+| India | **الْهِنْدُ** | The director | **الْمُدِيرُ** | The garden | **الْبُسْتَانُ** |
+| The farm | **الْحَقْلُ** | The rock | **الصَّخْرُ** | The lion | **الأَسَدُ** |
+| The classroom | **الْفَصْلُ** | The room | **الْغُرْفَةُ** | The toilet | **الْمِرْحَاضُ** |
+| The washroom | **الْحَمَّامُ** | The watch | **السَّاعَةُ** | The kitchen | **الْمَطْبَخُ** |
+| He went | **ذَهَبَ** | He went out | **خَرَجَ** | On | **عَلَىٰ** |
+| In | **فِي** | From | **مِنْ** | To | **إِلَىٰ** |
+| Is…? | **أَ** | Where | **أَيْنَ** | I | **أَنَا** |
+| What | **مَاذَا** | You<br>(feminine) | **أَنْتِ** | You<br>(masculine) | **أَنْتَ** |
+| She | **هِيَ** | He | **هُوَ** | Verbal<br>sentence | **جُمْلَةٌ فِعْلِيَّةٌ** |
+| Nominal<br>sentence | **جُمْلَةٌ اسْمِيَّةٌ** | Accusative<br>case | **حَالَةُ النَّصْبِ** | Nominative<br>case | **حَالَةُ الرَّفْعِ** |
+| The cases | **الإعْرَابُ** | Genitive<br>case | **حَالَةُ الْجَرِّ** | The bed | **السَّرِيرُ** |
+| Preposition | **حَرْفُ الْجَرِّ** | A doctor | **طَبِيبٌ** | A lady doctor | **طَبِيبَةٌ** |
+| A female<br>engineer | **مُهَنْدِسَةٌ** | An engineer | **مُهَنْدِسٌ** | A lady nurse | **مُمَرِّضَةٌ** |
+| A mother | **أُمٌّ** | The hospital | **الْمُسْتَشْفَىٰ** | Nice | **جَيِّدٌ** |
+| Hard-working | **مُجْتَهِدٌ** | Intelligent | **ذَكِيٌّ** | An apple | **تُفَّاحٌ** |
+| Noble Book | **كِتَابٌ مُقَدَّسٌ** | Drank | **شَرِبَ** | Ate | **أَكَلَ** |
+| The Prophet | **الرَّسُولُ** | The Ka‘bah | **الْكَعْبَةُ** | The name | **الاسْمُ** |
+| The son | **الابْنُ** | The paternal<br>uncle | **الْعَمُّ** | The maternal<br>uncle | **الْخَالُ** |
+| The bag | **الْحَقِيبَةُ** | The car | **السَّيَّارَةُ** | The road | **الشَّارِعُ** |
+| Closed | **مُغْلَقٌ** | Under | **تَحْتَ** | There | **هُنَاكَ** |
+| Above | **فَوْقَ** | In front of | **أَمَامَ** | Behind | **خَلْفَ** |
+| The female<br>teacher | **الْمُدَرِّسَةُ** |  |  |  |  |
+
 
 
 ---
