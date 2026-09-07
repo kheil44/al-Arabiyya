@@ -203,6 +203,11 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 ʾA-dhahabat Bilqīsu ilā al-maṭbakhi?
 “Did Bilqees go to the kitchen?”
 
+**السَّيَّارَةُ عَلَى الطَّرِيقِ**  
+*as-sayyāratu ʿalā aṭ-ṭarīqi*  
+
+= “The car is on the road.”
+
 
 
 
