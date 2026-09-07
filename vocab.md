@@ -171,6 +171,54 @@ Would you like to see how this word changes if you want to say "YOU have a broth
 ---
 📚📚📚
 
+## Sentence: مَاذَا فِي بَيْتِكَ؟
+
+You are completely correct about the case adjustment, but the exact vowel position is slightly different. The kasra caused by the preposition فِي actually belongs on the ت (taw), not the ك (kaf).
+
+Here is the exact visual breakdown of how it works:
+
+### 1. The Root Word: بَيْت (Bayt)
+
+In Arabic, when a preposition like فِي comes before a noun, it forces the last letter of the base word to take a kasra. The base word here is بَيْت (house), so its last letter is ت.
+
+- Therefore, it becomes: بَيْتِـ (bayti-)
+
+### 2. Attaching "Your" (ـكَ or ـكِ)
+
+The pronoun suffix for "your" (كَ/كِ) is just glued onto the end of the already-modified word. The vowel on this pronoun never changes based on prepositions; it only changes based on the gender of the person you are speaking to:
+
+- Talking to a man: بَيْتِكَ (baytika) — The kasra is on the ت, and the fatha is on the ك.
+- Talking to a woman: بَيْتِكِ (baytiki) — The kasra is on the ت, and another kasra is under the ك.
+
+### Summary of the Vowel Stack
+
+If you write it with full diacritics, it looks like this:
+
+- مَاذَا فِي بَيْتِكَ؟ (Addressing a male)
+- مَاذَا فِي بَيْتِكِ؟ (Addressing a female)
+
+So, your instinct that a kasra belongs there is 100% right! It just lands on the ت because that is the end of the actual noun "house," while the ك keeps its gender marker.
+
+Would you like to see how this works with a different noun, like مَكْتَب (office) or سَيَّارَة (car), to see where the kasra lands?
+
+Yes—the kasrah in بَيْتِكَ is because فِي is a preposition. It puts the following noun in the genitive case:
+
+- بَيْتُكَ = your house (subject)
+- بَيْتَكَ = your house (object)
+- بَيْتِكَ = your house (after a preposition)
+
+The final suffix shows the gender of “you”:
+
+- مَاذَا فِي بَيْتِكَ؟ = What is in your house? (speaking to a male)
+- مَاذَا فِي بَيْتِكِ؟ = What is in your house? (speaking to a female)
+
+So both بَيْتِكَ and بَيْتِكِ have بَيْتِ because of فِي; only ـكَ / ـكِ changes according to the person’s gender.
+
+When we say:
+
+**نُحِبُّ دِينَنَا** (We love our religion)
+
+The word نُحِبُّ means "we love", so "love" is the verb and "we" is the subject whereas our religion is the object and therefore it must take the accusative case. Now if we look at this example carefully we see that the word دِينَنَا is basically (دِينَ + نَا), so the word دِينَ take the accusative case, and since it is annexed with a pronoun so it is Muđâf and cannot take tanwīn.
 
 ---
 📚📚📚
