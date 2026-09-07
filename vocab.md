@@ -223,6 +223,47 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+Here is the quick, neat breakdown of the difference between the two terms for a garden:
+
+* حَدِيقَةٌ (Ḥadīqah) — A standard garden or park. This is the everyday word used for a backyard, a lawn, a municipal public park, or a modern residential green space.
+* بُسْتَانٌ (Bustān) — An orchard or grove. This is a more classical, agricultural term that specifically implies a walled or enclosed plot of land filled with fruit-bearing trees, palms, or shrubs.
+
+## Quick Comparison Table
+
+| Word with Tashkil | Pronunciation | Primary Meaning | Best Visualized As |
+|---|---|---|---|
+| حَدِيقَةٌ | Ḥadīqatun | Garden / Park | A modern lawn, backyard, or public park. |
+| بُسْتَانٌ | Bustānun | Orchard / Grove | A lush space full of fruit trees or date palms. |
+
+Would you like to try adding a specific type of fruit tree to your بُسْتَانٌ, such as an apple tree (شَجَرَةُ تُفَّاحٍ) or an olive tree (شَجَرَةُ زَيْتُونٍ)?
+
+
+
+
+
+The pronoun فِيهَا (fīhā) is feminine because it refers back to the room (غُرْفَةٌ), not the window.
+When figuring out which pronoun to use in these situations, you must always look back at the location or container you are describing, rather than the objects inside it.
+Here is the simple rule to keep in mind for these structures:
+## 1. The Container Rules the Pronoun
+The word فِي (fī) means "in". When you attach a pronoun to it (ـهِ or ـهَا), you are literally saying "in it." Therefore, "it" must match the gender of the place you are talking about.
+
+* If the place is masculine (like بَيْت / house), you always use فِيهِ (fīhi).
+* If the place is feminine (like غُرْفَة / room), you always use فِيهَا (fīhā).
+
+## 2. The Objects Inside Stand Alone
+The object inside the room (نَافِذَةٌ كَبِيرَةٌ / a big window) only controls the adjectives attached to itself. It has no grammatical power over the preposition starting the sentence.
+## Quick Contrast Examples
+
+| Question | Answer with Tashkil | Why? |
+|---|---|---|
+| مَاذَا فِي بَيْتِكَ؟ (What is in your house?) | فِيهِ سَرِيرٌ صَغِيرٌ (In it is a small bed) | فِيهِ is masculine because بَيْت is masculine. |
+| مَاذَا فِي بَيْتِكَ؟ (What is in your house?) | فِيهِ نَافِذَةٌ كَبِيرَةٌ (In it is a big window) | فِيهِ stays masculine because it still refers to بَيْت, even though نَافِذَة is feminine. |
+| مَاذَا فِي غُرْفَتِكَ؟ (What is in your room?) | فِيهَا سَرِيرٌ صَغِيرٌ (In it is a small bed) | فِيهَا stays feminine because it refers to غُرْفَة, even though سَرِير is masculine. |
+
+Would you like to try testing this rule with another item? Tell me how you would answer the question "What is in your car?" (مَاذَا فِي سَيَّارَتِكَ؟) to say "In it is a book." (The word for car, سَيَّارَةٌ, is feminine, and the word for book, كِتَابٌ, is masculine).
+
+
+
 
 
 ---
