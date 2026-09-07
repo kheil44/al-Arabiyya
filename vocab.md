@@ -166,7 +166,7 @@ Would you like to see how this word changes if you want to say "YOU have a broth
 السَّيَّارَةُ عَلَى الطَّرِيقِ = The car is on the road.
 
 
-
+تُحِبُّ فَاطِمَةُ الْقِرَاءَةَ.
 
 ---
 📚📚📚
