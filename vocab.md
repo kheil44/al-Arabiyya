@@ -157,6 +157,9 @@ As we discussed earlier, Arabic doesn't have a direct verb for "to have". Instea
 ------------------------------
 Would you like to see how this word changes if you want to say "YOU have a brother" or "HE has a brother" to see how the pronoun suffixes swap out? Let me know which family phrasing we should tackle next!
 
+السَّيَّارَةُ عَلَى الشَّارِعِ = The car is on the street.
+السَّيَّارَةُ عَلَى الطَّرِيقِ = The car is on the road.
+
 
 
 
