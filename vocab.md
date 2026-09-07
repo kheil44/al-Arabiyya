@@ -232,7 +232,6 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
 ---
-
 📚📚📚
 
 Here is the quick, neat breakdown of the difference between the two terms for a garden:
@@ -250,6 +249,8 @@ Here is the quick, neat breakdown of the difference between the two terms for a 
 Would you like to try adding a specific type of fruit tree to your بُسْتَانٌ, such as an apple tree (شَجَرَةُ تُفَّاحٍ) or an olive tree (شَجَرَةُ زَيْتُونٍ)?
 
 
+---
+📚📚📚
 
 
 
@@ -275,6 +276,8 @@ The object inside the room (نَافِذَةٌ كَبِيرَةٌ / a big window
 Would you like to try testing this rule with another item? Tell me how you would answer the question "What is in your car?" (مَاذَا فِي سَيَّارَتِكَ؟) to say "In it is a book." (The word for car, سَيَّارَةٌ, is feminine, and the word for book, كِتَابٌ, is masculine).
 
 
+---
+📚📚📚
 
 
 In Arabic, you cannot use the bare word كِتَابَةَ (kitābata) on its own in this sentence because it would leave the meaning incomplete and grammatically broken.
