@@ -69,7 +69,9 @@ For a male speaker:
 
 تُحِبُّ فَاطِمَةُ الْقِرَاءَةَ
 
-
+- **Here** = **هُنَا** (*hunā*)
+- **There** = **هُنَاكَ** (*hunāka*)
+- 
 
 
 
@@ -268,6 +270,12 @@ When we say:
 **نُحِبُّ دِينَنَا** (We love our religion)
 
 The word نُحِبُّ means "we love", so "love" is the verb and "we" is the subject whereas our religion is the object and therefore it must take the accusative case. Now if we look at this example carefully we see that the word دِينَنَا is basically (دِينَ + نَا), so the word دِينَ take the accusative case, and since it is annexed with a pronoun so it is Muđâf and cannot take tanwīn.
+
+### _more examples_
+
+نُحِبُّ بَيْتَنَا
+أُحِبُّ قَلَمَكَ
+
 
 ---
 📚📚📚
