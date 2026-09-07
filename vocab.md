@@ -231,6 +231,9 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
+---
+📚📚📚
+
 Here is the quick, neat breakdown of the difference between the two terms for a garden:
 
 * حَدِيقَةٌ (Ḥadīqah) — A standard garden or park. This is the everyday word used for a backyard, a lawn, a municipal public park, or a modern residential green space.
