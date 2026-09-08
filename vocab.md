@@ -384,6 +384,38 @@ Would you like to see how this word changes if you want to say "YOU have a broth
 ---
 📚📚📚
 
+There are three grammatical cases present in the sentence تُحِبُّ أَيَّ لُغَةٍ؟ (Tuhibbu ayya lughatin?).
+In Arabic, nouns, pronouns, and present-tense verbs all experience case endings. Here is the breakdown of the three cases used in your sentence, moving from left to right:
+## 1. Nominative Case (Marfoo' / مَرْفُوع)
+
+* The Word: تُحِبُّ (Tuhibbu - You like)
+* The Reason: This is a present-tense verb (Fi'l Mudari'). Because it is not preceded by any tools that change its state (like particles that make it subjunctive or jussive), its default state is nominative.
+* The Sign: It ends with a Dhamma ( ُ ).
+
+## 2. Accusative Case (Mansoub / مَنْصُوب)
+
+* The Word: أَيَّ (Ayya - Which)
+* The Reason: As we discussed, this is the direct object (Maf'ul Bihi) of the verb. Even though you flipped the word order here, it is still the thing receiving the action of "liking."
+* The Sign: It ends with a Fatha ( َ ).
+
+## 3. Genitive Case (Majroor / مَجْرُور)
+
+* The Word: لُغَةٍ (Lughatin - Language)
+* The Reason: This word is part of an IDHAFA (possessive/annexation) structure with the word before it. أَيّ always requires the noun following it to be the "possessed" noun (Mudhaf Ilayh). A Mudhaf Ilayh is always genitive.
+* The Sign: It ends with a Kasratayn (双-kasra / ٍ ) because the word is indefinite.
+
+------------------------------
+## Summary Table
+
+| Word | Grammatical Role | Case State | Visible Sign |
+|---|---|---|---|
+| تُحِبُّ | Present Tense Verb | Nominative (Marfoo') | Dhamma ( ُ ) |
+| أَيَّ | Direct Object | Accusative (Mansoub) | Fatha ( َ ) |
+| لُغَةٍ | Annexed Noun (Mudhaf Ilayh) | Genitive (Majroor) | Kasratayn ( ٍ ) |
+
+Would you like to explore how the cases change if we rewrite the sentence to mean "Which language is beautiful?", or should we look at how subject pronouns (like Anta) impact these cases?
+
+
 
 ---
 📚📚📚
