@@ -2,7 +2,8 @@
 
 ---
 
-# 🌹 📚📚📚  🕋🕋  ⭐⭐⭐ 🌿🌿
+### 🌹 📚📚📚  🕋🕋  ⭐⭐⭐ 🌿🌿  ⬆️ ⬇️ ⬅️ ➡️ ↗️ ↘️ ↙️ ↖️ ⤴️ ⤵️ 🔝 🔜 🔙 🔚 ☝️ 👇 👈 👉 ⏩ ⏪ ⏫ ⏬ 🔀 🔁 🔂 
+### → ← ↑ ↓ ↔ ↕ ↗ ↘ ↙ ↖ ⇒ ⇐ ⇑ ⇓ ⇔ ➜ ➝ ➞ ➡ ⟶ ⟵ ⟷ ⟹ ⟸
 
 
 ---
@@ -432,7 +433,7 @@ Because this is a simple descriptive sentence (a nominal sentence or Jumla Ismiy
 Would you like to see how to say "We are Muslims" in Arabic, or are you interested in looking at how possessive pronouns like "-nā" (our) attach to other vocabulary words?
 
 
--->
+⏩⏩⏩
 
 It is in the nominative case (Marfoo'), and you are completely right that a nominative word must have a Dhamma!
 The confusion comes from a tiny trick of Arabic script: you might be looking at the Fatha on the wrong letter.
@@ -453,7 +454,7 @@ If you want, we can practice with a few more examples. Would you like to see how
 
 We can look at where the Dhamma goes when we attach "our" to them!
 
--->
+⏩⏩⏩
 
 Yes, الإِسْلَامُ is definitely in the Nominative case (Marfoo')!
 In Arabic grammar, both parts of a basic descriptive sentence (the subject and the predicate) are always nominative by default.
@@ -472,7 +473,7 @@ If you want to test your skills, let me know if you would like to:
 * See how adding a word like "Indeed" (إِنَّ) or "Was" (كَانَ) forces these cases to change.
 
 
--->
+⏩⏩⏩
 
 It can definitely feel like it should be an object because, in English, the word "Islam" comes after the word "is."
 However, in Arabic grammar, it is not an object. This is because an "object" (Maf'ul Bihi / مَفْعُول بِه) can only exist if there is a verb performing an action on it (like hitting a ball or reading a book).
