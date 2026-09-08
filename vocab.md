@@ -420,6 +420,87 @@ Would you like to explore how the cases change if we rewrite the sentence to mea
 ---
 📚📚📚
 
+To say "Our religion is Islam" in Arabic, you say:
+دِينُنَا الإِسْلَامُ (Dīnunā al-Islām)
+Here is the quick breakdown of how this short sentence is built:
+
+* دِينُ (Dīnu): Meaning "religion." It is in the Nominative case (Marfoo') with a Dhamma ( ُ ) because it is the subject (Mubtada) starting the sentence.
+* نَا (-nā): A possessive pronoun attached to the end of the word meaning "our." (So, Dīnu + nā = Our religion).
+* الإِسْلَامُ (Al-Islāmu): Meaning "Islam." It also takes a Dhamma ( ُ ) because it serves as the predicate (Khabar) that completes the meaning of the sentence.
+
+Because this is a simple descriptive sentence (a nominal sentence or Jumla Ismiyyah), there is no need for a verb like "is" in Arabic. The two pieces sit side-by-side to make a complete statement.
+Would you like to see how to say "We are Muslims" in Arabic, or are you interested in looking at how possessive pronouns like "-nā" (our) attach to other vocabulary words?
+
+
+-->
+
+It is in the nominative case (Marfoo'), and you are completely right that a nominative word must have a Dhamma!
+The confusion comes from a tiny trick of Arabic script: you might be looking at the Fatha on the wrong letter.
+Let's look really closely at how the word is spelled and split up:
+## دِ ي نُ نَ ا
+If we put the vowels on, it looks like this: دِينُنَا
+
+   1. دِينُ (Dīnu): This is the main noun ("religion"). The very last letter of this word is the ن (Noon). Look closely at that first Noon—it has a Dhamma ( ُ ) on top of it: نُ. That Dhamma is your proof that the word is nominative!
+   2. نَا (-nā): This is the attached pronoun ("our"). The pronoun itself consists of a second Noon (ن) and an Alif (ا). To pronounce the pronoun correctly, that second Noon must have a Fatha ( َ ) on it: نَ.
+
+## Summary
+The Fatha you see is not changing the case of the noun. The noun دِينُ is perfectly nominative because of the Dhamma on its own final letter. The Fatha belongs entirely to the pronoun attached to the back of it.
+Does seeing how the word is split into دِينُ (Noun + Dhamma) and نَا (Pronoun + Fatha) clear up where that vowel is coming from?
+If you want, we can practice with a few more examples. Would you like to see how to say:
+
+* "Our book"
+* "Our school"
+
+We can look at where the Dhamma goes when we attach "our" to them!
+
+-->
+
+Yes, الإِسْلَامُ is definitely in the Nominative case (Marfoo')!
+In Arabic grammar, both parts of a basic descriptive sentence (the subject and the predicate) are always nominative by default.
+Here is why both words have a Dhamma in this sentence:
+
+* دِينُنَا (Dīnunā / Our religion) is the Subject (Mubtada). The Subject must be Nominative, so it gets a Dhamma on the noun: دِينُ.
+* الإِسْلَامُ (Al-Islāmu / Islam) is the Predicate (Khabar). The Predicate must also be Nominative, so it gets a Dhamma on the final letter: مُ.
+
+## The Rule to Remember
+Whenever you have a simple "A is B" sentence in Arabic with no verbs (like "The house is big" or "The teacher is smart"), both A and B will take the Nominative case (Dhamma).
+So, in the sentence دِينُنَا الإِسْلَامُ, you have two nominative words sitting right next to each other because one is the subject and the other is the predicate.
+Does it make sense how a sentence can have more than one nominative word at the same time?
+If you want to test your skills, let me know if you would like to:
+
+* Look at a new sentence to see if you can spot the Subject and Predicate.
+* See how adding a word like "Indeed" (إِنَّ) or "Was" (كَانَ) forces these cases to change.
+
+
+-->
+
+It can definitely feel like it should be an object because, in English, the word "Islam" comes after the word "is."
+However, in Arabic grammar, it is not an object. This is because an "object" (Maf'ul Bihi / مَفْعُول بِه) can only exist if there is a verb performing an action on it (like hitting a ball or reading a book).
+Since there is no verb in دِينُنَا الإِسْلَامُ (Our religion is Islam), we aren't dealing with a subject and an object. Instead, we are dealing with a Subject and a Predicate.
+## Subject vs. Predicate (The "Equating" Rule)
+Think of a nominal sentence in Arabic like a math equation: A = B.
+
+* A is the Subject (Mubtada): The thing you are talking about (دِينُنَا / Our religion).
+* B is the Predicate (Khabar): The information you are giving about that subject (الإِسْلَامُ / Islam).
+
+Because you are simply equating them (Our religion equals Islam), Arabic treats them as equal grammatical partners. Since they are partners, they both stay in the Nominative case (Dhamma).
+## Direct Comparison: Verb vs. No Verb
+To see the difference clearly, look at how the case changes when an actual verb enters the equation:
+
+| Sentence Structure | Arabic | Case of "Islam" | Why? |
+|---|---|---|---|
+| No Verb (A = B) | دِينُنَا الإِسْلَامُ | Nominative (Al-Islāmu ُ ) | It is a Predicate. It just renames the subject. |
+| With a Verb (Action) | نُحِبُّ الإِسْلَامَ (We love Islam) | Accusative (Al-Islāma َ ) | It is a Direct Object. It receives the action of "loving." |
+
+Does seeing the difference between an equation (Predicate) and an action (Object) help clarify why الإِسْلَامُ keeps its Dhamma here?
+If you like, we can:
+
+* Try a different "A = B" sentence to practice identifying the Predicate.
+* Look at how the sentence changes if we add the past-tense verb "was" (كَانَ).
+
+Which one would you like to explore next?
+
+
 
 ---
 📚📚📚
