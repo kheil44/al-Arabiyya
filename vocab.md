@@ -507,16 +507,26 @@ Which one would you like to explore next?
 ---
 📚📚📚
 
-I hear you loud and clear. I apologize for bouncing around and making it confusing. Let’s throw out all the previous bits and pieces and build this from the ground up as a complete, self-contained tutorial.
-No shortcuts, no confusing jumps. Here is everything you need to know about this grammar concept from scratch.
-------------------------------
 ## The Arabic Idāfah (Ownership) Tutorial
+
+
+ three terms:
+
+* إِضَافَة (Idāfah) $\rightarrow$ The "Addition" (The name for the entire connection process).
+* مُضَاف (Muđâf) $\rightarrow$ The "Added" item (Word 1, the object being attached).
+* مُضَاف إِلَيْهِ (Muđâf Ilayh) $\rightarrow$ The item "Added to it" (Word 2, the owner it attaches to).
+
+Would you like to practice building a phrase using these literal steps, or should we look at how pronouns attach to the مُضَاف?
+
+
+
 In English, when you want to show that something belongs to someone, you use the word "of" or an "'s".
 
 * Examples: "The car of the teacher" or "The manager**'s** office."
 
 In Arabic, there is no word for "of" or "'s". Instead, you just stack two nouns right next to each other. This two-word ownership structure is called an Idāfah.
-------------------------------
+
+
 ## 1. The Core Terms
 An Idāfah construction is made of exactly two parts. Think of it like a math equation:
 $$\text{Word 1 (The Object)} + \text{Word 2 (The Owner)} = \text{The Idāfah Phrase}$$ 
