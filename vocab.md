@@ -13,6 +13,9 @@
 
 ---
 
+[Go to Grammar](#grammar)
+
+
 
 # 🕌 **3. Quick Comparison Table**
 
@@ -986,6 +989,9 @@ Would you like to try a quick challenge where you create your own subject and pr
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+## Grammar
+
+
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 ## The Arabic Nā’ibu al-Fā‘il (The Pro-Agent) Tutorial
@@ -1053,6 +1059,42 @@ Translation: "The book was read."
 | Passive Voice | Mutated (قُتِلَ) | Substitute Subject (نَائِبُ فِاعِل) | 🔒 Damma (-u) | قُتِلَتْ الأَفْعَى (The snake was killed) |
 
 Would you like to try transforming another sentence you know into the passive voice to test out your Nā’ibu al-Fā‘il skills, or should we look at how a present-tense verb changes its vowels when it becomes passive?
+
+📗 📘 📙
+
+The sentence سُرِقَتِ الْحَقِيبَةُ (Suriqati al-ḥaqībatu – "The bag was stolen") is a perfect, flawless example of a sentence centered around a نَائِبُ الْفَاعِلِ (Substitute Subject)!
+Let's dissect it step-by-step to see exactly how all the rules we just discussed are working here.
+------------------------------
+## 1. The Structure Breakdown
+
+* سُرِقَتْ (Suriqat / Was stolen) $\rightarrow$ This is a Passive Verb (فِعْل مَبْنِيّ لِلْمَجْهُول).
+* Why it looks like this: The original active verb was سَرَقَ (Saraqa – He stole). To make it passive, a damma was placed on the first letter and a kasra under the second letter, turning it into سُرِقَ (Suriqa – Was stolen).
+   * The "T" sound (تْ): A quiet, open Ta with a sukun (تْ) was glued to the end because the object that was stolen is feminine.
+* الْحَقِيبَةُ (Al-ḥaqībatu / The bag) $\rightarrow$ This is the نَائِبُ الْفَاعِلِ (The Substitute Subject).
+* Why: We have no idea who the thief is. The doer (the thief) is completely absent from the sentence. Therefore, the bag—which was originally the direct object—gets promoted to the "Deputy" seat.
+   * The Vowel Rule: Because it is now the Nā’ibu al-Fā‘il, it must legally take the Nominative case (مَرْفُوع). This is why it ends in a single, clear ḍamma (-u) sound.
+
+------------------------------
+## 2. A Hidden Pronunciation Trick: Why is there a Kasra under the ت ?
+You might have noticed that I typed سُرِقَتِ (with a kasra under the Ta) instead of سُرِقَتْ (with a silent sukun).
+In Arabic, it is phonetically illegal for two silent letters (sukuns) to sit directly next to each other across two words.
+
+* The تْ at the end of the verb is silent.
+* The لْ at the start of الْحَقِيبَةُ is also silent.
+
+To stop your tongue from tripping over those two silences, Arabic grammar applies an automatic phonetic rule: The first silence breaks and transforms into a quick Kasra ("-i") sound just to slide smoothly into the next word.
+So when spoken out loud, it sounds like: "Suriqatil-ḥaqībatu."
+------------------------------
+## Summary Checklist
+
+| Word | Grammatical Identity | Grammatical Case | Vowel Ending |
+|---|---|---|---|
+| سُرِقَتِ | Passive Verb (Feminine) | None (Verb form) | Kasra (just to link pronunciation) |
+| الْحَقِيبَةُ | نَائِبُ الْفَاعِلِ (The Deputy) | Nominative (مَرْفُوع) | 🔒 Ḍamma (-u) |
+
+Would you like to try transforming this passive sentence back into an active sentence by creating a thief (like "The thief stole the bag") to see how the vowels flip, or is there another grammar term you want to tackle next?
+
+
 
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
