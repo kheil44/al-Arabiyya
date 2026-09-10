@@ -2,6 +2,15 @@
 
 ---
 
+[Go to Grammar](#tutorials)
+[Go to Vocabulary](#vocabulary)
+
+ 
+---
+
+
+---
+
 ### 🌹 📚📚📚  🕋🕋  ⭐⭐⭐ 🌿🌿  ⬆️ ⬇️ ⬅️ ➡️ ↗️ ↘️ ↙️ ↖️ ⤴️ ⤵️ 🔝 🔜 🔙 🔚 ☝️ 👇 👈 👉 ⏩ ⏪ ⏫ ⏬ 🔀 🔁 🔂 
 ### → ← ↑ ↓ ↔ ↕ ↗ ↘ ↙ ↖ ⇒ ⇐ ⇑ ⇓ ⇔ ➜ ➝ ➞ ➡ ⟶ ⟵ ⟷ ⟹ ⟸  💡 🔆 🔅 🔴 🟠 🟡 🟢 🔵 🟣 🩷 🟦 🟪 🟩 🟨 🟧 🟥 
 ### 📖 📚 📕 📗 📘 📙 📔 📓 📒 📝 ✍️ 🔖 📑 📄 🗒️ 📰 🧾 👓 🔍 💡 🧠 🏫 🎓 🖊️ ✏️ 🪶 📜 🗃️ 🗂️ 🔤 🔠 🔡 🕮 📃 🧑‍🏫 👩‍🏫 👨‍🏫 🤓 👀 ☕ 🕯️ 🛋️ 🪑 ⏳ ✅ 📚✨
@@ -13,7 +22,9 @@
 
 ---
 
-[Go to Grammar](#grammar)
+
+---
+
 
 
 
@@ -989,7 +1000,7 @@ Would you like to try a quick challenge where you create your own subject and pr
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
-## Grammar
+## Tutorials
 
 
 ---
@@ -1205,6 +1216,9 @@ Would you like to try transforming this passive sentence back into an active sen
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
+
+
+## Vocabulary
 
 
 ---
