@@ -172,6 +172,7 @@ The man killed the snake.
 قَتَلَ الرَّجُلَ الثُّعْبَانُ.
 The snake killed the man.
 
+**for next couple of sentences** https://madinaharabic.com/free-content/grammar/lesson-25/part-4
 
 Here is the quick, side-by-side comparison of both words to keep them completely distinct:
 
@@ -193,7 +194,17 @@ Examples:
 - **آهْ! هَذَا صَحِيحٌ.** = Oh! That’s correct.
 - **آهْ، يَدِي تُؤْلِمُنِي.** = Ah, my hand hurts.
 - 
+**مَهْ** means **“Stop!”**, **“Enough!”**, or **“Desist!”**
 
+It is used to tell someone to stop doing or saying something.
+
+- **مَهْ!** = Stop! / Enough!
+- **مَهْ عَنِ الْكَلَامِ!** = Stop talking!
+
+Compare:
+
+- **صَهْ!** = Hush! / Be quiet!
+- **مَهْ!** = Stop! / Enough!
 
 
 
