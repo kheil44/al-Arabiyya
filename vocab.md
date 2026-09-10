@@ -183,6 +183,16 @@ Here is the quick, side-by-side comparison of both words to keep them completely
 Would you like to try another pair of tricky Arabic words that sound similar, or are you ready to continue with the next rule from your grammar lesson?
 
 
+**آهْ** means **“Ah!”**, **“Oh!”**, or **“I see.”**
+
+It is an expression used to show realization, surprise, pain, or understanding.
+
+Examples:
+
+- **آهْ، فَهِمْتُ.** = Ah, I understand.
+- **آهْ! هَذَا صَحِيحٌ.** = Oh! That’s correct.
+- **آهْ، يَدِي تُؤْلِمُنِي.** = Ah, my hand hurts.
+- 
 
 
 
