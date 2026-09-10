@@ -109,6 +109,8 @@ For a male speaker:
 ---
 ### 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
+#### ➡ 
+
 For “I was at school,” standard Arabic uses:
 
 **كُنْتُ فِي الْمَدْرَسَةِ.**
