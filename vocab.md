@@ -206,6 +206,42 @@ Compare:
 - **صَهْ!** = Hush! / Be quiet!
 - **مَهْ!** = Stop! / Enough!
 
+**مَهْ عَنْ إِطْلَاقِ الشَّائِعَاتِ الْخَبِيثَةِ!**
+
+**“Stop spreading malicious rumors!”**
+
+- **مَهْ** = stop / enough
+- **عَنْ** = from
+- **إِطْلَاقِ** = spreading / launching
+- **الشَّائِعَاتِ** = the rumors
+- **الْخَبِيثَةِ** = malicious / nasty
+
+A more common modern expression is:
+
+**مَهْ عَنْ نَشْرِ الشَّائِعَاتِ الْخَبِيثَةِ!**  
+**“Stop spreading malicious rumors!”**
+
+Here **نَشْرِ** literally means **“spreading.”**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
