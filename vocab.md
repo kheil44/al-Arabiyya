@@ -2,7 +2,7 @@
 
 ---
 
-[Go to Grammar](#tutorials)
+[Go to Tutorials](#tutorials)
 
 [Go to Vocabulary](#vocabulary)
 
