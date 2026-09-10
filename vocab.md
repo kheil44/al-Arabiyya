@@ -129,6 +129,17 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 **That is my mother. I like her.**  
 **تِلْكَ أُمِّي، أَنَا أُحِبُّهَا.**
 
+https://madinaharabic.com/free-content/grammar/lesson-25/part-1
+
+ذَلِكَ صَحِيحٌ.
+That’s right.
+
+أَعْلَمُ ذَلِكَ.
+I know that.
+
+أَشُكُّ فِي ذَلِكَ.
+I doubt about that.
+
 
 
 
