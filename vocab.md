@@ -173,6 +173,16 @@ The man killed the snake.
 The snake killed the man.
 
 
+Here is the quick, side-by-side comparison of both words to keep them completely distinct:
+
+* صَحّ (Ṣaḥḥ) $\rightarrow$ Means "Correct" or "True"; ends with a sharp throat-squeeze sound (ح).
+* Example: هَذَا الْكِتَابُ جَدِيدٌ، صَحّ؟ (Hādhā al-kitābu jadīdun, ṣaḥḥ? – This book is new, right?)
+* صَهْ (Ṣah) $\rightarrow$ Means "Be quiet!" or "Hush!"; ends with a soft chest-exhale sound (هـ).
+* Example: صَهْ! الْمُدَرِّسُ يَشْرَحُ الدَّرْسَ (Ṣah! Al-mudarrisu yashraḥu ad-darsa. – Shush! The teacher is explaining the lesson.)
+
+Would you like to try another pair of tricky Arabic words that sound similar, or are you ready to continue with the next rule from your grammar lesson?
+
+
 
 
 
