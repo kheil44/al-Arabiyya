@@ -868,6 +868,30 @@ If you want, let me know if you would like to:
 🟢 🟢 🟢 🟢 
 
 
+The sentence الْحَجَرُ ثَقِيلٌ (Al-ḥajaru thaqīlun – "The stone is heavy") follows the exact same logical pattern as the cat sentence!
+Let's break it down using our "Star of the Show" versus "The News" rule:
+## 1. The Structural Breakdown
+
+* الْحَجَرُ (Al-ḥajaru / The stone) → This is the مُبْتَدَأ (Subject).
+* Why: The stone is the "Star of the Show." It is the solid noun we are pointing at and talking about.
+   * The Vowel: It is in the nominative case (مَرْفُوع), which is why it ends in a single ḍamma (-u) sound. It uses a single vowel because it has الْـ ("Al-").
+* ثَقِيلٌ (Thaqīlun / heavy) → This is the خَبَر (Predicate).
+* Why: This is the "News" about the stone. It answers the question: "What about the stone?" It tells us its description—it is heavy.
+   * The Vowel: It is also in the nominative case (مَرْفُوع). Because it does not have Al-, it takes a full ḍamma tanween (ـٌ) ending (-un).
+
+------------------------------
+## 2. Side-by-Side Blueprint
+See how both sentences are mathematically identical in grammar:
+
+| Sentence | Word 1: Subject (مُبْتَدَأ) | Word 2: Predicate (خَبَر) | Meaning |
+|---|---|---|---|
+| Sentence A | الْقِطُّ (Al-qiṭṭu) | جَمِيلٌ (jamīlun) | The cat [is] beautiful. |
+| Sentence B | الْحَجَرُ (Al-ḥajaru) | ثَقِيلٌ (thaqīlun) | The stone [is] heavy. |
+
+In both cases, Word 1 is the physical object (the Subject) and Word 2 is the quality describing it (the Predicate).
+Would you like to try a quick challenge where you create your own subject and predicate sentence, or do you want to see how this changes if we talk about two heavy stones (Dual form)?
+
+
 
 🟢 🟢 🟢 🟢 
 
