@@ -6,6 +6,9 @@
 
 [Go to Vocabulary](#vocabulary)
 
+[Go to SimpleSentences](#SimpleSentences)
+
+
  
 ---
 
@@ -100,6 +103,8 @@ For a male speaker:
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
+
+## SimpleSentences
 
 ---
 ### 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
