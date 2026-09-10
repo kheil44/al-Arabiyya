@@ -140,9 +140,9 @@ I know that.
 أَشُكُّ فِي ذَلِكَ.
 I doubt about that.
 
-قَتَلَ الرَّجُلُ الثُّعْبَانَ.
 https://madinaharabic.com/free-content/grammar/lesson-25/part-2
 
+قَتَلَ الرَّجُلُ الثُّعْبَانَ.
 The man killed the snake.
 
 قَتَلَ الرَّجُلَ الثُّعْبَانُ.
