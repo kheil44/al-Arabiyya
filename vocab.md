@@ -150,7 +150,9 @@ Hal dhahabat Bilqīsu ilā al-maṭbakhi?
 **That is my father. I like him.**  
 **ذَلِكَ أَبِي، أَنَا أُحِبُّهُ.**
 
-*Madinah Arabic lesson image*
+
+#### ➡ ➡ ➡ ➡
+
 
 **That is my mother. I like her.**  
 **تِلْكَ أُمِّي، أَنَا أُحِبُّهَا.**
