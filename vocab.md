@@ -4,6 +4,10 @@
 
 ### 🌹 📚📚📚  🕋🕋  ⭐⭐⭐ 🌿🌿  ⬆️ ⬇️ ⬅️ ➡️ ↗️ ↘️ ↙️ ↖️ ⤴️ ⤵️ 🔝 🔜 🔙 🔚 ☝️ 👇 👈 👉 ⏩ ⏪ ⏫ ⏬ 🔀 🔁 🔂 
 ### → ← ↑ ↓ ↔ ↕ ↗ ↘ ↙ ↖ ⇒ ⇐ ⇑ ⇓ ⇔ ➜ ➝ ➞ ➡ ⟶ ⟵ ⟷ ⟹ ⟸  💡 🔆 🔅 🔴 🟠 🟡 🟢 🔵 🟣 🩷 🟦 🟪 🟩 🟨 🟧 🟥 
+### 📖 📚 📕 📗 📘 📙 📔 📓 📒 📝 ✍️ 🔖 📑 📄 🗒️ 📰 🧾 👓 🔍 💡 🧠 🏫 🎓 🖊️ ✏️ 🪶 📜 🗃️ 🗂️ 🔤 🔠 🔡 🕮 📃 🧑‍🏫 👩‍🏫 👨‍🏫 🤓 👀 ☕ 🕯️ 🛋️ 🪑 ⏳ ✅ 📚✨
+### ✍️ 🖊️ 🖋️ ✏️ 📝 📄 📃 📜 📒 📓 📔 📕 🗒️ 🖍️ 🖌️ 🪶 ⌨️ 💻 🖥️ 🗂️ 📋 🔤 🔠 💡 🧠 🧾 🖊️✨ ✍️📖 📝✅
+### ❗ ❕ ⚠️ 🚨 🔔 📢 📣 ‼️ ⁉️ ⭐ 🌟 ✨ 💡 🔑 🗝️ 🛑 ⛔ 🚩 ✅ ☑️ 📌 📍 🔴 🟠 🟡 🟢 🔵 🟣 💯 👀 🧠 🏆 🥇 🔥 💥 ❗✨
+### 🔬 🧪 🧬 ⚛️ 🧫 🦠 🔭 🪐 🌌 🧠 🩺 🩻 🧬 🧮 📐 📏 📊 📈 💻 🖥️ 🤖 ⚙️ 🛠️ 💡 🌡️ 🧯 🧲 🔋 🛰️ 🚀 🧑‍🔬 👩‍🔬 👨‍🔬 🧠✨ 🔬📚
 
 ↖
 
@@ -981,6 +985,76 @@ Would you like to try a quick challenge where you create your own subject and pr
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
+
+## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 
+
+## The Arabic Nā’ibu al-Fā‘il (The Pro-Agent) Tutorial
+In English, when you change a sentence from active voice to passive voice, you shift the focus from who did the action to the thing that received the action.
+
+* Active: "The chef cooked the food." (Focus is on the chef).
+* Passive: "The food was cooked." (The chef completely disappears).
+
+In Arabic, when the main doer (the subject) disappears from a sentence, the direct object steps up to fill the empty seat. This new substitute subject is called the نَائِبُ الْفَاعِلِ (Nā’ibu al-Fā‘il).
+------------------------------
+## 1. The Literal and Grammatical Meaning
+Let's look at the term itself using our Idāfah rules:
+
+* نَائِبُ (Nā’ibu) $\rightarrow$ The Muđâf: It literally means "deputy," "substitute," or "vice-president."
+* الْفَاعِلِ (Al-Fā‘ili) $\rightarrow$ The Muđâf Ilayh: It means "the doer" or "the active subject."
+
+When you put them together, نَائِبُ الْفَاعِلِ literally means "The Deputy of the Doer" or "The Substitute Subject." It is known in English grammar as the passive subject.
+------------------------------
+## 2. How is a Nā’ibu al-Fā‘il Born? (Step-by-Step)
+A Nā’ibu al-Fā‘il can only exist if the verb is flipped into the passive voice (فِعْل مَبْنِيّ لِلْمَجْهُول).
+Let's watch this transformation happen step-by-step using a basic sentence:
+## Step A: Start with the Active Sentence (The Regular Doer)
+
+قَرَأَ زَيْدٌ الكِتَابَ (Qara’a Zaydun al-kitāba)
+Translation: "Zayd read the book."
+
+
+* قَرَأَ = Active Verb
+* زَيْدٌ = The فَاعِل (The Doer). It is Marfū‘ with a Damma.
+* الكِتَابَ = The مَفْعُول بِهِ (Direct Object). It is Manṣūb with a Fatha.
+
+## Step B: Delete the Doer
+Imagine Zayd wants to remain anonymous, or we just don't care who read it. We completely delete زَيْدٌ from the sentence.
+## Step C: Change the Verb to Passive
+We must mutate the verb قَرَأَ (Qara'a) so it sounds passive ("was read").
+
+* The passive formula for past-tense verbs: Put a Damma on the first letter and a Kasra on the second-to-last letter.
+* قَرَأَ (Qara'a) turns into قُرِئَ (Quri'a – "was read").
+
+## Step D: The Object Promotes to "Deputy"
+Now, the direct object الكِتَابَ (Al-kitāba) steps up to fill the empty doer seat. Because it is now the نَائِبُ الْفَاعِلِ, it must legally steal the grammatical rank and vowel of the original doer.
+
+* The Fatha (-a) at the end of الكِتَابَ instantly flips into a Damma (-u)!
+* It becomes الكِتَابُ (Al-kitābu).
+
+## The Final Result:
+
+قُرِئَ الكِتَابُ (Quri'a al-kitābu)
+Translation: "The book was read."
+
+------------------------------
+## 3. The Strict Rules for the Nā’ibu al-Fā‘il
+
+   1. It must ALWAYS be Nominative (مَرْفُوع): Even though it is physically receiving the action, it is treated like the ruler of the sentence. Its default ending sign is a Damma ("-u").
+   2. It only appears after a Passive Verb: If you see a regular active verb, you can never have a Nā’ibu al-Fā‘il.
+   3. The Verb must match its gender: If the object promoting to deputy is feminine, you must add a feminine marker (ت) to the verb.
+   * Example: كُتِبَتْ الرِّسَالَةُ (Kutibat ar-risālatu – "The letter [feminine] was written").
+   
+------------------------------
+## Quick Summary Blueprint
+
+| Sentence Type | The Verb Style | The Target Noun Role | Vowel Ending | Example |
+|---|---|---|---|---|
+| Active Voice | Regular (قَتَلَ) | Direct Object (Maf'ūl) | 🔓 Fatha (-a) | قَتَلَ الرَّجُلُ الأَفْعَى |
+| Passive Voice | Mutated (قُتِلَ) | Substitute Subject (نَائِبُ فِاعِل) | 🔒 Damma (-u) | قُتِلَتْ الأَفْعَى (The snake was killed) |
+
+Would you like to try transforming another sentence you know into the passive voice to test out your Nā’ibu al-Fā‘il skills, or should we look at how a present-tense verb changes its vowels when it becomes passive?
+
+## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 
 
 
 
