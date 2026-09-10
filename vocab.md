@@ -926,6 +926,35 @@ Would you like to try a quick challenge where you create your own subject and pr
 ---
 📚📚📚
 
+https://madinaharabic.com/free-content/grammar/lesson-25/part-3
+
+### hi حَضَرَ الْمُوَظَّفُونَ. hi
+
+
+The author is trying to explain how a Sound Masculine Plural word shows its Nominative case (مَرْفُوع) when it acts as the subject of a verb.
+Instead of using a regular single vowel like a damma (-u) on the very last letter, a Sound Masculine Plural uses a long vowel letter to show its grammatical case.
+Here is the exact breakdown of the four elements in that table row:
+## 1. The Sentence: حَضَرَ الْمُوَظَّفُونَ
+
+* حَضَرَ (Ḥaḍara) = The verb ("Attended" / "Came").
+* الْمُوَظَّفُونَ (Al-muwaẓẓafūna) = The Subject (فَاعِل - Doer) of the verb ("The employees"). Because it is the subject, it must be in the Nominative case (مَرْفُوع).
+
+## 2. The Word Type: جَمْعُ الْمُذَكَّرِ السَّالِمُ
+
+* This is the grammatical classification of the word Al-muwaẓẓafūna. It translates to Sound Masculine Plural (a regular plural for a group of men or a mixed group, created by adding a suffix to the end of a singular word without breaking its internal structure).
+* Singular: مُوَظَّف (Muwaẓẓaf – employee) → Plural: مُوَظَّفُـو ن (Muwaẓẓafūna – employees).
+
+## 3. The Core Rule: ٣- الْوَاوُ (و)
+This is the heart of what the author is teaching. The number ٣ (Three) refers to the third major rule or category in their lesson.
+
+* The Rule: For a Sound Masculine Plural, the physical sign of being in the Nominative case is NOT a damma. The sign is the letter الْوَاوُ (و) itself.
+
+## Why is this important?
+If you look at the very last letter of الْمُوَظَّفُونَ, it ends in a fatha (-a) sound. A beginner might mistake this for an Accusative (مَنْصُوب) word because of that fatha.
+The author is explicitly drawing a chart to say: Ignore the fatha on the final Nūn! Because this word is a Sound Masculine Plural acting as the subject, its true grammatical marking is the hidden Wāw (و) sitting right before the Nūn. That Wāw is what tells you the word is Marfū‘.
+Would you like to see how this exact same plural word changes if it flips into the Accusative case (like saying "I saw the employees"), or should we look at the other numbers (1 and 2) in the author's list?
+
+
 
 
 ---
