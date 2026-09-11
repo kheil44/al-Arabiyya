@@ -4,8 +4,6 @@
 
 [Go to Tutorials](#tutorials)
 
-## Numbers
-
 [Go to Vocabulary](#vocabulary)
 
 [Go to SimpleSentences](#SimpleSentences)
