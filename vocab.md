@@ -1557,7 +1557,92 @@ If you are interested, we can analyze الْمُحَامِي, مُصْطَفَى
 
 
 ---
-## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
+## 📕 📗 📘 📙 📔 📓
+
+When you transform these three noun types into the Dual (two items) or Plural (three or more items), they follow highly structured phonetic rules. Because their endings are unstable, they must undergo specific transformations before you can attach the standard dual suffixes (ـانِ / ـيْنِ) or plural suffixes (ـونَ / ـينَ / ـات).
+Here is the exhaustive master blueprint for how Al-Maqṣūr, Al-Manqūṣ, and Al-Mamdūd nouns change in the dual and plural states.
+------------------------------
+## 1. Transforming اِلِاسْمُ الْمَقْصُورُ (Al-Ism Al-Maqṣūr)
+The rules for the Maqṣūr noun depend entirely on how many letters make up the word.
+## A. The Dual (اَلْمُثَنَّى)
+
+* Rule 1: If the noun is exactly 3 letters long: Look up the origin of the Alif. The Alif must be flipped back to its original root letter (و or ي) before adding the dual suffix.
+* If origin is Waw (spelled with ا): عَصَا (Stick) → flip Alif to Waw → عَصَوَانِ (Two sticks).
+   * If origin is Yā' (spelled with ى): هُدَى (Huda) → flip Alif to Yā' → هُدَيَانِ (Two Hudas).
+* Rule 2: If the noun is 4 or more letters long: Ignore the root origin. The Alif is automatically and permanently changed into a Yā' (ي).
+* مُسْتَشْفَى (Hospital) → change to Yā' → مُسْتَشْفَيَانِ (Two hospitals).
+   * مُصْطَفَى (Mustafa) → change to Yā' → مُصْطَفَيَانِ (Two Mustafas).
+
+## B. Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
+
+* The Absolute Rule: The final Alif is completely deleted. To remind the speaker that an Alif used to be there, the letter right before the plural suffix must keep its Fatha (ـَ).
+* مُصْطَفَى → drop Alif → مُصْطَفَوْنَ (Nominative) / مُصْطَفَيْنَ (Accusative/Genitive).
+   * أَعْلَى (Highest) → drop Alif → أَعْلَوْنَ / أَعْلَيْنَ.
+
+## C. Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
+
+* The Absolute Rule: Follow the exact same rules as the Dual. Change the Alif to its origin (if 3 letters) or convert it to a ي (if 4+ letters), then add the standard suffix (ـات).
+* مُسْتَشْفَى (4+ letters) → change to Yā' → مُسْتَشْفَيَات (Hospitals).
+   * دُنْيَا (4+ letters) → change to Yā' → دُنْيَيَات (Worlds).
+
+------------------------------
+## 2. Transforming اِلِاسْمُ الْمَنْقُوصُ (Al-Ism Al-Manqūṣ)
+The Manqūṣ noun is much simpler because its final letter is already a standard Yā'.
+## A. The Dual (اَلْمُثَنَّى)
+
+* The Absolute Rule: The final Yā' must be present. If it was previously dropped because the word was indefinite (like Qāḍin / قَاضٍ), the Yā' is brought back to life before adding the dual suffix.
+* الْقَاضِي (The judge) → keep Yā' → الْقَاضِيَانِ (Two judges).
+   * قَاضٍ (A judge) → restore Yā' → قَاضِيَانِ / قَاضِيَيْنِ.
+
+## B. Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
+
+* The Absolute Rule: The final Yā' is completely deleted. The vowel on the letter preceding the suffix changes to match the plural suffix smoothly:
+* In Nominative (ـونَ): The preceding letter takes a Damma to match the Waw.
+   * In Accusative/Genitive (ـينَ): The preceding letter takes a Kasra to match the Yā'.
+   * الْقَاضِي → delete Yā' → الْقَاضُونَ (Al-Qāḍūna - Nominative) / الْقَاضِينَ (Al-Qāḍīna - Accusative/Genitive).
+   * النَّادِي → delete Yā' → النَّادُونَ / النَّادِينَ.
+
+## C. Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
+
+* The Absolute Rule: Keep the Yā' intact (or restore it if it was dropped), and simply append the ـات suffix.
+* الْمُحَامِيَة (The female lawyer) → الْمُحَامِيَات (Female lawyers).
+
+------------------------------
+## 3. Transforming اِلِاسْمُ الْمَمْدُودُ (Al-Ism Al-Mamdūd)
+For the Mamdūd noun, the rules for the Dual and both types of plurals are identical. Everything is dictated by the origin of the Hamza (ء).
+## Rule Category 1: If the Hamza is Feminine (زَائِدَة لِلتَّأْنِيث)
+
+* The Rule: The Hamza must be changed into a Waw (و) across the dual and all plurals.
+* صَحْرَاء (Desert) → change to Waw → صَحْرَاوَانِ (Dual) / صَحْرَاوَات (Plural).
+   * خَضْرَاء (Green fem.) → change to Waw → خَضْرَاوَانِ (Dual) / خَضْرَاوَات (Plural).
+
+## Rule Category 2: If the Hamza is Original (أَصْلِيَّة)
+
+* The Rule: The Hamza is an unshakeable root letter. It must stay exactly as a Hamza (ء).
+* اِبْتِدَاء (Beginning) → keep Hamza → اِبْتِدَاءَانِ (Dual) / اِبْتِدَاءَات (Plural).
+   * قُرَّاء (Reciters) → keep Hamza → قُرَّاءَانِ (Dual) / قُرَّاؤُونَ (Masculine Plural).
+
+## Rule Category 3: If the Hamza is Converted from Waw/Yā' (مُنْقَلِبَة عَنْ أَصْل)
+
+* The Rule: You have total linguistic freedom. You can either keep it as a Hamza OR change it into a Waw. Both options are 100% correct in classical and modern grammar.
+* سَمَاء (Sky) → Option A: سَمَاءَانِ / سَمَاءَات (Keeping the Hamza).
+   * سَمَاء (Sky) → Option B: سَمَاوَانِ / سَمَاوَات (Flipping it to Waw).
+   * بِنَاء (Building) → Option A: بِنَاءَانِ / Option B: بِنَاوَانِ (Dual).
+
+------------------------------
+## The Master Matrix Checklist: Duals and Plurals
+
+| Noun Category | Type / Condition | Behavior in Dual (ـانِ) | Behavior in Masculine Plural (ـونَ) | Behavior in Feminine Plural (ـات) |
+|---|---|---|---|---|
+| 1. Al-Maqṣūr | 3 Letters | Alif turns to root (و or ي) | Alif is Deleted (preceding Fatha) | Alif turns to root (و or ي) |
+| 1. Al-Maqṣūr | 4+ Letters | Alif turns to ي | Alif is Deleted (preceding Fatha) | Alif turns to ي |
+| 2. Al-Manqūṣ | All | Yā' stays / is restored | Yā' is Deleted (preceding change) | Yā' stays / is restored |
+| 3. Al-Mamdūd | Feminine (Ṣaḥrā') | Hamza turns to و | N/A (Feminine Words) | Hamza turns to و |
+| 3. Al-Mamdūd | Original (Qurrā') | Hamza Stays | Hamza Stays | Hamza Stays |
+| 3. Al-Mamdūd | Converted (Samā') | Either Hamza or و | Either Hamza or و | Either Hamza or و |
+
+To put these rules into action, how about we try transforming a few specific words together—such as making the word مُحَامٍ (a lawyer) into a masculine plural, or flipping خَضْرَاء into a plural? Let me know which one you want to test!
+
 
 
 ---
