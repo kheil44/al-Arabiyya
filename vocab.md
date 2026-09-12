@@ -1048,6 +1048,39 @@ Would you like to see the grammatical breakdown (I'rab) of how the subject chang
 ---
 📚📚📚
 
+Here is the translation of اِسْمُ أُخْتِي حَسْناءُ (Ismu ukhtī Ḥasnā'u):
+"My sister's name is Hasna."
+------------------------------
+## Grammatical Analysis (I'rab)
+Because this sentence begins with a noun (اِسْمُ), it is classified as a Nominal Sentence (Jumlah Ismiyyah / جُمْلَة اِسْمِيَّة). The structure here is straightforward: it contains a Subject (Mubtada'), a Possessive Chain (Idafah), and a Predicate (Khabar) that completes the meaning.
+Here is the step-by-step breakdown of each part:
+## 1. اِسْمُ (Ismu) — "The name of..."
+
+* Part of Speech: Noun (Ism / اِسْم).
+* Grammatical Role: The Subject (Mubtada' / مُبْتَدَأ).
+* Analysis: A Mubtada' must always be in the nominative case (Marfū' / مَرْفُوع). Its sign of being Marfū' is the clear, visible Damma (ـُ) on the final letter (المِيم).
+* Possessive State: It is also the first part of a possessive relationship (Muḍāf / مُضَاف). Because it is a Muḍāf, it cannot take "Al-" (الـ) or a double vowel (Tanween).
+
+## 2. أُخْتِي (Ukhtī) — "...my sister"
+This word consists of two components: the noun أُخْت (ukht - sister) + the attached pronoun ي (ī - my).
+
+* Grammatical Role (أُخْت): It is the second part of the possessive chain, the Possessed (Muḍāf Ilayh / مُضَاف إِلَيْه).
+* Analysis: A Muḍāf Ilayh is always in the genitive case (Majrūr / مَجْرُور). Normally, its sign would be a visible Kasra. However, because the possessive pronoun "my" (ي) is attached, it forces a Kasra on the letter (ت) purely for smooth pronunciation. Therefore, it is Majrūr with an estimated/implied Kasra (Kasrah Muqaddarah).
+* Double Role: It acts as a bridge; it is a Muḍāf Ilayh to the word "name", but it is also a Muḍāf to the pronoun "my".
+* The "ي" (Yā' al-Mutakallim): This possessive pronoun is fixed (Mabnī) and sits in the genitive structural position of ownership (Fī Maḥalli Jarr Muḍāf Ilayh).
+
+## 3. حَسْناءُ (Ḥasnā'u) — "...is Hasna."
+
+* Part of Speech: Proper Noun / Name (Ism 'Alam / اِسْم عَلَم).
+* Grammatical Role: The Predicate (Khabar / خَبَر). This is the critical piece of information that tells us what the name actually is.
+* Analysis: A Khabar is always in the nominative case (Marfū' / مَرْفُوع). Its sign of being Marfū' is the clear, visible Damma (ـُ) on the final hamza (الْهَمْزَة).
+
+------------------------------
+## Key Linguistic Note: Why no double-vowel (Tanween)?
+You might wonder why it is written as حَسْناءُ (Ḥasnā'u) with just one Damma, instead of Ḥasnā'un (ـٌ).
+In Arabic grammar, feminine names ending in an extended Alif and Hamza (ـاء) belong to a category called Diptotes (Mam nū' min al-Sarf / مَمْنُوع مِنَ الصَّرْف). Words in this category are legally barred from ever carrying a Tanween (double vowel) at the end.
+Would you like to see how the grammar would look if we changed this to say "I have a sister named Hasna" instead?
+
 
 
 
