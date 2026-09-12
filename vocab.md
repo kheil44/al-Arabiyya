@@ -1401,6 +1401,64 @@ Would you like to try translating a sentence from scratch using this layout to s
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
+It is completely normal to find this confusing! Because these three categories of nouns all have unique endings, they can easily blur together when you are learning Arabic grammar.
+To clear up the confusion, let’s lay them out side-by-side. In Arabic grammar, nouns are grouped into these three categories based strictly on what their very last letters look like and sound like.
+Here is the ultimate guide to الاسْم الْمَقْصُور (Maqṣūr), الْمَنْقُوص (Manqūṣ), and الْمَمْدُود (Mamdūd).
+------------------------------
+## 1. الاسْم الْمَقْصُور (Al-Ism Al-Maqṣūr) — The "Shortened" Noun
+
+* The Rule: A noun that permanently ends in an Alif (either written as a straight ا or an undotted ى).
+* The Sound: The letter right before the Alif must have a Fatha (ـَ), creating a long, smooth "aa" sound.
+* Key Trait: The vowels are completely invisible. Whether it is a subject or object, the ending never changes.
+* Examples:
+* مُصْطَفَى (Muṣṭafā)
+   * مُسْتَشْفَى (Mustashfā – hospital)
+   * دُنْيَا (Dunyā – world)
+   * عَصَا (‘Aṣā – staff/stick)
+
+------------------------------
+## 2. الاسْم الْمَنْقُوص (Al-Ism Al-Manqūṣ) — The "Defective" Noun
+
+* The Rule: A noun that permanently ends in an essential, unstressed Yā' (ي) written with dots.
+* The Sound: The letter right before the Yā' must have a Kasra (ـِ), creating a long, smooth "ee" sound.
+* Key Trait: It does the "disappearing act." If you remove "Al-" (الـ), the final Yā' vanishes completely in the nominative and genitive cases (e.g., قَاضٍ instead of الْقَاضِي).
+* Examples:
+* الْقَاضِي (Al-Qāḍī – the judge)
+   * النَّادِي (Al-Nādī – the club)
+   * الْـهَادِي (Al-Hādī – the guide)
+
+------------------------------
+## 3. الاسْم الْمَمْدُود (Al-Ism Al-Mamdūd) — The "Extended" Noun
+
+* The Rule: A noun that permanently ends in an extended Alif followed by a Hamza (ـاء).
+* The Sound: It creates an "aa'-a" sound at the very end.
+* Key Trait: These nouns often follow specific patterns for colors, feminine names, or plurals. They are usually diptotes (meaning they don't take double vowels/tanween).
+* Examples:
+* حَسْنَاءُ (Ḥasnā'u – Hasna / beautiful)
+   * سَمَاءٌ (Samā'un – sky)
+   * صَحْرَاءُ (Ṣaḥrā'u – desert)
+   * أَصْدِقَاءُ (Aṣdiqā'u – friends)
+
+------------------------------
+## The Cheat Sheet Summary Table
+Use this quick matrix whenever you get stuck. Just look at the final letters of the noun:
+
+| Category | Arabic Name | What the ending looks like | Final Sound | Clear Example |
+|---|---|---|---|---|
+| 1. Maqṣūr | الْمَقْصُور | ـا or ـى (no dots) | Long "aa" | مُصْطَفَى (Muṣṭafā) |
+| 2. Manqūṣ | الْمَنْقُوص | ـي (with dots) | Long "ee" | النَّادِي (Al-Nādī) |
+| 3. Mamdūd | الْمَمْدُود | ـاء (Alif + Hamza) | "aa'-a" | سَمَاء (Samā') |
+
+## ⚠️ The Three "Imposters" to Watch Out For:
+Before classifying a word, make sure it isn't tricking you:
+
+   1. Verbs do not count: مَشَى (Mashā) ends like a Maqṣūr, but it is a past-tense verb, not a noun!
+   2. Pronouns do not count: حَيَاتِي (Ḥayātī) ends in a Yā', but that Yā' is just the attached pronoun for "my," not part of the root word.
+   3. Shaddah does not count: بَاكِسْتَانِيّ (Bākistāniyy) ends in a Yā', but because it has a Shaddah (ـّ), it is a Nisbah adjective, not a Manqūṣ noun.
+
+Now that you have seen all three side-by-side, would you like to try sorting a list of 3 new words to test your eye, or shall we look at how the grammar cases affect the Mamdūd category?
+
+
 
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
