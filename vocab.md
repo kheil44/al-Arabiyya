@@ -1559,89 +1559,101 @@ If you are interested, we can analyze الْمُحَامِي, مُصْطَفَى
 ---
 ## 📕 📗 📘 📙 📔 📓
 
-When you transform these three noun types into the Dual (two items) or Plural (three or more items), they follow highly structured phonetic rules. Because their endings are unstable, they must undergo specific transformations before you can attach the standard dual suffixes (ـانِ / ـيْنِ) or plural suffixes (ـونَ / ـينَ / ـات).
-Here is the exhaustive master blueprint for how Al-Maqṣūr, Al-Manqūṣ, and Al-Mamdūd nouns change in the dual and plural states.
+## The Ultimate Structural Blueprint: Dual and Plural Transformations of Al-Maqṣūr, Al-Manqūṣ, and Al-Mamdūd Nouns
+When shifting nouns from the singular form into the Dual (two items) or Plural (three or more items), their unstable terminal letters undergo strict morphological adaptations before accepting standard grammatical suffixes.
+This guide merges absolute classical precision with your textbook's specific terminology and flexible rules, detailing both the Nominative and Accusative/Genitive states.
 ------------------------------
-## 1. Transforming اِلِاسْمُ الْمَقْصُورُ (Al-Ism Al-Maqṣūr)
-The rules for the Maqṣūr noun depend entirely on how many letters make up the word.
-## A. The Dual (اَلْمُثَنَّى)
+## Suffix Reference Guide
 
-* Rule 1: If the noun is exactly 3 letters long: Look up the origin of the Alif. The Alif must be flipped back to its original root letter (و or ي) before adding the dual suffix.
-* If origin is Waw (spelled with ا): عَصَا (Stick) → flip Alif to Waw → عَصَوَانِ (Two sticks).
-   * If origin is Yā' (spelled with ى): هُدَى (Huda) → flip Alif to Yā' → هُدَيَانِ (Two Hudas).
-* Rule 2: If the noun is 4 or more letters long: Ignore the root origin. The Alif is automatically and permanently changed into a Yā' (ي).
-* مُسْتَشْفَى (Hospital) → change to Yā' → مُسْتَشْفَيَانِ (Two hospitals).
-   * مُصْطَفَى (Mustafa) → change to Yā' → مُصْطَفَيَانِ (Two Mustafas).
-
-## B. Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
-
-* The Absolute Rule: The final Alif is completely deleted. To remind the speaker that an Alif used to be there, the letter right before the plural suffix must keep its Fatha (ـَ).
-* مُصْطَفَى → drop Alif → مُصْطَفَوْنَ (Nominative) / مُصْطَفَيْنَ (Accusative/Genitive).
-   * أَعْلَى (Highest) → drop Alif → أَعْلَوْنَ / أَعْلَيْنَ.
-
-## C. Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
-
-* The Absolute Rule: Follow the exact same rules as the Dual. Change the Alif to its origin (if 3 letters) or convert it to a ي (if 4+ letters), then add the standard suffix (ـات).
-* مُسْتَشْفَى (4+ letters) → change to Yā' → مُسْتَشْفَيَات (Hospitals).
-   * دُنْيَا (4+ letters) → change to Yā' → دُنْيَيَات (Worlds).
+* Dual Suffixes: ـانِ (-āni) in the Nominative case / ـَيْنِ (-ayni) in the Accusative and Genitive cases.
+* Sound Masculine Plural Suffixes: ـونَ (-ūna) in the Nominative case / ـينَ (-īna) in the Accusative and Genitive cases.
+* Sound Feminine Plural Suffixes: ـاتٌ (-ātun) in the Nominative case / ـاتٍ (-ātin) in the Accusative and Genitive cases.
 
 ------------------------------
-## 2. Transforming اِلِاسْمُ الْمَنْقُوصُ (Al-Ism Al-Manqūṣ)
-The Manqūṣ noun is much simpler because its final letter is already a standard Yā'.
-## A. The Dual (اَلْمُثَنَّى)
+## 1. اِلِاسْمُ الْمَقْصُورُ (Al-Ism Al-Maqṣūr) — The "Shortened" Noun
+The long Alif at the end of an Arabic word is never a primary lexical letter; it is always converted from an underlying Waw (و) or Yā' (ي). Transformations depend on word length.
+## A. The Dual Case (اَلْمُثَنَّى)
 
-* The Absolute Rule: The final Yā' must be present. If it was previously dropped because the word was indefinite (like Qāḍin / قَاضٍ), the Yā' is brought back to life before adding the dual suffix.
-* الْقَاضِي (The judge) → keep Yā' → الْقَاضِيَانِ (Two judges).
-   * قَاضٍ (A judge) → restore Yā' → قَاضِيَانِ / قَاضِيَيْنِ.
+* Trilateral Nouns (Consisting of exactly 3 letters): The final Alif must be reverted to its underlying lexical root letter (Waw or Yā') before attaching suffixes.
+* Lexical Origin is Waw (spelled as straight ا): عَصَا (Stick) → عَصَوَانِ (Nominative) / عَصَوَيْنِ (Accusative/Genitive)
+   * Lexical Origin is Yā' (spelled as dotless ى): هُدَى (Guidance) → هُدَيَانِ (Nominative) / هُدَيَيْنِ (Accusative/Genitive)
+* Non-Triliteral Nouns (Consisting of more than 3 letters): The final long Alif automatically transforms into a regular ي (yā’) regardless of its dictionary origin.
+* Example: مُسْتَشْفَى (Hospital) → مُسْتَشْفَيَانِ (Nominative) / مُسْتَشْفَيَيْنِ (Accusative/Genitive)
 
-## B. Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
+## B. The Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
 
-* The Absolute Rule: The final Yā' is completely deleted. The vowel on the letter preceding the suffix changes to match the plural suffix smoothly:
-* In Nominative (ـونَ): The preceding letter takes a Damma to match the Waw.
-   * In Accusative/Genitive (ـينَ): The preceding letter takes a Kasra to match the Yā'.
-   * الْقَاضِي → delete Yā' → الْقَاضُونَ (Al-Qāḍūna - Nominative) / الْقَاضِينَ (Al-Qāḍīna - Accusative/Genitive).
-   * النَّادِي → delete Yā' → النَّادُونَ / النَّادِينَ.
+* The Rule: The final long Alif is completely omitted/deleted. To compensate phonetically and indicate the missing Alif, a short vowel Fatha (a) must remain on the consonant immediately preceding the plural suffix.
+* Example: مُصْطَفَى → مُصْطَفَوْنَ (Nominative) / مُصْطَفَيْنَ (Accusative/Genitive)
 
-## C. Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
+## C. The Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
 
-* The Absolute Rule: Keep the Yā' intact (or restore it if it was dropped), and simply append the ـات suffix.
-* الْمُحَامِيَة (The female lawyer) → الْمُحَامِيَات (Female lawyers).
-
-------------------------------
-## 3. Transforming اِلِاسْمُ الْمَمْدُودُ (Al-Ism Al-Mamdūd)
-For the Mamdūd noun, the rules for the Dual and both types of plurals are identical. Everything is dictated by the origin of the Hamza (ء).
-## Rule Category 1: If the Hamza is Feminine (زَائِدَة لِلتَّأْنِيث)
-
-* The Rule: The Hamza must be changed into a Waw (و) across the dual and all plurals.
-* صَحْرَاء (Desert) → change to Waw → صَحْرَاوَانِ (Dual) / صَحْرَاوَات (Plural).
-   * خَضْرَاء (Green fem.) → change to Waw → خَضْرَاوَانِ (Dual) / خَضْرَاوَات (Plural).
-
-## Rule Category 2: If the Hamza is Original (أَصْلِيَّة)
-
-* The Rule: The Hamza is an unshakeable root letter. It must stay exactly as a Hamza (ء).
-* اِبْتِدَاء (Beginning) → keep Hamza → اِبْتِدَاءَانِ (Dual) / اِبْتِدَاءَات (Plural).
-   * قُرَّاء (Reciters) → keep Hamza → قُرَّاءَانِ (Dual) / قُرَّاؤُونَ (Masculine Plural).
-
-## Rule Category 3: If the Hamza is Converted from Waw/Yā' (مُنْقَلِبَة عَنْ أَصْل)
-
-* The Rule: You have total linguistic freedom. You can either keep it as a Hamza OR change it into a Waw. Both options are 100% correct in classical and modern grammar.
-* سَمَاء (Sky) → Option A: سَمَاءَانِ / سَمَاءَات (Keeping the Hamza).
-   * سَمَاء (Sky) → Option B: سَمَاوَانِ / سَمَاوَات (Flipping it to Waw).
-   * بِنَاء (Building) → Option A: بِنَاءَانِ / Option B: بِنَاوَانِ (Dual).
+* Trilateral Nouns (3 Letters): The Alif is reverted to its original lexical root letter (Waw or Yā') before adding the feminine plural suffix.
+* Example (Yā’ root): هُدَى → هُدَيَاتٌ (Nominative) / هُدَيَاتٍ (Accusative/Genitive)
+   * Example (Waw root): عَصَا → عَصَوَاتٌ (Nominative) / عَصَوَاتٍ (Accusative/Genitive)
+* Non-Triliteral Nouns (More than 3 Letters): The final long Alif transforms directly into a ي (yā’), followed by the addition of the suffix.
+* Example: مُسْتَشْفَى → مُسْتَشْفَيَاتٌ (Nominative) / مُسْتَشْفَيَاتٍ (Accusative/Genitive)
 
 ------------------------------
-## The Master Matrix Checklist: Duals and Plurals
+## 2. اِلِاسْمُ الْمَنْقُوصُ (Al-Ism Al-Manqūṣ) — The "Defective" Noun
+The Manqūṣ noun ends in a permanent long Yā' (ي) preceded by a short Kasrah.
+## A. The Dual Case (اَلْمُثَنَّى)
 
-| Noun Category | Type / Condition | Behavior in Dual (ـانِ) | Behavior in Masculine Plural (ـونَ) | Behavior in Feminine Plural (ـات) |
-|---|---|---|---|---|
-| 1. Al-Maqṣūr | 3 Letters | Alif turns to root (و or ي) | Alif is Deleted (preceding Fatha) | Alif turns to root (و or ي) |
-| 1. Al-Maqṣūr | 4+ Letters | Alif turns to ي | Alif is Deleted (preceding Fatha) | Alif turns to ي |
-| 2. Al-Manqūṣ | All | Yā' stays / is restored | Yā' is Deleted (preceding change) | Yā' stays / is restored |
-| 3. Al-Mamdūd | Feminine (Ṣaḥrā') | Hamza turns to و | N/A (Feminine Words) | Hamza turns to و |
-| 3. Al-Mamdūd | Original (Qurrā') | Hamza Stays | Hamza Stays | Hamza Stays |
-| 3. Al-Mamdūd | Converted (Samā') | Either Hamza or و | Either Hamza or و | Either Hamza or و |
+* The Rule: The noun does not structurally alter its root shape; the dual suffix is directly appended. If the Yā' was dropped because the word was indefinite, the long Yā' must be fully restored before the suffix is applied.
+* Definite Example: الْقَاضِي (The judge) → الْقَاضِيَانِ (Nominative) / الْقَاضِيَيْنِ (Accusative/Genitive)
+   * Indefinite Example: قَاضٍ (A judge) → قَاضِيَانِ (Nominative) / قَاضِيَيْنِ (Accusative/Genitive)
 
-To put these rules into action, how about we try transforming a few specific words together—such as making the word مُحَامٍ (a lawyer) into a masculine plural, or flipping خَضْرَاء into a plural? Let me know which one you want to test!
+## B. The Sound Masculine Plural (جَمْعُ الْمُذَكَّرِ السَّالِم)
+
+* The Rule: The final long Yā' is omitted/deleted. For phonetic convenience, the vowel on the consonant preceding the suffix shifts to align smoothly with the plural marker:
+* In the Nominative (ـونَ): The preceding letter takes a Dammah (u) to match the Waw.
+   * In the Accusative/Genitive (ـينَ): The preceding letter takes a Kasrah (i) to match the Yā'.
+   * Example: الْقَاضِي → الْقَاضُونَ (Al-Qāḍūna - Nominative) / الْقَاضِينَ (Al-Qāḍīna - Accusative/Genitive)
+
+## C. The Sound Feminine Plural (جَمْعُ الْمُؤَنَّثِ السَّالِم)
+
+* The Rule: The long Yā' stays safely intact (or is restored if missing), and the standard suffix is attached.
+* Example: الْمُحَامِيَة (The female lawyer) → الْمُحَامِيَاتٌ (Nominative) / الْمُحَامِيَاتٍ (Accusative/Genitive)
+
+------------------------------
+## 3. اِلِاسْمُ الْمَمْدُودُ (Al-Ism Al-Mamdūd) — The "Extended" Noun
+A singular noun ending in a Hamzah (ء) preceded by a long Alif. Behavior in the dual and plural states is dictated by the exact morphological origin of that final Hamzah.
+## Rule Category 1: The Original Hamzah (أَصْلِيَّة)
+
+* The Rule: If the Hamzah is part of the foundational root of the word (e.g., قَرَّاءٌ derived from the verb قَرَأَ), the Hamzah remains unchanged across all forms.
+* Dual: قَرَّاءَانِ (Nominative) / قَرَّاءَيْنِ (Accusative/Genitive)
+   * Masculine Plural: قَرَّاؤُونَ (Nominative) / قَرَّاؤِينَ (Accusative/Genitive)
+   * Feminine Plural: اِبْتِدَاءَاتٌ (Nominative) / اِبْتِدَاءَاتٍ (Accusative/Genitive)
+
+## Rule Category 2: The Converted Hamzah from Waw/Yā' (مُنْقَلِبَة عَنْ أَصْل)
+
+* The Rule: If the Hamzah originated from a weak letter (e.g., سَمَاءٌ derived from سَمَا، يَسْمُو), it turns back to its root letter و (wāw).
+* Dual: سَمَاوَانِ (Nominative) / سَمَاوَيْنِ (Accusative/Genitive)
+   * Feminine Plural: سَمَاوَاتٌ (Nominative) / سَمَاوَاتٍ (Accusative/Genitive)
+   * Dual (Building): بِنَاءٌ → بِنَاوَانِ (Nominative) / بِنَاوَيْنِ (Accusative/Genitive)
+
+## Rule Category 3: The Feminine Sign Hamzah (زَائِدَة لِلتَّأْنِيث)
+
+* The Rule (Facultative/Optional): If the Hamzah is an augmented feminine ending and not part of the root (e.g., صَحْرَاءُ, حَسْنَاءُ), your textbook allows you to apply either of the previous two rules optionally. You can choose to keep the Hamzah as is, or convert it into a Waw.
+* Option A (Keeping the Hamzah): صَحْرَاءَانِ (Nominative Dual) / صَحْرَاءَيْنِ (Accusative/Genitive Dual)
+   * Option B (Converting to Waw): صَحْرَاوَانِ (Nominative Dual) / صَحْرَاوَيْنِ (Accusative/Genitive Dual)
+   * Plural Option A: صَحْرَاءَاتٌ / حَسْنَاءَاتٌ
+   * Plural Option B: صَحْرَاوَاتٌ / حَسْناوَاتٌ
+
+------------------------------
+## Comprehensive Master Matrix Checklist
+
+| Noun Category | Specific Sub-Type | Dual: Nominative (ـانِ) | Dual: Accusative/Genitive (ـَيْنِ) | Sound Plural: Nominative (ـونَ / ـاتٌ) | Sound Plural: Accusative/Genitive (ـينَ / ـاتٍ) |
+|---|---|---|---|---|---|
+| 1. Al-Maqṣūr | Trilateral (Waw Root) | Alif → و (عَصَوَانِ) | Alif → و (عَصَوَيْنِ) | Alif deleted; preceding Fatha (عَصَوْنَ / N/A) | Alif deleted; preceding Fatha (عَصَيْنَ / N/A) |
+| 1. Al-Maqṣūr | Non-Triliteral (4+ letters) | Alif → ي (مُسْتَشْفَيَانِ) | Alif → ي (مُسْتَشْفَيَيْنِ) | Alif deleted; preceding Fatha (مُصْطَفَوْنَ) | Alif deleted; preceding Fatha (مُصْطَفَيْنَ) |
+| 2. Al-Manqūṣ | All Types | Yā' stays (الْقَاضِيَانِ) | Yā' stays (الْقَاضِيَيْنِ) | Yā' deleted; preceding Damma (الْقَاضُونَ) | Yā' deleted; preceding Kasra (الْقَاضِينَ) |
+| 3. Al-Mamdūd | Original Hamzah | Hamzah stays (قَرَّاءَانِ) | Hamzah stays (قَرَّاءَيْنِ) | Hamzah stays (قَرَّاؤُونَ) | Hamzah stays (قَرَّاؤِينَ) |
+| 3. Al-Mamdūd | Converted from root | Hamzah → و (سَمَاوَانِ) | Hamzah → و (سَمَاوَيْنِ) | Hamzah → و (سَمَاوَاتٌ) | Hamzah → و (سَمَاوَاتٍ) |
+| 3. Al-Mamdūd | Feminine Sign (Optional) | Either Hamza or و (صَحْرَاءَانِ / صَحْرَاوَانِ) | Either Hamza or و (صَحْرَاءَيْنِ / صَحْرَاوَيْنِ) | Either Hamza or و (صَحْرَاءَاتٌ / صَحْرَاوَاتٌ) | Either Hamza or و (صَحْرَاءَاتٍ / صَحْرَاوَاتٍ) |
+
+Now that your specific textbook's rules are completely synthesized, would you like to attempt declining a few custom sentences utilizing these dual and plural settings, or do you have more excerpts from your course you want to align?
+
+
 
 
 
