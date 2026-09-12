@@ -1401,62 +1401,158 @@ Would you like to try translating a sentence from scratch using this layout to s
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
-It is completely normal to find this confusing! Because these three categories of nouns all have unique endings, they can easily blur together when you are learning Arabic grammar.
-To clear up the confusion, let’s lay them out side-by-side. In Arabic grammar, nouns are grouped into these three categories based strictly on what their very last letters look like and sound like.
-Here is the ultimate guide to الاسْم الْمَقْصُور (Maqṣūr), الْمَنْقُوص (Manqūṣ), and الْمَمْدُود (Mamdūd).
+## The Exhaustive Master Blueprint: Al-Maqṣūr, Al-Manqūṣ, and Al-Mamdūd
+In Arabic morphology (Ṣarf) and syntax (Naḥw), nouns are explicitly categorized by the nature of their final letters. While standard healthy nouns (Al-Ism al-Ṣaḥīḥ) display regular, visible vowels, three specific categories feature unique weak or extended endings: Al-Maqṣūr (الْمَقْصُور), Al-Manqūṣ (الْمَنْقُوص), and Al-Mamdūd (الْمَمْدُود).
+This is the definitive, zero-omission guide detailing their complete structural rules, gender and linguistic variations, and exact behavioral changes across all grammatical cases (I'rab).
 ------------------------------
-## 1. الاسْم الْمَقْصُور (Al-Ism Al-Maqṣūr) — The "Shortened" Noun
+## 🛑 The Universal "Imposter" Filter
+Before evaluating any word against the individual checklists below, it must pass this gate. If a word violates any of these four criteria, it is instantly disqualified from being a Maqṣūr, Manqūṣ, or Mamdūd noun:
 
-* The Rule: A noun that permanently ends in an Alif (either written as a straight ا or an undotted ى).
-* The Sound: The letter right before the Alif must have a Fatha (ـَ), creating a long, smooth "aa" sound.
-* Key Trait: The vowels are completely invisible. Whether it is a subject or object, the ending never changes.
-* Examples:
-* مُصْطَفَى (Muṣṭafā)
-   * مُسْتَشْفَى (Mustashfā – hospital)
-   * دُنْيَا (Dunyā – world)
-   * عَصَا (‘Aṣā – staff/stick)
+   1. Must be a Noun (Ism): Verbs (like past-tense يَسْعَى or present-tense يَجْرِي) and particles (like إِلَى or فِي) are completely excluded.
+   2. Must be Declinable (Mu'rab): Non-declinable built-in nouns (Al-Asmā' al-Mabniyyah) like demonstrative pronouns (هَذَا) or relative pronouns (الَّذِي) are excluded.
+   3. Endings Must Be Structural Elements: Suffixes appended temporarily for grammar—such as the possessive pronoun "my" (كِتَابِي) or the accusative plural marker (مُسْلِمِينَ)—are excluded.
+   4. Endings Must Be Unstressed: Any final Yā' carrying a Shaddah (ـّ), such as Nisbah adjectives denoting nationality or origin (عَرَبِيّ, بَاكِسْتَانِيّ), functions as a standard, fully healthy consonant and is excluded.
 
 ------------------------------
-## 2. الاسْم الْمَنْقُوص (Al-Ism Al-Manqūṣ) — The "Defective" Noun
+## 1. اِلِاسْمُ الْمَقْصُورُ (Al-Ism Al-Maqṣūr) — The "Shortened" Noun## A. The Strict Structural Rule
+An Ism Maqṣūr is defined as a declinable noun that permanently ends in an Essential Alif (Alif Lāzimah). The letter immediately preceding this Alif must always carry a Fatha (ـَ), resulting in an unchangeable long "aa" sound.
+## B. Orthographic Variations (Spelling)
+The final Alif can be written in two distinct ways depending on its origin and word length:
 
-* The Rule: A noun that permanently ends in an essential, unstressed Yā' (ي) written with dots.
-* The Sound: The letter right before the Yā' must have a Kasra (ـِ), creating a long, smooth "ee" sound.
-* Key Trait: It does the "disappearing act." If you remove "Al-" (الـ), the final Yā' vanishes completely in the nominative and genitive cases (e.g., قَاضٍ instead of الْقَاضِي).
-* Examples:
-* الْقَاضِي (Al-Qāḍī – the judge)
-   * النَّادِي (Al-Nādī – the club)
-   * الْـهَادِي (Al-Hādī – the guide)
+* The Tall Alif (الأَلِف الْمَمْدُودَة / ا): Used if the word is a three-letter noun and the Alif originated from a root Waw (و).
+* Examples: عَصَا (‘Aṣā / Stick — root ع-ص-و), رِضَا (Riḍā / Contentment — root ر-ض-و).
+* The Broken Alif (الأَلِف الْمَقْصُورَة / ى): Written like a dotless Yā'. Used if the word is a three-letter noun where the Alif originated from a root Yā' (ي), or if the noun has four or more letters regardless of root origin.
+* Three-letter (from Yā'): هُدَى (Hudā / Guidance — root ه-د-ي), فَتًى (Fatan / Youth — root ف-ت-ي).
+* Four or more letters: مُصْطَفَى (Muṣṭafā), مُسْتَشْفَى (Mustashfā / Hospital), أَعْلَى (A‘lā / Highest).
+
+## C. Gender and Typological Varieties
+
+* Masculine Proper Names: مُصْطَفَى (Muṣṭafā), عِيسَى (‘Īsā / Jesus), مُوسَى (Mūsā / Moses).
+* Feminine Proper Names & Words: هُدَى (Hudā), دُنْيَا (Dunyā / World), سَلْوَى (Salwā / Solace).
+* Elative/Superlative Adjectives (Feminine Pattern فُعْلَى): كُبْرَى (Kubrā / Biggest), صُغْرَى (Ṣughrā / Smallest), أُولَى (Ūlā / First).
+
+## D. Complete Grammatical Case Behavior (I'rab)
+Because an Alif can never physically support a vowel accent, all short vowels are 100% hidden (Muqaddarah) across all structural states. The grammatical justification is always cited as Impossibility (Al-Ta'adh-dhur).
+## 1. When Definite (With "Al-" or in a Possessive Chain)
+The spelling remains completely frozen, and a single vowel is implied.
+
+* Nominative (Subject): جَاءَ الْمُصْطَفَى (Jā'a al-Muṣṭafā) → Marfū‘ via an implied Damma due to impossibility.
+* Accusative (Object): رَأَيْتُ الْمُصْطَفَى (Ra'aytu al-Muṣṭafā) → Manṣūb via an implied Fatha due to impossibility.
+* Genitive (After Preposition): مَرَرْتُ بِالْمُصْطَفَى (Marartu bil-Muṣṭafā) → Majrūr via an implied Kasra due to impossibility.
+
+## 2. When Indefinite (No "Al-" and No Possessive Chain)
+When made indefinite, an Ism Maqṣūr undergoes Tanween of the Alif Maqṣūr. A Tanween Fath (ـً) is placed on the letter preceding the Alif. This marker does not change with the cases; it is a phonetic device showing the noun is indefinite. The vowel is still entirely hidden.
+
+* Nominative: هَذَا فَتًى (Hādhā fatan / This is a youth) → Implied Damma.
+* Accusative: رَأَيْتُ فَتًى (Ra'aytu fatan) → Implied Fatha.
+* Genitive: مَرَرْتُ بِفَتًى (Marartu bi-fatan) → Implied Kasra.
 
 ------------------------------
-## 3. الاسْم الْمَمْدُود (Al-Ism Al-Mamdūd) — The "Extended" Noun
+## 2. اِلِاسْمُ الْمَنْقُوصُ (Al-Ism Al-Manqūṣ) — The "Defective" Noun## A. The Strict Structural Rule
+An Ism Manqūṣ is defined as a declinable noun that permanently ends in an Essential, Unstressed Yā' (Yā' Lāzimah) written with dots. The letter immediately preceding this Yā' must always carry a Kasra (ـِ), resulting in an unchangeable long "ee" sound.
+## B. Gender and Typological Varieties
 
-* The Rule: A noun that permanently ends in an extended Alif followed by a Hamza (ـاء).
-* The Sound: It creates an "aa'-a" sound at the very end.
-* Key Trait: These nouns often follow specific patterns for colors, feminine names, or plurals. They are usually diptotes (meaning they don't take double vowels/tanween).
-* Examples:
-* حَسْنَاءُ (Ḥasnā'u – Hasna / beautiful)
-   * سَمَاءٌ (Samā'un – sky)
-   * صَحْرَاءُ (Ṣaḥrā'u – desert)
-   * أَصْدِقَاءُ (Aṣdiqā'u – friends)
+* Masculine Proper Names: شَادِي (Shādī), فَادِي (Fādī), هَانِي (Hānī), رَامِي (Rāmī).
+* Active Participles / Occupations: الْقَاضِي (Al-Qāḍī / The judge), الْوَادِي (Al-Wādī / The valley), الرَّاعِي (Al-Rā‘ī / The shepherd), الْمُحَامِي (Al-Muḥāmī / The lawyer).
+
+## C. Complete Grammatical Case Behavior (I'rab)
+The grammatical behavior shifts significantly based on whether the word is Definite or Indefinite. Vowels can be hidden due to Heaviness (Al-Thiqal) or can become completely visible.
+## 1. When Definite (With "Al-" or in a Possessive Chain)
+The final Yā' remains physically written. Vowels that are heavy to pronounce on a Yā' are hidden, while light vowels are fully pronounced.
+
+* Nominative: جَاءَ الْقَاضِي (Jā'a al-Qāḍī) → Marfū‘ via an implied Damma hidden due to heaviness (Thiqal). (Pronouncing al-Qāḍiyu is rejected).
+* Genitive: مَرَرْتُ بِالْقَاضِي (Marartu bil-Qāḍī) → Majrūr via an implied Kasra hidden due to heaviness (Thiqal). (Pronouncing al-Qāḍiyi is rejected).
+* Accusative: رَأَيْتُ الْقَاضِيَ (Ra'aytu al-Qāḍiya) → Manṣūb via a clear, fully visible Fatha (ـَ). The Fatha is phonetically light on a Yā', so it must be displayed and spoken.
+
+## 2. When Indefinite (The "Disappearing Act" Rule)
+When an Ism Manqūṣ is completely isolated from "Al-" or an Idafah chain, it undergoes a dramatic morphological change in the Nominative and Genitive states: The final Yā' is completely deleted from both writing and speech, replaced by a double-kasra (Tanween Kasr).
+
+* Nominative State: هَذَا قَاضٍ (Hādhā qāḍin / This is a judge).
+* Analysis: It is Marfū‘ via an estimated Damma on the deleted Yā'. The double-kasra is not the case marker; it is an exchange marker (Tanween al-‘Iwaḍ) compensating for the lost letter.
+* Genitive State: مَرَرْتُ بِقَاضٍ (Marartu bi-qāḍin / I passed by a judge).
+* Analysis: It is Majrūr via an estimated Kasra on the deleted Yā'.
+* Accusative State: رَأَيْتُ قَاضِياً (Ra'aytu qāḍiyan / I saw a judge).
+* Analysis: The Yā' completely returns! Because the Fatha is light, the Yā' is restored to hold the visible Tanween Fath marker.
 
 ------------------------------
-## The Cheat Sheet Summary Table
-Use this quick matrix whenever you get stuck. Just look at the final letters of the noun:
+## 3. اِلِاسْمُ الْمَمْدُودُ (Al-Ism Al-Mamdūd) — The "Extended" Noun## A. The Strict Structural Rule
+An Ism Mamdūd is defined as a declinable noun that permanently ends in a Hamza sitting on the line, immediately preceded by an extra, elongated Alif (Alif Zā'idah / ـاء). It produces a distinct "aa'-a" sound.
+## B. Fully Comprehensive Structural Types & Case Behavior
+Unlike the Maqṣūr and Manqūṣ categories, the Ism Mamdūd always displays 100% visible vowels on its final Hamza. However, whether it declines flexibly with double vowels (Tanween) or behaves as a restricted single-vowel diptote (Mam nū' min al-Sarf) is governed entirely by the morphological history of that Hamza.
+There are four exact structural types:
+------------------------------
+## Type 1: The Original Hamza (أَصْلِيَّة)
+The Hamza is a permanent root letter found in the base verb.
 
-| Category | Arabic Name | What the ending looks like | Final Sound | Clear Example |
-|---|---|---|---|---|
-| 1. Maqṣūr | الْمَقْصُور | ـا or ـى (no dots) | Long "aa" | مُصْطَفَى (Muṣṭafā) |
-| 2. Manqūṣ | الْمَنْقُوص | ـي (with dots) | Long "ee" | النَّادِي (Al-Nādī) |
-| 3. Mamdūd | الْمَمْدُود | ـاء (Alif + Hamza) | "aa'-a" | سَمَاء (Samā') |
+* Morphology: Root of قُرَّاء (Reciters) is ق-ر-أ (Qara'a / To read). Root of اِبْتِدَاء (Beginning) is ب-د-أ (Bada'a / To begin).
+* Declension Rule: Fully Flexible (Munṣarif). It accepts full Tanween and standard masculine/feminine usage.
+* Case Matrix Example (قُرَّاءٌ):
+* Nominative: هَؤُلَاءِ قُرَّاءٌ (...qurrā'un) → Visible Tanween Damm.
+   * Accusative: أُحِبُّ قُرَّاءً (...qurrā'an) → Visible Tanween Fath.
+   * Genitive: مَرَرْتُ بِقُرَّاءٍ (...qurrā'in) → Visible Tanween Kasr.
 
-## ⚠️ The Three "Imposters" to Watch Out For:
-Before classifying a word, make sure it isn't tricking you:
+------------------------------
+## Type 2: The Converted Hamza (مُنْقَلِبَة عَنْ أَصْل)
+The Hamza was originally a weak root consonant—either a Waw (و) or a Yā' (ي)—that mutated into a Hamza because it followed an elongated Alif.
 
-   1. Verbs do not count: مَشَى (Mashā) ends like a Maqṣūr, but it is a past-tense verb, not a noun!
-   2. Pronouns do not count: حَيَاتِي (Ḥayātī) ends in a Yā', but that Yā' is just the attached pronoun for "my," not part of the root word.
-   3. Shaddah does not count: بَاكِسْتَانِيّ (Bākistāniyy) ends in a Yā', but because it has a Shaddah (ـّ), it is a Nisbah adjective, not a Manqūṣ noun.
+* Morphology:
+* سَمَاء (Samā' / Sky) → Root is س-م-و (Samā/Yasmū / To rise). Original word was Samāw.
+   * بِنَاء (Binā' / Building) & بَنَّاء (Bannā' / Builder) → Root is ب-ن-ي (Banā/Yabnī / To build). Original word was Bināy.
+* Declension Rule: Fully Flexible (Munṣarif). It accepts full Tanween.
+* Case Matrix Example (سَمَاءٌ):
+* Nominative: هَذِهِ سَمَاءٌ (...samā'un) → Visible Tanween Damm.
+   * Accusative: رَأَيْتُ سَمَاءً (...samā'an) → Visible Tanween Fath.
+   * Genitive: نَظَرْتُ إِلَى سَمَاءٍ (...samā'in) → Visible Tanween Kasr.
 
-Now that you have seen all three side-by-side, would you like to try sorting a list of 3 new words to test your eye, or shall we look at how the grammar cases affect the Mamdūd category?
+------------------------------
+## Type 3: The Feminine Marker Hamza (زَائِدَة لِلتَّأْنِيث)
+The Hamza and its preceding Alif were completely added onto a healthy three-letter root specifically to denote the feminine gender, localized nouns, or aesthetic qualities.
+
+* Morphology:
+* صَحْرَاء (Ṣaḥrā' / Desert) → Root is ص-ح-ر (Ṣaḥra).
+   * حَسْنَاء (Ḥasnā' / Beautiful woman) → Root is ح-س-ن (Ḥasana).
+   * خَضْرَاء (Khaḍrā' / Green fem.) → Root is خ-ض-ر (Khaḍira).
+* Declension Rule: Strict Diptote (Mam nū' min al-Sarf). It is forbidden from ever taking Tanween. When indefinite and in the genitive state, it breaks standard rules by taking a Fatha instead of a Kasra.
+* Case Matrix Example (صَحْرَاءُ):
+* Nominative: هَذِهِ صَحْرَاءُ (...ṣaḥrā'u) → Single Damma.
+   * Accusative: دَخَلْتُ صَحْرَاءَ (...ṣaḥrā'a) → Single Fatha.
+   * Genitive: سِرْتُ فِي صَحْرَاءَ (...ṣaḥrā'a) → Single Fatha acting as the genitive marker!
+
+------------------------------
+## Type 4: The Plural Marker Hamza (زَائِدَة لِلْجَمْع)
+The ending was added onto a singular root specifically to construct a broken plural pattern (specifically the patterns أَفْعِلَاء or فُعَلَاء).
+
+* Morphology:
+* أَصْدِقَاء (Aṣdiqā' / Friends) → Singular is صَدِيق (Ṣadīq).
+   * عُلَمَاء (‘Ulamā' / Scholars) → Singular is عَالِم (‘Ālim).
+   * شُعَرَاء (Shu‘arā' / Poets) → Singular is شَاعِر (Shā‘ir).
+* Declension Rule: Strict Diptote (Mam nū' min al-Sarf). It operates under the exact same single-vowel restrictions as the feminine marker.
+* Case Matrix Example (أَصْدِقَاءُ):
+* Nominative: جَاءَ أَصْدِقَاءُ (...aṣdiqā'u) → Single Damma.
+   * Accusative: رَأَيْتُ أَصْدِقَاءَ (...aṣdiqā'a) → Single Fatha.
+   * Genitive: تَحَدَّثْتُ مَعَ أَصْدِقَاءَ (...aṣdiqā'a) → Single Fatha acting as the genitive marker!
+
+------------------------------
+## The Ultimate Comparative Master Matrix
+
+| Category Summary | End Look | Case: Nominative (Subject) | Case: Accusative (Object) | Case: Genitive (Prepositioned) | Core Diagnostic Pattern |
+|---|---|---|---|---|---|
+| 1. Al-Maqṣūr (Definite) | ـا / ـى | Implied Damma (Invisible) | Implied Fatha (Invisible) | Implied Kasra (Invisible) | frozen "aa" sound |
+| 1. Al-Maqṣūr (Indefinite) | ـًى | Implied Damma (Invisible) | Implied Fatha (Invisible) | Implied Kasra (Invisible) | carries permanent Tanween Fath |
+| 2. Al-Manqūṣ (Definite) | ـي | Implied Damma (Invisible) | Visible Fatha (ـَ) | Implied Kasra (Invisible) | frozen "ee" sound |
+| 2. Al-Manqūṣ (Indefinite) | ـٍ | Implied Damma on lost Yā' | Visible Tanween Fath (ـِياً) | Implied Kasra on lost Yā' | Yā' vanishes completely |
+| 3. Al-Mamdūd (Flexible) | ـاءٌ | Visible Tanween Damm (ـاءٌ) | Visible Tanween Fath (ـاءً) | Visible Tanween Kasr (ـاءٍ) | Root ends in/converts to Hamza |
+| 3. Al-Mamdūd (Diptote) | ـاءُ | Visible Single Damma (ـاءُ) | Visible Single Fatha (ـاءَ) | Visible Single Fatha (ـاءَ) | Added Feminine/Plural marker |
+
+------------------------------
+To ensure this framework becomes permanently locked into your memory, let's practice applying it directly. Consider the following synthetic sentence:
+
+فَتَّشَ الْمُحَامِي عَنْ مُصْطَفَى فِي صَحْرَاءَ وَاسِعَةٍ.
+(The lawyer searched for Mustafa in a vast desert.)
+
+If you are interested, we can analyze الْمُحَامِي, مُصْطَفَى, and صَحْرَاءَ simultaneously to observe how all three specific case mechanics operate in a single clause. Would you like to proceed with that syntactical breakdown, or do you want to explore the specific rules for making these nouns dual or plural?
+
+
 
 
 
