@@ -1798,7 +1798,44 @@ Would you like to try a brief three-sentence diagnostic drill to see if you can 
 
 
 ---
-## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
+## 📕 📗 📘 📙 📔 📓 
+
+This phrasing is an excellent, highly accurate way to summarize the whole topic! You are using precise linguistic concepts to capture the essence of the rules.
+In traditional Arabic grammar, the "verb doer" is called the الفَاعِل (al-Fāʿil / the Subject). Your phrasing perfectly maps out the three grammatical rulings (al-Aḥkām) that a Fāʿil can impose on its verb.
+Here is how your three conditions translate directly into classical Arabic grammar rules, complete with the exact linguistic terms.
+------------------------------
+## 1. "When a verb doer makes a verb obligatory feminine."
+This is called وُجُوبُ التَّأْنِيثِ (Wujūb at-Taʾnīth - Obligatory Feminisation). The Fāʿil forces the verb to take a feminine marker in two main scenarios:
+
+* Scenario A: The Fāʿil is a Real Feminine (biologically female human or animal) and is placed directly after the verb without any words separating them.
+* Example: جَاءَتْ فَاطِمَةُ (Jāʾat Fāṭimatu – Fatima came). You cannot say جَاءَ فَاطِمَةُ ❌.
+* Scenario B: The Fāʿil is a hidden pronoun (ضَمِير مُسْتَتِر) that points back to any feminine noun (real or metaphorical) that came earlier in the sentence.
+* Example: السَّيَّارَةُ وِقِفَتْ (As-sayyāratu waqafat – The car, it stopped). You cannot say السَّيَّارَةُ وَقَفَ ❌.
+
+------------------------------
+## 2. "When a verb doer makes a verb obligatory masculine."
+This is called وُجُوبُ التَّذْكِيرِ (Wujūb at-Tadhkīr - Obligatory Masculinisation) or امْتِنَاعُ التَّأْنِيثِ (Forbidden Feminisation). The Fāʿil strictly blocks the verb from being feminine in these main scenarios:
+
+* Scenario A: The Fāʿil is a Grammatical/Formal Feminine—meaning it is a biological male whose name happens to end with a feminine Tāʾ Marbūṭah (ة). Biological reality always wins.
+* Example: قَالَ حَمْزَةُ (Qāla Ḥamzahu – Hamzah said). You cannot say قَالَتْ حَمْزَةُ ❌.
+* Scenario B: The Fāʿil is separated from the verb exclusively by the exception particle إِلَّا (illā / except).
+* Example: مَا حَضَرَ إِلَّا هِنْدُ (Mā ḥaḍara illā Hindu – No one attended except Hind). You cannot say مَا حَضَرَتْ إِلَّا هِنْدُ ❌.
+
+------------------------------
+## 3. "When a verb doer makes a verb permissible feminine or masculine."
+This is called جَوَازُ التَّأْنِيثِ وَالتَّذْكِيرِ (Jawāz at-Taʾnīth wa at-Tadhkīr - Permissible Feminisation or Masculinisation). This is the exact rule from your original query! The Fāʿil allows you to choose either gender for the verb in three main scenarios:
+
+* Scenario A: The Fāʿil is a Real Feminine, but it is separated from the verb by a word or phrase (like an object or adverb).
+* Example: سَافَرَ اليَوْمَ أُمِّي OR سَافَرَتْ اليَوْمَ أُمِّي (Sāfara/Sāfarat al-yawma ummī – My mother traveled today). Both are 100% correct.
+* Scenario B: The Fāʿil is a Metaphorical Feminine (an inanimate object or abstract concept) placed after the verb.
+* Example: طَلَعَ الشَّمْسُ OR طَلَعَتِ الشَّمْسُ (Ṭalaʿa/Ṭalaʿati ash-shamsu – The sun rose). Both are 100% correct.
+* Scenario C: The Fāʿil is a Broken Plural (جَمْع تَكْسِير).
+* Example: قَالَ العُلَمَاءُ OR قَالَتِ العُلَمَاءُ (Qāla/Qālati al-ʿulamāʾu – The scholars said). Both are 100% correct.
+
+------------------------------
+Your summary shows you perfectly grasp the structural mechanics of Arabic verbs. Would you like to see how these exact rules apply to present tense verbs (using prefixes like يـ and تـ), or would you like to move on to a different Arabic grammar topic?
+
+
 
 
 ---
