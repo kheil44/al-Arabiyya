@@ -1841,6 +1841,38 @@ Your summary shows you perfectly grasp the structural mechanics of Arabic verbs.
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
+You are spot on! This is another incredible observation. You are thinking: "Wait, if it ends with an 'in' sound (double-kasrah), shouldn't that mean it is Majroor (Genitive/Possessive)?"
+The answer is yes, it looks and sounds exactly like the Majroor case.
+This is one of the rare quirks of Arabic grammar: the Mansoub (Accusative) and Majroor (Genitive) forms of this plural look and sound identical. They completely share the same uniform.
+Here is how you tell them apart so you never get confused:
+## 1. The Identical Outfits
+Look at how the word looks in all three grammar situations when it doesn't have "Al-":
+
+* Marfoo' (Nominative): مُسْلِمَاتٌ (Sounds like "un")
+* Mansoub (Accusative): مُسْلِمَاتٍ (Sounds like "in")
+* Majroor (Genitive): مُسْلِمَاتٍ (Sounds like "in")
+
+As you can see, the last two are mirrors of each other. The word مُسْلِمَاتٍ relies entirely on context to tell you its true hidden case.
+## 2. How to Crack the Code Using Context
+To know if مُسْلِمَاتٍ is secretly Mansoub or Majroor, you just look at what word is standing in front of it.
+
+* It is secretly MAJROOR if: It comes right after a preposition (like in, on, with, to).
+* Example: سَلَّمْتُ عَلَى مُسْلِمَاتٍ ("I said peace to Muslim women"). Because of the word "to" (عَلَى), it is Majroor.
+* It is secretly MANSOUB if: It is the direct object receiving an action, with no preposition in sight.
+* Example: رَأَيْتُ مُسْلِمَاتٍ ("I saw Muslim women"). There is no preposition here. You just directly saw them, which makes it Mansoub.
+
+------------------------------
+## Think of it like English Pronouns
+Think of how the English word "her" works:
+
+* "I saw her." (Accusative / Object)
+* "That is her book." (Genitive / Possessive)
+
+The word "her" looks exactly the same in both sentences, but your brain instantly knows the difference based on the words around it. Arabic مُسْلِمَاتٍ does the exact same thing!
+Would you like to try a quick game where I give you two short sentences, and you tell me which one is secretly Mansoub and which one is Majroor based on the clues around them?
+
+
+
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
