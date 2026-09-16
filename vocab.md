@@ -113,6 +113,48 @@ For a male speaker:
 ---
 ### 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+------------------------------
+
+
+
+
+Here is the complete side-by-side progression of your direction sentence, formatted clearly so you can easily compare how the structure and vowels shift!
+## 1. The Original Full Sentence (With عَلَى and شِمَالِكَ)## السُّوقُ عَلَى يَمِينِكَ وَالْمَكْتَبَةُ عَلَى شِمَالِكَ
+
+Translation: "The market is on your right and the library is on your left."
+Notice: Both direction words take a Kasrah (ِ) because of the word عَلَى.
+
+------------------------------
+## 2. The Adverb Version (Dropping عَلَى)## السُّوقُ يَمِينَكَ وَالْمَكْتَبَةُ شِمَالَكَ
+
+Translation: "The market is [to] your right and the library is [to] your left."
+Notice: Without the preposition, both words turn into pure adverbs and take a Fathah (َ).
+
+------------------------------
+## 3. The Custom Version (Dropping عَلَى and using يَسَارَكَ)## السُّوقُ يَمِينَكَ وَالْمَكْتَبَةُ يَسَارَكَ
+
+Translation: "The market is [to] your right and the library is [to] your left."
+Notice: Your choice of يَسَارَكَ copies the exact same adverb Fathah (َ) rule perfectly!
+
+------------------------------
+
+
 #### ➡ ➡ ➡ ➡
 
 For “I was at school,” standard Arabic uses:
@@ -2148,12 +2190,152 @@ You are looking at Dhamir al-Fasl. [1] The pronoun is just acting as the word "i
 Would you like to try a quick exercise where you build a sentence using Dhamir al-Fasl? Try turning "These are the teachers (male)" into a complete sentence, or let me know if you want to see how it works with "I" or "You"!
 
 
-
+---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
+
+In Arabic, adverbs are known as Al-Zarf (الظَّرْف) or Maf'ool Feehi (المَفْعُول فِيهِ), which literally means "the thing in which an action happens."
+Unlike English, where adverbs are a completely separate class of words usually ending in "-ly," Arabic adverbs are actually just nouns that are put into a specific grammatical state to tell you when or where something took place.
+Because they describe the circumstances of an action, Arabic adverbs follow one golden grammatical rule: They are almost always Mansoub (Accusative Case), usually ending in a Fathah (ـَ) or double-Fathah (ـً).
+------------------------------
+## The Two Main Types of Adverbs
+Arabic cleanly splits adverbs into two functional categories:
+## 1. Adverbs of Time (ظَرْفُ الزَّمَان)
+These words answer the question "When?" and specify the time an action occurred.
+
+* اليَوْمَ (Al-yawma) — Today
+* غَدًا (Ghadan) — Tomorrow
+* لَيْلًا (Laylan) — At night / Nightly
+* صَبَاحًا (Sabahan) — In the morning
+* أَبَدًا (Abadan) — Never / Forever
+* قَبْلَ (Qabla) — Before
+* بَعْدَ (Ba'da) — After
+
+Example in a sentence:
+سَأُسَافِرُ غَدًا
+(I will travel tomorrow).
+Notice the double-fathah on غَدًا making it Mansoub.
+## 2. Adverbs of Place (ظَرْفُ المَكَان)
+These words answer the question "Where?" and tell you the spatial location of an action or object.
+
+* تَحْتَ (Tahta) — Under / Below
+* فَوْقَ (Fawqa) — Above / On top of
+* أَمَامَ (Amama) — In front of
+* خَلْفَ (Khalfa) — Behind
+* بَيْنَ (Bayna) — Between
+* عِنْدَ (Inda) — At / With / By
+
+Example in a sentence:
+الكِتَابُ فَوْقَ المَكْتَبِ
+(The book is above/on the desk).
+Notice the single fathah on فَوْقَ.
+------------------------------
+## The Grammar Trap: Adverbs act as Mudhaf!
+Did you notice in the last example that the word after the adverb (المَكْتَبِ) takes a Kasrah?
+This is because location adverbs (and time words like before/after) naturally act as the Mudhaf (the first word in a possessive chain). The noun that comes directly after them is automatically forced to be the Mudhaf Ilayh, which means it must be Majroor (Genitive case with a Kasrah).
+
+* فَوْقَ المَكْتَبِ (Above the desk)
+* قَبْلَ النَّوْمِ (Before sleep)
+
+------------------------------
+## How to Turn Normal Adjectives into "-ly" Adverbs
+If you want to say adverbs of manner (like "quickly," "slowly," or "happily"), Arabic handles this by turning the standard descriptive adjective into an indefinite, Mansoub noun. This is technically called Hal (الحَال), meaning "the state of being."
+
+* سَرِيع (Fast) → سَرِيعًا (Quickly)
+* بَطِيء (Slow) → بَطِيئًا (Slowly)
+
+Example in a sentence:
+مَشَى الطَّالِبُ بَطِيئًا
+(The student walked slowly).
+------------------------------
+## Summary Cheat Sheet
+
+| Question Answered | Arabic Name | Default Case Ending | Example |
+|---|---|---|---|
+| When? (Time) | ظَرْفُ الزَّمَان | Mansoub (Fathah / Tanween Fath) | قَبْلَ (Before) / غَدًا (Tomorrow) |
+| Where? (Place) | ظَرْفُ المَكَان | Mansoub (Fathah) + forces a Kasrah on the next word | تَحْتَ الطَّاوِلَةِ (Under the table) |
+| How? (Manner) | الحَال | Mansoub (Tanween Fath) | سَرِيعًا (Quickly) |
+
+Would you like to drop one of these adverbs into a sentence to see how it changes the case of the words around it, or should we look at a few common conversational phrases that use adverbs?
+
+
 
 
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
+
+
+You have a fantastic eye for detail. The truth is, the concept of Shibh Jumlah (شِبْهُ جُمْلَةٍ) is absolutely present in both examples. It was happening behind the scenes in that first example too; I just omitted the name to avoid overloading you with too many technical terms at once.
+Here is exactly how الْكِتَابُ فَوْقَ الْمَكْتَبِ and الْقَلَمُ فَوْقَ الْكِتَابِ share the exact same structural DNA:
+## 1. What "Shibh Jumlah" actually means
+In Arabic, a Shibh Jumlah (literally a "semi-sentence" or "phrase") is not a single word. It is a package deal. It is a small phrase made up of either:
+
+* An Adverb + Noun (like فَوْقَ الْمَكْتَبِ)
+* A Preposition + Noun (like فِي الْبَيْتِ)
+
+A Shibh Jumlah cannot stand alone as a complete sentence. If you just walk up to someone and say "above the desk," they will look at you confused. It needs a subject to complete it.
+## 2. Zooming In vs. Zooming Out
+When we look at الْكِتَابُ فَوْقَ الْمَكْتَبِ, we can analyse it in two different ways depending on whether we zoom in or zoom out:
+
+* Zoomed In (Word-by-Word): We look at the gears inside the phrase. We see that فَوْقَ is a location adverb acting as a Mudhaf, and الْمَكْتَبِ is the Mudhaf Ilayh forced into taking a Kasrah.
+* Zoomed Out (Sentence Level): We look at the whole package together. The phrase فَوْقَ الْمَكْتَبِ acts as one single unit—a Shibh Jumlah. Its job in the sentence is to be the Predicate (الْخَبَر), providing the missing information about where the book is.
+
+## 3. The Mirror Image
+Look at how both sentences line up perfectly under the exact same blueprint:
+
+| Subject (المُبْتَدَأ) | The "Shibh Jumlah" Predicate (الْخَبَر) |
+|---|---|
+| الْكِتَابُ (The book) | فَوْقَ الْمَكْتَبِ (over the desk) |
+| الْقَلَمُ (The pen) | فَوْقَ الْكِتَابِ (over the book) |
+
+So, you were completely right. It was a Shibh Jumlah in both cases. In the first explanation, I focused strictly on the "zoomed-in" gear rules (Mudhaf and Mudhaf Ilayh) to show you why the Kasrah appeared. In the second explanation, I introduced the "zoomed-out" structural name for that entire package.
+Now that you see how a Shibh Jumlah works as a package, would you like to see what happens when we flip the order of the sentence—such as putting the Shibh Jumlah first (فَوْقَ الْكِتَابِ قَلَمٌ)—or would you prefer to see how a preposition creates a Shibh Jumlah too?
+
+
+Let’s completely strip away the grammar jargon.
+Think of a Shibh Jumlah (شِبْهُ جُمْلَةٍ) as an "Incomplete Phrase Package."
+The literal Arabic name means "resembles a sentence" or "semi-sentence." It is called this because it sounds like it’s almost a full sentence, but it’s missing a key piece of information.
+------------------------------
+## The 2 Styles of a Shibh Jumlah
+In Arabic, a Shibh Jumlah is created any time you use one of these two everyday language packages:
+## Style 1: A Position/Time Word + Noun (Adverb Package)
+If you walk into a room and just say these words out loud, they are a Shibh Jumlah:
+
+* فَوْقَ الْمَكْتَبِ (Above the desk...)
+* تَحْتَ الطَّاوِلَةِ (Under the table...)
+* قَبْلَ النَّوْمِ (Before sleep...)
+
+## Style 2: A Preposition + Noun (Connector Package)
+These are simple connecting words like in, on, with, or from paired with a noun:
+
+* فِي الْبَيْتِ (In the house...)
+* عَلَى السَّرِيرِ (On the bed...)
+* مَعَ الطَّالِبِ (With the student...)
+
+------------------------------
+## Why is it confusing? (The English vs. Arabic Trap)
+In English, if someone asks you, "Where is my pen?" and you answer, "In the house," that feels like a complete answer.
+But in strict Arabic logic, the phrase فِي الْبَيْتِ (In the house) is not a full sentence on its own. It is just a floating package of words (a Shibh Jumlah) waiting for an actual object to attach itself to.
+## How to turn a Shibh Jumlah into a Real Sentence
+To make a complete sentence, you simply drop a solid noun (a subject) right in front of that floating package:
+
+   1. Take your subject: الْقَلَمُ (The pen)
+   2. Add your Shibh Jumlah package: فِي الْبَيْتِ (in the house)
+   3. Result: الْقَلَمُ فِي الْبَيْتِ = "The pen is in the house."
+
+------------------------------
+## Summary to Lock It In
+
+* One Word (الْقَلَمُ) = Just a noun.
+* The Package (فِي الْبَيْتِ) = A Shibh Jumlah (It has a preposition and a noun, but it's an incomplete thought).
+* The Whole Thing Together (الْقَلَمُ فِي الْبَيْتِ) = A complete, full sentence.
+
+Does thinking of it as an "incomplete phrase package" help clear up the confusion?
+If you'd like to practice, tell me which path you want to take next:
+
+* Do you want to see how to build a Shibh Jumlah package using prepositions (like in or on)?
+* Do you want to try building a complete sentence using a location package?
+
+
 
 
 ---
