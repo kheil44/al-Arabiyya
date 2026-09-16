@@ -168,6 +168,22 @@ Notice: Without the preposition, both words turn into pure adverbs and take a Fa
 Translation: "The market is [to] your right and the library is [to] your left."
 Notice: Your choice of يَسَارَكَ copies the exact same adverb Fathah (َ) rule perfectly!
 
+**السُّوقُ عَلَى الْيَمِينِ وَالْمَكْتَبَةُ عَلَى الشِّمَالِ** — The market is on the right and the library is on the left.
+
+Both direction words take a single Kasrah (ِ) because of the preposition عَلَى that precedes them.
+
+---
+
+**السُّوقُ الْيَمِينَ وَالْمَكْتَبَةُ الشِّمَالَ** — The market is [to] the right and the library is [to] the left.
+
+Without the preposition عَلَى, both words turn into pure adverbs and take a single Fathah (َ). The definite article الـ remains at the front.
+
+---
+
+**السُّوقُ الْيَمِينَ وَالْمَكْتَبَةُ الْيَسَارَ** — The market is [to] the right and the library is [to] the left.
+
+Replacing الشِّمَالِ with الْيَسَارَ copies the exact same adverb Fathah (َ) rule. The grammar pattern mirrors perfectly—only the direction word changes, not the voweling structure.
+
 ------------------------------
 
 
