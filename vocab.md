@@ -130,13 +130,20 @@ For a male speaker:
 ------------------------------
 
 **مُحَمَّدٌ خَارِجَ الْبَيْتِ** — Mohammed is outside the house.
-*The adverb خَارِجَ takes a single Fathah because it acts as a Mudhaf (first part of a possessive chain), forcing the following noun الْبَيْتِ into Majroor with a Kasrah.*
 
-**مُحَمَّدٌ فِي الْخَارِجِ** — Mohammed is [ in the } outside.
-*When standing alone, the most natural Modern Standard Arabic option is to use the preposition فِي + the noun الْخَارِجِ (taking Kasrah). This is more fluid than the pure adverb.*
+The adverb خَارِجَ takes a single Fathah because it acts as a Mudhaf (first part of a possessive chain), forcing the following noun الْبَيْتِ into Majroor with a Kasrah.
+
+---
+
+**مُحَمَّدٌ فِي الْخَارِجِ** — Mohammed is {in the} outside.
+
+When standing alone, the most natural Modern Standard Arabic option is to use the preposition فِي + the noun الْخَارِجِ (taking Kasrah). This is more fluid than the pure adverb.
+
+---
 
 **مُحَمَّدٌ خَارِجاً** — Mohammed is outside.
-*When used as a pure standalone adverb without a following noun, خَارِج is freed from the possessive rule and gains Tanween (double Fathah: ً), becoming خَارِجاً.*
+
+When used as a pure standalone adverb without a following noun, خَارِج is freed from the possessive rule and gains Tanween (double Fathah: ً), becoming خَارِجاً.
 
 ------------------------------
 
