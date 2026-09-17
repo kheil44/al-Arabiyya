@@ -109,9 +109,10 @@ Here is the grammar breakdown:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/eC-Vz6lZQxs?list=PLD12AB760427DD567
+🎥 1- https://youtu.be/eC-Vz6lZQxs?list=PLD12AB760427DD567
+🎥 2- https://youtu.be/uX8dYCc59tg?list=PLD12AB760427DD567&t=10
 
-📚📚 page#  📝 📝 page# 📢📢  Learn Arabic grammar Lesson 7 | Madina Book 1 
+📚📚 page# 39 & 42 lesson 7 & 8  📝 📝 page# 📢📢  Learn Arabic grammar Lesson 7 | Madina Book 1 
 
 
 
