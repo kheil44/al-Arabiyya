@@ -268,7 +268,7 @@ To complete the sentence, what place would you like Aminah to go to? Tell me the
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#1 Pronouns-01-solved.pdf  📢📢
+📚📚 page#47 Dars-9  📝 📝 page#1 Pronouns-01-solved.pdf  📢📢
 
 https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567&t=194
 
@@ -312,7 +312,7 @@ Would you like to try a quick exercise where you identify if a pronoun is acting
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
 
 📚📚 page#  📝 📝 page#  📢📢
 
