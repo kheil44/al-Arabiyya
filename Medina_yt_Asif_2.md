@@ -323,7 +323,7 @@ Would you like to try a quick exercise where you identify if a pronoun is acting
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
 
-📚📚 page#  📝 📝 page#
+📚📚 page#  📝 📝 page#  📢📢
 
 
 
@@ -332,7 +332,115 @@ Would you like to try a quick exercise where you identify if a pronoun is acting
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
 
-📚📚 page#  📝 📝 page#
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
 
 
 
