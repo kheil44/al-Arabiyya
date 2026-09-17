@@ -36,7 +36,7 @@ My apologies for the messy layout. Let’s make it completely clean and easy for
 * ذَهَبَا = الْخَبَر (The News) — The whole verb block that tells us what the subject did.
 
 
-📕 📗 📘 📙 📔 📓
+## ➡ ➡ ➡ ➡ ➡
 
 In the verb ذَهَبَتْ (she went), the الْفَاعِل (the subject/doer of the action) is hidden.
 Here is the simple breakdown:
