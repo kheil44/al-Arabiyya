@@ -100,6 +100,12 @@ Here is the grammar breakdown:
 * رَجُلٌ is the مُبْتَدَأٌ مُؤَخَّرٌ (the delayed subject). Notice it still has the ضَمَّةٌ at the end!
 
 
+## ➡ ➡ ➡ ➡ ➡
+all pronouns are definite
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
 
 
 
@@ -148,6 +154,77 @@ The word with "Al-" automatically becomes the substitute.
 
 Would you like me to give you two quick practice sentences to test if you can spot the بَدَلٌ and its vowel mark?
 
+## ➡ ➡ ➡ ➡ ➡
+
+https://youtu.be/uX8dYCc59tg?list=PLD12AB760427DD567&t=3504
+
+
+## 🛠️ Fixing your Sentence with Full Tashkeel
+Here is your sentence spaced correctly, with proper spelling, and with full vowel marks:
+ذَهَبَ حَامِدٌ إِلَى الْمَسْجِدِ
+(Note: In Arabic, names like حَامِدٌ usually get a double dammah/tanween at the end when they are the subject.)
+------------------------------
+## 🕵️ Answering Your Question
+Let us look at what happens if you separate حَامِدٌ and put him at the front, like this:
+حَامِدٌ ذَهَبَ إِلَى الْمَسْجِدِ
+To answer your question: Yes, exactly! You nailed it.
+Here is the exact grammar breakdown of how that works:
+
+   1. The Big Sentence: Because it now starts with the noun حَامِدٌ, the entire big sentence is called a جُمْلَةٌ اِسْمِيَّةٌ (nominal sentence).
+   2. The Mubtada: حَامِدٌ is the مُبْتَدَأٌ (subject).
+   3. The Khabar: The phrase ذَهَبَ إِلَى الْمَسْجِدِ is a complete جُمْلَةٌ فِعْلِيَّةٌ (verbal sentence) made of a verb (ذَهَبَ) and a hidden doer (هُوَ / he).
+   4. The Connection: This entire جُمْلَةٌ فِعْلِيَّةٌ steps up to act as the خَبَرٌ (the news) for Hamid.
+
+So your logic is 100% correct! You are successfully seeing how a verbal sentence can nest inside a nominal sentence to become the خَبَرٌ.
+Would you like to try flipping this exact sentence back into a pure جُمْلَةٌ فِعْلِيَّةٌ where there is no mubtada or khabar at all?
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+Yes, absolutely! A جُمْلَةٌ فِعْلِيَّةٌ (verbal sentence) can act as the entire خَبَرٌ (predicate) for a مُبْتَدَأٌ (subject).
+When this happens, you are placing a whole action sentence inside a nominal sentence to give the "news" about the subject.
+## 🌟 How It Works
+In Arabic grammar, we say the verbal sentence is the خَبَر "in the place of a marfoo' noun" (فِي مَحَلِّ رَفْعٍ خَبَر).
+## 📸 A Simple Example
+الْوَلَدُ يَأْكُلُ التُّفَّاحَةَ
+(The boy eats the apple.)
+Let us break this down layer by layer:
+
+   1. The Big Picture:
+   * الْوَلَدُ is the مُبْتَدَأٌ (The subject starting the sentence. It has a ضَمَّةٌ).
+      * يَأْكُلُ التُّفَّاحَةَ (He eats the apple) is a complete جُمْلَةٌ فِعْلِيَّةٌ that serves as the خَبَرٌ for the boy.
+   2. The Inside Picture (The Verbal Sentence itself):
+   * يَأْكُلُ is the فِعْلٌ (verb: eats).
+      * The فَاعِلٌ (doer) is a مُسْتَتِرٌ (hidden) pronoun meaning "he" (هُوَ), which points back to the boy.
+      * التُّفَّاحَةَ is the مَفْعُولٌ بِهِ (object: the apple. It has a فَتْحَةٌ).
+   
+## 🕵️ The Golden Rule for Verbal Khabar
+For a verbal sentence to be a خَبَر, it must contain a pronoun (either visible or hidden) that links back to the مُبْتَدَأٌ. In our example, the hidden "he" inside يَأْكُلُ is the glue holding the sentence together.
+Would you like to try writing a short sentence where a girl does an action, so you can practice using a جُمْلَةٌ فِعْلِيَّةٌ as the خَبَر?
+
+## ➡ ➡ ➡ ➡ ➡
+
+You are completely right, and I apologize for that confusion! Let me correct that directly.
+The example الْوَلَدُ يَأْكُلُ التُّفَّاحَةَ actually started with a noun (الْوَلَدُ), which makes the outer sentence a جُمْلَةٌ اِسْمِيَّةٌ (nominal sentence) that merely contains a verbal phrase inside it.
+If you want a pure, complete جُمْلَةٌ فِعْلِيَّةٌ (verbal sentence) where the verb comes first, the whole structure changes.
+## 🔄 The Correct Way Around (Pure جُمْلَةٌ فِعْلِيَّةٌ)
+To make it a true verbal sentence, you must flip it so the verb is at the very front:
+يَأْكُلُ الْوَلَدُ التُّفَّاحَةَ
+(The boy eats the apple.)
+Now, let us look at the grammar rules for this true جُمْلَةٌ فِعْلِيَّةٌ:
+
+* يَأْكُلُ is the فِعْلٌ (verb) starting the sentence.
+* الْوَلَدُ is the فَاعِلٌ (the clear, visible noun subject). It gets a ضَمَّةٌ.
+* التُّفَّاحَةَ is the مَفْعُولٌ بِهِ (the object). It gets a فَتْحَةٌ.
+
+## ⚠️ Crucial Rule: No Khabar Here!
+In a pure جُمْلَةٌ فِعْلِيَّةٌ (like يَأْكُلُ الْوَلَدُ), the concepts of مُبْتَدَأٌ and خَبَرٌ do not exist at all. Those terms belong only to nominal sentences. Here, we only talk about Verb (فِعْل), Subject (فَاعِل), and Object (مَفْعُول بِه).
+Thank you for catching that! Would you like to try flipping another sentence into a pure جُمْلَةٌ فِعْلِيَّةٌ to make sure we have this 100% clear in your notes?
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
 
 
 
