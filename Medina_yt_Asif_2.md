@@ -41,6 +41,8 @@
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 🎥 https://www.youtube.com/watch?v=CjcLEyWmg0Q&list=PLD12AB760427DD567&index=10
 
+in the following "هُمَا" can be ignored i put it there to just show. in next example i took it off.
+
 My apologies for the messy layout. Let’s make it completely clean and easy for your notebook.
 هُمَا ذَهَبَا (They both went)
 
@@ -49,7 +51,17 @@ My apologies for the messy layout. Let’s make it completely clean and easy for
 * ا = الْفَاعِل (The Doer) — The letter attached to the end that actually performs the action.
 * ذَهَبَا = الْخَبَر (The News) — The whole verb block that tells us what the subject did.
 
-Would you like me to arrange الْقُرْآنُ كِتَابُ اللهِ in this exact same vertical, stacked layout for your notes?
+
+📕 📗 📘 📙 📔 📓
+
+In the verb ذَهَبَتْ (she went), the الْفَاعِل (the subject/doer of the action) is hidden.
+Here is the simple breakdown:
+
+* ذَهَبَ is the past tense verb (he went).
+* The تْ at the end is called تَاءُ التَّأْنِيثِ (the "T" of feminisation). It is just a grammar sign to show that a female did the action. It is not the doer itself.
+* The actual الْفَاعِل is a مُسْتَتِر (hidden) pronoun, which is هِيَ (she).
+
+Would you like to practice finding the الْفَاعِل in another sentence, or should we look at how the verb changes for أَنَا (I) and أَنْتَ (you)?
 
 
 
