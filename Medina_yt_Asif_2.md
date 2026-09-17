@@ -2,13 +2,11 @@
 
 ---
 
-[Go to Tutorials](#tutorials)
+## ➡ ➡ ➡ ➡ ➡
 
-[Go to Vocabulary](#vocabulary)
+## ➡ ➡ ➡ ➡ ➡
 
-[Go to SimpleSentences](#SimpleSentences)
-
-[Go to Numbers In Tables](#Numbers)
+## ➡ ➡ ➡ ➡ ➡
 
 
  
