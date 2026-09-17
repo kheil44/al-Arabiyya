@@ -338,6 +338,8 @@ On its own, **تَقْدِيرُهُ هُوَ** is incomplete — it sets up the
 
 ## ➡ ➡ ➡ ➡ ➡
 
+_at book page 51._
+
 ###  الْوَلَدُ الطَّوِيلُ الَّذِي خَرَجَ مِنَ الْفَصْلِ الْآنَ طَالِبٌ مِنَ الْهِنْدِ
 
 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567&t=1452
@@ -417,7 +419,89 @@ Because the whole sentence starts with the noun الْوَلَدُ, this entire 
 That was a long, beautiful sentence! For your notes, would you like to see how to rewrite this exact sentence for a girl (The tall girl who left...), so you can see how الَّذِي and the verb change?
 
 ## ➡ ➡ ➡ ➡ ➡
+
+## topic "إِلَى" , "هُ" and "إِلَيْهِ" done.
+
+https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567&t=3296
+
+#### Explanation of _yyaa_ is bit different though in following explanation to video; 
+
+## 🛠️ What Happens When You Add هُ to إِلَى
+When you connect the attached pronoun هُ (him/it) to the preposition إِلَى, two changes happen:
+
+   1. The Shape Changes: The final letter of إِلَى transforms into a regular, flat يـ so it can glue onto the pronoun.
+   2. The Vowel Sign Changes: The ضَمَّةٌ on the هُ shifts to a كَسْرَةٌ (هِ) simply to make it smoother and easier to pronounce after the "ay" sound.
+
+With full vowel marks, it becomes:
+إِلَيْهِ
+(Translation: To him / To it)
+------------------------------
+## 🔬 Full Grammar Analysis
+Here is how you break down إِلَيْهِ for your notes:
+
+* إِلَى: This is the حَرْفُ جَرٍّ (preposition).
+* الْهَاءُ (the هِ letter): This is the ضَمِيرٌ مُتَّصِلٌ (attached pronoun).
+* The Rule: Because it is attached to a preposition, this pronoun takes the place of a noun. In grammar terms, we say it is "in the place of a kasrah" (فِي مَحَلِّ جَرٍّ اِسْمٌ مَجْرُورٌ).
+* The Team Name: Together, the entire word إِلَيْهِ forms a جَارٌّ وَمَجْرُورٌ phrase.
+
+## 📸 Example in a Sentence
+ذَهَبَ حَامِدٌ إِلَى الْمَسْجِدِ وَدَخَلَ إِلَيْهِ
+(Hamid went to the mosque and entered into it.)
+
+* Here, إِلَيْهِ means "into it," where the هِ points back to the mosque so you do not have to repeat the word الْمَسْجِدِ twice.
+
+Would you like to see how إِلَى changes when you attach أَنَا (meaning "to me") or أَنْتَ (meaning "to you")?
+
+
+
 ## ➡ ➡ ➡ ➡ ➡
+
+No, that is actually a common point of confusion! The letter at the end of إِلَى does not have two dots underneath it.
+Here is the exact breakdown for your notes:
+## 1. The Floating Letter: أَلِفٌ مَقْصُورَةٌ
+The letter at the end of إِلَى is called an أَلِفٌ مَقْصُورَةٌ (a restricted or shortened Alif).
+
+* It is written exactly like a ي, but without any dots.
+* Even though it looks like a "Yaa", it sounds like a long "Aa" vowel (just like a normal standing أَلِف).
+* It never has invisible dots; it is truly dotless.
+
+## 2. The Transformation to a Real Yaa
+The only time dots appear is when you attach something to the end of it (like we just did with إِلَيْهِ).
+When you glue a ضَمِيرٌ (pronoun) to the back of it, the letter stretches out and transforms into a regular يـ with two clear dots underneath it because it is no longer at the very end of the word.
+
+* Standalone (No Dots): إِلَى (Sounds like Ilaa)
+* Attached (With Dots): إِلَيْهِ (Sounds like Ilayhi)
+
+Would you like to see a list of other common prepositions that use this dotless أَلِفٌ مَقْصُورَةٌ at the end, like عَلَى (on)?
+
+## ➡ ➡ ➡ ➡ ➡
+I completely understand why you are confused. Let me clear this up directly and simply.
+The letter at the end of إِلَى does not have dots hidden underneath it. It is born as a dotless letter.
+Here is exactly what happens when you add a pronoun:
+## 1. By Itself: It is an Alif (No Dots)
+When the word sits alone as إِلَى, that final letter is a type of Alif (the "A" sound). It is written without dots. It acts like an Alif. It sounds like an Alif. It has nothing to do with the letter Yaa.
+## 2. When Attached: It swaps out for a Yaa (With Dots)
+When you glue a pronoun like هُ to the back, the Arabic language completely swaps that Alif letter for a brand new letter: a regular يـ (Yaa, the "Y/I" sound).
+
+* It does not just sprout dots.
+* It changes its identity entirely.
+* The sound changes from an "A" sound (Ilaa) to a "Y" sound (Ilay-hi).
+
+## 🔄 Think of it like a spelling change:
+Think of it like English words when they become plural.
+
+* One fly ends with a y.
+* Two flies completely drops the y and swaps it for ie.
+
+The y did not have an ie hidden inside it. The spelling rules just forced a brand new letter to take its place.
+That is exactly what happens here:
+
+* إِلَى (Ends with an Alif) ➔ إِلَيْهِ (The Alif is dropped, and a Yaa with two dots takes its place).
+
+Does this swapping letters explanation make more sense to you now, or would you like to see another preposition that does this exact same trick?
+
+
+
 
 
 
