@@ -518,7 +518,139 @@ book page starts at https://youtu.be/xZhTG1aiEVU?list=PLD12AB760427DD567&t=1226 
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/m8jagGoG_Yk?list=PLD12AB760427DD567
 
+📚📚 page#56 exerciser  📝 📝 page# Mudafu Mudafu Alei.pdf there are couple of more with similar names 📢📢
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+### _the only time_
+
+https://youtu.be/m8jagGoG_Yk?list=PLD12AB760427DD567&t=2723
+
+An اِسْمٌ (noun) becomes مَجْرُورٌ (in the genitive case, usually ending with a كَسْرَةٌ) in only two main situations in the entire Arabic language.
+If you see a noun that is مَجْرُورٌ, it is always because of one of these two reasons:
+------------------------------
+## 1. When it comes after a حَرْفُ جَرٍّ (Preposition)
+This is the جَارٌّ وَمَجْرُورٌ rule we just practiced. Anytime a noun sits right after a preposition, it is forced to become مَجْرُورٌ.
+
+* Examples:
+* فِي الْمَدْرَسَةِ (In the school) — الْمَدْرَسَةِ is مَجْرُورٌ because of فِي.
+   * عَلَى الطَّاوِلَةِ (On the table) — الطَّاوِلَةِ is مَجْرُورٌ because of عَلَى.
+
+------------------------------
+## 2. When it is a مُضَافٌ إِلَيْهِ (The Owner in a Possession Phrase)
+When you combine two nouns to show ownership (like "The teacher's book" or "The door of the house"), the second noun—the owner—is called the مُضَافٌ إِلَيْهِ. The owner noun must always be مَجْرُورٌ.
+
+* Examples:
+* كِتَابُ الْمُعَلِّمِ (The teacher's book / The book of the teacher) — الْمُعَلِّمِ is مَجْرُورٌ because he owns the book.
+   * مِفْتَاحُ السَّيَّارَةِ (The car key / The key of the car) — السَّيَّارَةِ is مَجْرُورٌ because it is the owner/possessor.
+
+------------------------------
+## 💡 Summary Shortcut for Your Notes
+A noun only gets a كَسْرَةٌ if:
+
+   1. It has a preposition standing right in front of it.
+   2. It is the owner word in a possession combo.
+
+(Note: There is a third minor reason called التَّبَعِيَّةُ, which just means a word is copying a majroor word, like an adjective describing a majroor noun—for example, فِي الْبَيْتِ الْكَبِيرِ).
+Would you like to try a quick exercise where I give you a sentence, and you tell me which of the two main rules made the noun مَجْرُورٌ?
+
+## ➡ ➡ ➡ ➡ ➡
+
+https://youtu.be/m8jagGoG_Yk?list=PLD12AB760427DD567&t=3394
+
+No, a جَارٌّ وَمَجْرُورٌ can never ever be the مُبْتَدَأٌ!
+We looked at this rule briefly earlier, but it is such a core law of Arabic grammar that it is worth solidifying in your notes.
+Here are the two strict rules that prove why they can never mix:
+## ❌ The Conflict of Rules
+
+   1. The Mubtada Rule: A مُبْتَدَأٌ is a single noun (or an independent pronoun) that must be مَرْفُوعٌ (meaning it is in the nominative case, usually ending with a ضَمَّةٌ).
+   2. The Jar wa Majroor Rule: A جَارٌّ وَمَجْرُورٌ is a two-word phrase containing a preposition and a noun that is مَجْرُورٌ (ending with a كَسْرَةٌ).
+
+Because a phrase with a kasrah can never be a single noun with a dammah, a جَارٌّ وَمَجْرُورٌ can never pull duty as the مُبْتَدَأٌ.
+## 🔄 What Happens when it looks like a Mubtada?
+Sometimes a sentence starts with a جَارٌّ وَمَجْرُورٌ, which tricks your eyes into thinking it is the subject. When this happens, the sentence order is just flipped completely backwards:
+
+* The جَارٌّ وَمَجْرُورٌ at the front is actually the خَبَرٌ مُقَدَّمٌ (an advanced predicate/news phrase).
+* The real مُبْتَدَأٌ مُؤَخَّرٌ (delayed subject) is pushed all the way to the back.
+
+## 📸 Check Out This Example
+فِي الْفَصْلِ طَالِبٌ
+(In the classroom is a student.)
+Let us break down this flipped sentence:
+
+* فِي الْفَصْلِ: This is the جَارٌّ وَمَجْرُورٌ phrase. Because it is at the front, it is the خَبَرٌ مُقَدَّمٌ (advanced news).
+* طَالِبٌ: This is the real مُبْتَدَأٌ مُؤَخَّرٌ (delayed subject). Notice it is sitting at the very end, but it still proudly keeps its ضَمَّةٌ!
+
+Now that you know this rule completely, if I show you the sentence عَلَى الْمَكْتَبِ قَلَمٌ, can you spot the مُبْتَدَأٌ and tell me what تَشْكِيل (vowel mark) is on it?
+
+## ➡ ➡ ➡ ➡ ➡
+
+#### 🚨🚨🚨🚨🚨
+
+https://youtu.be/m8jagGoG_Yk?list=PLD12AB760427DD567&t=3479
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
 📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/LQYTEQXMzZI?list=PLD12AB760427DD567
+
+📚📚 page#  📝 📝 page#  📢📢 **Short video**
+
+#### 🚨🚨 short useful video 🚨🚨
+
+**Manʿūt (المنعوت)** = the noun being described.  
+**Naʿt (النعت)** = the adjective describing it.
+
+The naʿt agrees with the manʿūt in:
+
+- gender
+- number
+- definiteness
+- grammatical case
+
+Example:
+
+**الولدُ الصغيرُ**  
+*al-waladu aṣ-ṣaghīru* — “the small boy”
+
+- **الولدُ** = manʿūt
+- **الصغيرُ** = naʿt
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/noyMwJRsTmI?list=PLD12AB760427DD567
+
+📚📚 page#61 lession-11  📝 📝 page#  📢📢
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
 
 
 
@@ -538,31 +670,10 @@ book page starts at https://youtu.be/xZhTG1aiEVU?list=PLD12AB760427DD567&t=1226 
 📚📚 page#  📝 📝 page#  📢📢
 
 
+## ➡ ➡ ➡ ➡ ➡
 
 
----
-### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
-
-📚📚 page#  📝 📝 page#  📢📢
-
-
-
-
----
-### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
-
-📚📚 page#  📝 📝 page#  📢📢
-
-
-
-
----
-### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
-
-📚📚 page#  📝 📝 page#  📢📢
+## ➡ ➡ ➡ ➡ ➡
 
 
 
