@@ -268,7 +268,7 @@ To complete the sentence, what place would you like Aminah to go to? Tell me the
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567
 
-📚📚 page#47 Dars-9  📝 📝 page#1 Pronouns-01-solved.pdf  📢📢
+📚📚 page#47-50 Dars-9  📝 📝 page#1 Pronouns-01-solved.pdf  📢📢
 
 https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567&t=194
 
@@ -314,8 +314,110 @@ Would you like to try a quick exercise where you identify if a pronoun is acting
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#50-   "- أَيْنَ الْمُدَرِّسُ؟  -"  📝 📝 page#  📢📢
 
+
+_his repetative phrase "تَقْدِيرُهُ هُوَ " here. mean 'the estimation of it is huw,hiya etc if he says.
+https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567&t=136
+**تَقْدِيرُهُ هُوَ** literally means **"His assessment/estimation he is"** — a nominal sentence structure.
+
+Breaking it down:
+
+- **تَقْدِيرُ** (taqdīr) = estimation, assessment, evaluation, appraisal
+- **هُ** (hu) = his (possessive suffix)
+- **تَقْدِيرُهُ** = his assessment/evaluation
+- **هُوَ** (huwa) = he/it (subject pronoun)
+
+In natural English: **"His assessment is..."** (typically followed by an adjective or predicate)
+
+Example: 
+تَقْدِيرُهُ هُوَ صَحِيحٌ (His assessment is correct)
+تَقْدِيرُهُ هُوَ جَيِّدٌ (His assessment is good)
+
+On its own, **تَقْدِيرُهُ هُوَ** is incomplete — it sets up the subject but needs a complement to be fully meaningful.
+
+## ➡ ➡ ➡ ➡ ➡
+
+###  الْوَلَدُ الطَّوِيلُ الَّذِي خَرَجَ مِنَ الْفَصْلِ الْآنَ طَالِبٌ مِنَ الْهِنْدِ
+
+https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567&t=1452
+
+## 🛠️ Fixing the Arabic Spelling with Full Tashkeel
+Here are the correct spellings, joined words, and full vowel marks for your three grammar terms:
+
+   1. الِاسْمُ الْمَوْصُولُ
+   2. صِلَةُ الْمَوْصُولِ
+   3. اِسْمُ الْإِشَارَةِ
+
+------------------------------
+## 📚 Explanation of the Terms
+These are essential tools used in Arabic to point at things or connect ideas together.
+## 1. الِاسْمُ الْمَوْصُولُ (The Relative Pronoun)
+This is a word used to connect two thoughts together. In English, these are words like "who", "which", or "that". You use it when you want to give more information about a specific noun.
+
+* Most Common Examples:
+* الَّذِي (The one who / which — for a single male)
+   * الَّتِي (The one who / which — for a single female)
+* Example in a Sentence:
+* جَاءَ الطَّالِبُ الَّذِي دَرَسَ (The student who studied came.)
+
+## 2. صِلَةُ الْمَوْصُولِ (The Relative Clause / Connector Sentence)
+An الِاسْمُ الْمَوْصُولُ (like "who") cannot stand alone because it leaves you hanging. If I say, "The student who..." you are waiting to hear what happened next!
+The صِلَةُ الْمَوْصُولِ is the exact phrase or sentence that comes immediately after the relative pronoun to finish the thought and make sense of it.
+
+* Looking back at our example:
+* In the sentence جَاءَ الطَّالِبُ الَّذِي دَرَسَ, the word الَّذِي is the relative pronoun.
+   * The verb دَرَسَ (he studied) is the صِلَةُ الْمَوْصُولِ. It is the vital piece of information that clarifies who we are talking about.
+* Important Rule: The صِلَةُ الْمَوْصُولِ itself has no grammatical place (لَا مَحَلَّ لَهَا مِنَ الْإِعْرَابِ) when analyzing the big sentence; it simply exists to complete the meaning of the relative pronoun.
+
+## 3. اِسْمُ الْإِشَارَةِ (The Demonstrative Pronoun / Pointing Word)
+This is a word used to physically or mentally point at something or someone. In English, these are words like "this" or "that".
+
+* Most Common Examples for things nearby:
+* هَذَا (This — for a single male)
+   * هَذِهِ (This — for a single female)
+* Most Common Examples for things far away:
+* ذَلِكَ (That — for a single male)
+   * تِلْكَ (That — for a single female)
+* Example in a Sentence:
+* هَذَا كِتَابٌ (This is a book.)
+   * (Remember your special rule from earlier! If it has "Al-", like هَذَا الْكِتَابُ, it changes the meaning to "This book" and the second word becomes a بَدَلٌ).
+
+Would you like to try combining an اِسْمُ الْإِشَارَةِ (pointing word) and an الِاسْمُ الْمَوْصُولُ (relative pronoun) into one longer sentence to add to your notes?
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## 🛠️ Fixing your Sentence with Full Tashkeel
+First, let us fix the spelling mistakes (like changing "خلرج" to "خَرَجَ"), fix the spacing, and add full vowel marks:
+الْوَلَدُ الطَّوِيلُ الَّذِي خَرَجَ مِنَ الْفَصْلِ الْآنَ طَالِبٌ مِنَ الْهِنْدِ
+(Translation: The tall boy who left the classroom just now is a student from India.)
+------------------------------
+## 🔬 Full Grammar Analysis (Fitting Our Terms!)
+Yes! The terms we just learned fit into this sentence perfectly like puzzle pieces. Let us break it down step-by-step:
+## 1. The Big Picture (Sentence Type)
+Because the whole sentence starts with the noun الْوَلَدُ, this entire thing is a جُمْلَةٌ اِسْمِيَّةٌ (nominal sentence). This means it must have a مُبْتَدَأٌ (subject) and a خَبَرٌ (predicate/news).
+
+* The Mubtada: الْوَلَدُ (The boy) is the مُبْتَدَأٌ. It is مَرْفُوعٌ and ends with a ضَمَّةٌ.
+* The Khabar: طَالِبٌ (a student) is the خَبَرٌ. It is the actual "news" about the boy! If you skip all the descriptive words in the middle, the core sentence is simply: الْوَلَدُ طَالِبٌ (The boy is a student). It is also مَرْفُوعٌ with a ضَمَّةٌ.
+
+## 2. Fitting Our Previous Terms
+
+* الَّذِي is our الِاسْمُ الْمَوْصُولُ (relative pronoun / "who"). It is describing the boy.
+* خَرَجَ مِنَ الْفَصْلِ الْآنَ is the صِلَةُ الْمَوْصُولِ (relative clause). It is the complete verbal phrase that comes right after الَّذِي to explain which boy we are talking about.
+* Inside this clause: خَرَجَ is a past tense verb. The فَاعِلٌ (doer) inside it is a ضَمِيرٌ مُسْتَتِرٌ (hidden pronoun) meaning "he" (هُوَ), which points right back to the boy.
+* مِنَ الْفَصْلِ and مِنَ الْهِنْدِ are both examples of جَارٌّ وَمَجْرُورٌ (preposition + noun). Notice how الْفَصْلِ and الْهِنْدِ both end with a كَسْرَةٌ because of the word مِنْ.
+
+## 3. One Extra Grammar Bonus
+
+* الطَّوِيلُ (The tall) is an نَعْتٌ (adjective/description). It mimics the word الْوَلَدُ perfectly by taking الْـ and ending with a ضَمَّةٌ.
+
+That was a long, beautiful sentence! For your notes, would you like to see how to rewrite this exact sentence for a girl (The tall girl who left...), so you can see how الَّذِي and the verb change?
+
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
 
 
 
