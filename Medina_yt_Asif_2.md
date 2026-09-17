@@ -224,6 +224,41 @@ Thank you for catching that! Would you like to try flipping another sentence int
 
 
 ## ➡ ➡ ➡ ➡ ➡
+
+https://youtu.be/uX8dYCc59tg?list=PLD12AB760427DD567&t=3794
+
+_Note "  تَاءُ التَّأْنِيثِ (" in video and here
+
+## 🛠️ Fixing your Sentence with Full Tashkeel
+First, let us fix the spelling, spacing, and add full vowel marks. In Arabic, the name Aminah (آمِنَةُ) is a special female name, so it only gets one ضَمَّةٌ (no tanween) when it is the subject.
+Let us look at the two different ways we can arrange this sentence.
+------------------------------
+## 🏛️ Arrangement 1: The Pure Verbal Sentence
+If we keep the verb at the front, it looks like this:
+ذَهَبَتْ آمِنَةُ إِلَى...
+## 🔬 Grammar Analysis:
+
+* ذَهَبَتْ: This is a فِعْلٌ مَاضٍ (past tense verb: she went).
+* The تْ at the end is تَاءُ التَّأْنِيثِ (the sign of feminisation). It has a sukoon and just tells us a female did the action.
+* آمِنَةُ: This is the فَاعِلٌ (the clear, visible doer/subject). It is مَرْفُوعٌ and ends with a ضَمَّةٌ.
+* إِلَى: This is a حَرْفُ جَرٍّ (preposition: to). It is waiting for a noun to follow it!
+* Terminology: This entire sentence is a جُمْلَةٌ فِعْلِيَّةٌ (verbal sentence). There is no mubtada and no khabar here.
+
+------------------------------
+## 🔄 Arrangement 2: The Nominal Sentence (With a Flipped Subject)
+If we separate Aminah and put her at the very front of the sentence, it looks like this:
+آمِنَةُ ذَهَبَتْ إِلَى...
+## 🔬 Grammar Analysis:
+
+* آمِنَةُ: This is now the مُبْتَدَأٌ (the starting subject of the sentence). It is مَرْفُوعٌ and ends with a ضَمَّةٌ.
+* ذَهَبَتْ إِلَى...: This entire phrase is a complete جُمْلَةٌ فِعْلِيَّةٌ (verbal sentence) that acts as the خَبَرٌ (the news) for Aminah.
+* Inside this Khabar: The verb is ذَهَبَتْ. The فَاعِلٌ (doer) is no longer a visible noun. It is now a مُسْتَتِرٌ (hidden) pronoun, which is هِيَ (she), pointing back to Aminah.
+* Terminology: This entire big sentence is a جُمْلَةٌ اِسْمِيَّةٌ (nominal sentence) because it starts with a noun, and its خَبَرٌ is made of a verbal sentence.
+
+To complete the sentence, what place would you like Aminah to go to? Tell me the place (like الْمَدْرَسَةِ / the school, or الْبَيْتِ / the house) and we can practice finishing the جَارٌّ وَمَجْرُورٌ part at the end!
+
+
+
 ## ➡ ➡ ➡ ➡ ➡
 
 
@@ -231,10 +266,47 @@ Thank you for catching that! Would you like to try flipping another sentence int
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page# 📢📢
+📚📚 page#  📝 📝 page#1 Pronouns-01-solved.pdf  📢📢
 
+https://youtu.be/LWm_rDavAag?list=PLD12AB760427DD567&t=194
+
+When a ضَمِيرٌ مُتَّصِلٌ (attached pronoun) glues itself to a word, its grammatical job changes completely depending on whether it attaches to a حَرْفُ جَرٍّ (preposition) or a اِسْمٌ (noun).
+Here is the breakdown for your notes:
+------------------------------
+## 1. Attached to a حَرْفُ جَرٍّ (Preposition)
+When a pronoun attaches to a preposition, it takes the place of the noun that usually goes there.
+
+* The Rule: It becomes the اِسْمٌ مَجْرُورٌ (the object of the preposition).
+* The Term: Together, the preposition and the pronoun form a جَارٌّ وَمَجْرُورٌ phrase.
+* Examples:
+* فِيهِ (In it / In him) ➔ فِي (in) + هِ (it/him)
+   * لَكَ (For you) ➔ لَـ (for) + كَ (you)
+   * عَلَيْهَا (On her / On it) ➔ عَلَى (on) + هَا (her/it)
+
+------------------------------
+## 2. Attached to a اِسْمٌ (Noun)
+When a pronoun attaches to a regular noun, it always shows ownership or possession (like "my", "your", "his", "her").
+
+* The Rule: It automatically creates an إِضَافَةٌ (a possessive phrase/construction).
+* The Term: The noun is the مُضَافٌ (the thing owned), and the attached pronoun is the مُضَافٌ إِلَيْهِ (the owner). In grammar, the pronoun is "in the place of a kasrah" (فِي مَحَلِّ جَرٍّ مُضَافٌ إِلَيْهِ).
+* Examples:
+* كِتَابِي (My book) ➔ كِتَابٌ (book) + ي (my)
+   * بَيْتُهُ (His house) ➔ بَيْتٌ (house) + هُ (his)
+   * سَيَّارَتُكَ (Your car) ➔ سَيَّارَةٌ (car) + كَ (your)
+
+------------------------------
+## 💡 Summary Shortcut for Your Notes
+
+* Preposition + Pronoun = جَارٌّ وَمَجْرُورٌ (Object of preposition)
+* Noun + Pronoun = مُضَافٌ وَمُضَافٌ إِلَيْهِ (Ownership/Possession)
+
+Would you like to try a quick exercise where you identify if a pronoun is acting as a possessor or an object of a preposition in a couple of short phrases?
+
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
+## ➡ ➡ ➡ ➡ ➡
 
 
 
