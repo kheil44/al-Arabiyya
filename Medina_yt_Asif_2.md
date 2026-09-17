@@ -115,6 +115,42 @@ Here is the grammar breakdown:
 📚📚 page# 39 & 42 lesson 7 & 8  📝 📝 page# 📢📢  Learn Arabic grammar Lesson 7 | Madina Book 1 
 
 
+https://youtu.be/uX8dYCc59tg?list=PLD12AB760427DD567&t=145
+
+Here is a shrunk, cheat-sheet version of بَدَلٌ (The Substitute) for your notes:
+## 📝 Definition
+A بَدَلٌ is a word that clarifies and can completely replace the word before it.
+
+* الْمُبْدَلُ مِنْهُ = The main word being replaced.
+* الْبَدَلُ = The substitute.
+
+## 🌟 The Golden Copycat Rule
+The بَدَلٌ always copies the تَشْكِيل (vowel mark) of the word before it.
+
+* ضَمَّةٌ ➔ ضَمَّةٌ
+* فَتْحَةٌ ➔ فَتْحَةٌ
+* كَسْرَةٌ ➔ كَسْرَةٌ
+
+## 🎯 2 Biggest Shortcuts to Find It## 1. Title / Profession + Proper Name
+The proper name becomes the substitute.
+
+* جَاءَ الْأُسْتَاذُ مُحَمَّدٌ (The teacher, Muhammad, came.)
+* الْأُسْتَاذُ = Replaced word (has ضَمَّةٌ)
+   * مُحَمَّدٌ = بَدَلٌ (copies the ضَمَّةٌ)
+   * Test: You can erase "The teacher" and just say جَاءَ مُحَمَّدٌ.
+
+## 2. "This" (هَذَا / هَذِهِ) + A Word with الْـ
+The word with "Al-" automatically becomes the substitute.
+
+* قَرَأْتُ هَذَا الْكِتَابَ (I read this book.)
+* هَذَا = Replaced word
+   * الْكِتَابَ = بَدَلٌ (takes فَتْحَةٌ because "this" is the object of the verb)
+
+Would you like me to give you two quick practice sentences to test if you can spot the بَدَلٌ and its vowel mark?
+
+
+
+
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
