@@ -54,7 +54,7 @@ Would you like to practice finding the الْفَاعِل in another sentence, o
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪
-🎥 www.youtube.com/watch?v=CjcLEyWmg0Q&list=PLD12AB760427DD567&index=10
+🎥 https://youtu.be/ak9373FkVuM?list=PLD12AB760427DD567
 📚📚 page#33 " هَٰذَا " and " هَٰذِهِ ".
 
 
