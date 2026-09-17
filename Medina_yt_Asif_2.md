@@ -507,27 +507,18 @@ Does this swapping letters explanation make more sense to you now, or would you 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/xZhTG1aiEVU?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#54 Lesson 10  📝 📝 page#11 in notes  📢📢  Learn Arabic grammar lesson 10 part 1 
 
-
-
-
----
-### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
-
-📚📚 page#  📝 📝 page#  📢📢
-
+book page starts at https://youtu.be/xZhTG1aiEVU?list=PLD12AB760427DD567&t=1226 but important topics discussed earlier.
 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+🎥 https://youtu.be/m8jagGoG_Yk?list=PLD12AB760427DD567
 
 📚📚 page#  📝 📝 page#  📢📢
-
 
 
 
@@ -543,15 +534,6 @@ Does this swapping letters explanation make more sense to you now, or would you 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
-
-📚📚 page#  📝 📝 page#  📢📢
-
-
-
-
----
-### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
 
 📚📚 page#  📝 📝 page#  📢📢
 
@@ -578,7 +560,16 @@ Does this swapping letters explanation make more sense to you now, or would you 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
 
 📚📚 page#  📝 📝 page#  📢📢
 
@@ -605,7 +596,16 @@ Does this swapping letters explanation make more sense to you now, or would you 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/_izbKqUyb9I?list=PLD12AB760427DD567
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
 
 📚📚 page#  📝 📝 page#  📢📢
 
