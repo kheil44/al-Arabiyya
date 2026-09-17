@@ -54,7 +54,7 @@ Would you like to practice finding the الْفَاعِل in another sentence, o
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪
-🎥 https://youtu.be/ak9373FkVuM?list=PLD12AB760427DD567
+🎥 https://youtu.be/ak9373FkVuM?list=PLD12AB760427DD567 
 📚📚 page#33 " هَٰذَا " and " هَٰذِهِ ".  📢📢 Learn Arabic grammar lesson 6 Part 2 | Madina Book 1 
 
 
