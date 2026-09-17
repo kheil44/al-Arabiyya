@@ -50,7 +50,7 @@ Here is the simple breakdown:
 Would you like to practice finding the الْفَاعِل in another sentence, or should we look at how the verb changes for أَنَا (I) and أَنْتَ (you)?
 
 
-
+## ➡ ➡ ➡ ➡ ➡
 
 
 ---
