@@ -55,14 +55,33 @@ Would you like to practice finding the الْفَاعِل in another sentence, o
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪
 🎥 www.youtube.com/watch?v=CjcLEyWmg0Q&list=PLD12AB760427DD567&index=10
+📚📚 page no 6  📝 📝 page no
 
 
 
-
+---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
 
 📚📚 page no 6  📝 📝 page no
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page no 6  📝 📝 page no
+
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page no 6  📝 📝 page no
+
 
 
 
