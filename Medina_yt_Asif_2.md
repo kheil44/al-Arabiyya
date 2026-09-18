@@ -627,9 +627,9 @@ Example:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/YP-OcVEYiMk?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#63 Lesson 12  📝 📝 page#  📢📢
 
 ## ➡ ➡ ➡ ➡ ➡
 
