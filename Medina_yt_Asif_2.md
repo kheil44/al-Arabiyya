@@ -699,7 +699,7 @@ _**dived straight into Plurals on page 69**_
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/On2NF5RkGV4?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#82  Lesson 14 📝 📝 page#  📢📢
 
 
 ## ➡ ➡ ➡ ➡ ➡
@@ -712,9 +712,10 @@ _**dived straight into Plurals on page 69**_
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567
+2️⃣ still Lesson 14
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#  📝 📝 page#  📢📢  Learn Arabic grammar: The ism Ayyu and revisting lesson 14 
 
 
 
