@@ -1000,9 +1000,9 @@ Would you like to try a three-question quiz specifically targeting التَّم�
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/B1JOKUFl8wk?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#105  Lesson 19 📝 📝 page#  📢📢
 
 ## ➡ ➡ ➡ ➡ ➡
 
@@ -1015,9 +1015,9 @@ Would you like to try a three-question quiz specifically targeting التَّم�
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/C7JdRskFVt4?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#109  Lesson 20  📝 📝 page#  📢📢
 
 ## ➡ ➡ ➡ ➡ ➡
 
