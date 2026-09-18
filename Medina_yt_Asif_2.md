@@ -715,16 +715,23 @@ _**dived straight into Plurals on page 69**_
 🎥 https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567
 2️⃣ still Lesson 14
 
-📚📚 page#  📝 📝 page#  📢📢  Learn Arabic grammar: The ism Ayyu and revisting lesson 14 
+📚📚 page#84   📝 📝 page#  📢📢  Learn Arabic grammar: The ism Ayyu and revisting lesson 14 
+
+https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
+➡ Q4 Iqra ... like " أيُّ يومٍ هذا؟ " etc.
+
+🎥 https://youtu.be/ZZhNzddhPm8?list=PLD12AB760427DD567
+
+➡ ➡ **_grammatical analysis of Surah Fatiha_**
 
 
 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/jG6qO4ghrAw?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#87-91 Lesson 15  📝 📝 page#  📢📢
 
 
 
