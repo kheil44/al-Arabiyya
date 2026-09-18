@@ -753,10 +753,232 @@ https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 https://youtu.be/sqXK4CN3Cpw?list=PLD12AB760427DD567
+
+📚📚 page#96 Lesson 17  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+According to Bro Asif, two "مَفَاعِلُ" and "مَفَاعِيلُ"
+
+## ➡ ➡ ➡ ➡ ➡
+
+Yes, it is true! Several specific patterns of جَمْعُ التَّكْسِيرِ (broken plurals) are classified as مَمْنُوعٌ مِنَ الصَّرْفِ (diptotes). [1, 2] 
+In Arabic grammar, these are known as مُنْتَهَى الْجُمُوعِ (the ultimate plurals). This means they are words that have been pluralized to the absolute highest degree and cannot be broken down any further. [3, 4] 
+## 🚫 The 2 Rules of a Diptote Plural
+When a broken plural fits one of these diptote patterns, it obeys two strict laws:
+
+   1. No Tanween: It can never take a double vowel (ـٌ / ـً / ـٍ). It only gets a single vowel line.
+   2. The Kasrah Block: If it enters a مَجْرُورٌ state (like coming after a preposition), it refuses to take a كَسْرَةٌ. Instead, it uses a فَتْحَةٌ to represent the genitive case. [2, 5, 6] 
+
+------------------------------
+## 🗺️ The 4 Major Diptote Plural Patterns
+Look for a distinct rhythm: these patterns almost always feature an Alif of plurality (ـاـ) in the middle, followed by either two letters or three letters (with a long "ee" sound in the middle). [4, 7] 
+## 1. مَفَاعِلُ (mafāʿil)
+This pattern has an Alif followed by two letters with a kasrah on the first one. [7, 8] 
+
+* 
+* مَسَاجِدُ (Mosques — singular: مَسْجِدٌ)
+* مَدَارِسُ (Schools — singular: مَدْرَسَةٌ)
+* مَكَاتِبُ (Offices — singular: مَكْتَبٌ)
+* Grammar test: فِي مَسَاجِدَ كَبِيرَةٍ (In big mosques). Notice مَسَاجِدَ takes a فَتْحَةٌ after the preposition, while its normal adjective takes a regular تَنْوِين كَسْرٍ! [5, 9] 
+* 
+
+## 2. مَفَاعِيلُ (mafāʿīl)
+This pattern has an Alif followed by three letters, with a long ي (yaas) sitting in the middle. [7, 10] 
+
+* 
+* مَفَاتِيحُ (Keys — singular: مِفْتَاحٌ)
+* مَصَابِيحُ (Lamps — singular: مِصْبَاحٌ)
+* تَلَامِيذُ (Pupils/Students — singular: تِلْمِيذٌ) [7, 9, 11] 
+* 
+
+## 3. فُعَلَاءُ (fuʿalāʾ)
+This is an incredibly common pattern for human traits, professions, or roles. It ends with an أَلِف مَمْدُودَة (ـاءُ). [5, 12] 
+
+* 
+* فُقَرَاءُ (Poor people — singular: فَقِيرٌ)
+* أَغْنِيَاءُ (Rich people — singular: غَنِيٌّ)
+* وُزَرَاءُ (Ministers — singular: وَزِيرٌ)
+* زُمَلَاءُ (Colleagues — singular: زَمِيلٌ) [5, 11, 13] 
+* 
+
+## 4. أَفْعِلَاءُ (ʾafʿilāʾ)
+Similar to the pattern above, this also ends in ـاءُ but starts with an extra Hamza at the front. [11, 13] 
+
+* 
+* أَصْدِقَاءُ (Friends — singular: صَدِيقٌ)
+* أَقْرِبَاءُ (Relatives — singular: قَرِيبٌ)
+* أَنْبِيَاءُ (Prophets — singular: نَبِيٌّ) [13, 14] 
+* 
+
+------------------------------
+
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+🎥 https://youtu.be/IiRwg6CKuyQ?list=PLD12AB760427DD567
+
+📚 page#  📝 📝 page#
+
+
+#### _Construction of Dual and Plural nouns_
+
+A brief introduction as its explained in Book 3 in detail there.
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 🎥https://youtu.be/o8T5_Rc2LI4?list=PLD12AB760427DD567
+
+📚 page#100 Lesson 18   📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
 
 📚📚 page#  📝 📝 page#  📢📢
 
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
 
 
 
@@ -766,7 +988,14 @@ https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
 
 📚📚 page#  📝 📝 page#  📢📢
 
+## ➡ ➡ ➡ ➡ ➡
 
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
 
 
 ---
@@ -775,7 +1004,29 @@ https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
 
 📚📚 page#  📝 📝 page#  📢📢
 
+## ➡ ➡ ➡ ➡ ➡
 
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
 
 
 ---
@@ -783,6 +1034,77 @@ https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
 🎥 
 
 📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+---
+### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
+🎥 
+
+📚📚 page#  📝 📝 page#  📢📢
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+
+## ➡ ➡ ➡ ➡ ➡
 
 
 
