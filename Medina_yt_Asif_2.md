@@ -687,17 +687,17 @@ _**dived straight into Plurals on page 69**_
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 3️⃣ 
+🎥 https://youtu.be/GfOwo1watzs?list=PLD12AB760427DD567
+3️⃣  Learn Arabic grammar lesson 13 Part 2 
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#  📝 📝 page#  📢📢 **continuation**
 
 
 
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
-4️⃣
+🎥 https://youtu.be/On2NF5RkGV4?list=PLD12AB760427DD567
 
 📚📚 page#  📝 📝 page#  📢📢
 
