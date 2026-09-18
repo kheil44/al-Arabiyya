@@ -629,7 +629,7 @@ Example:
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/YP-OcVEYiMk?list=PLD12AB760427DD567
 
-📚📚 page#63 Lesson 12  📝 📝 page#  📢📢
+📚📚 page#63 Lesson 12  📝 📝 page#  📢📢  Learn Arabic grammar Lesson 12 
 
 ## ➡ ➡ ➡ ➡ ➡
 
@@ -640,11 +640,14 @@ Example:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/R_Y4dKr6c-0?list=PLD12AB760427DD567
+1️⃣  Learn Arabic grammar lesson
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#69?  📝 📝 page#  📢📢 **ARIC – Arabic Class Notes[of http://AbdurRahman.Org/]**
 
 ## ➡ ➡ ➡ ➡ ➡
+
+_**dived straight into Plurals on page 69**_
 
 
 
@@ -653,9 +656,10 @@ Example:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/xlujcG8fMHI?list=PLD12AB760427DD567
+2️⃣ Learn Arabic grammar lesson 13 Part 1 
 
-📚📚 page#  📝 📝 page#  📢📢
+📚📚 page#68 Lesson 13  📝 📝 page#  📢📢  **Now the use of those Plurals that were done earlier.**
 
 ## ➡ ➡ ➡ ➡ ➡
 
@@ -667,7 +671,7 @@ Example:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 https://youtu.be/noyMwJRsTmI?list=PLD12AB760427DD567
+🎥 ????  https://youtu.be/noyMwJRsTmI?list=PLD12AB760427DD567
 
 📚📚 page#61 lession-11  📝 📝 page#  📢📢
 
@@ -683,7 +687,7 @@ Example:
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 3️⃣ 
 
 📚📚 page#  📝 📝 page#  📢📢
 
@@ -693,6 +697,7 @@ Example:
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 
+4️⃣
 
 📚📚 page#  📝 📝 page#  📢📢
 
