@@ -843,12 +843,130 @@ A brief introduction as its explained in Book 3 in detail there.
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 🎥https://youtu.be/o8T5_Rc2LI4?list=PLD12AB760427DD567
+🎥 https://youtu.be/o8T5_Rc2LI4?list=PLD12AB760427DD567
 
-📚 page#100 Lesson 18   📝 📝 page#  📢📢
+📚 page#100 Lesson 18   📝 📝 page#  📢📢 **An early introudction of Al tamyeez (التَمْيِيز) after Kam (كَمْ)**
 
 ## ➡ ➡ ➡ ➡ ➡
 
+otherwise we will study  Al tamyeez (التَمْيِيز) after Kam (كَمْ)  in Book2
+
+You are completely right, and that is a massive omission on my part!
+The word كَمْ (How many? / How much?) is one of the most famous and absolute biggest triggers for التَّمْيِيزُ in the entire Arabic language.
+In fact, whenever you want to ask "How many" of something, the word that follows كَمْ is structurally forced to follow the exact tamyeez rules we just went over.
+------------------------------
+## 🗺️ The Two Types of كَمْ
+In Arabic, كَمْ is split into two categories based on whether you are asking a question or making an exclamation. Both of them interact directly with التَّمْيِيزُ:
+## 1. كَمْ الِاسْتِفْهَامِيَّةُ (The Questioning "Kam")
+This is used when you are asking a direct question because you want to know the exact number of something.
+
+* The Rule: The noun after it must be a classic tamyeez: singular, indefinite (no "Al-"), and مَنْصُوبٌ (ending with a double fatha).
+* Examples:
+* كَمْ كِتَابًا قَرَأْتَ؟ (How many books did you read?)
+   * كَمْ طَالِبًا فِي الْفَصْلِ؟ (How many students are in the classroom?)
+   * كَمْ سَيَّارَةً عِنْدَكَ؟ (How many cars do you have?)
+
+------------------------------
+## 2. كَمْ الْخَبَرِيَّةُ (The Exclamatory / Informative "Kam")
+This is used when you aren't actually asking a question. Instead, you are boasting or exclaiming about a huge quantity of something (like saying, "Oh, how many times have I told you!" or "So many books I have read!").
+
+* The Rule: Because it means "so many" rather than a specific number, the noun after it shifts. It remains an indefinite tamyeez, but it becomes مَجْرُورٌ (ending with a kasrah). It can also be either singular or plural.
+* Examples:
+* كَمْ كِتَابٍ قَرَأْتُ! (So many books I have read!)
+   * كَمْ بَيْتٍ مَرَرْتُ بِهِ! (How many a house I have passed by!)
+   * كَمْ مِنْ قَلِيلٍ كَثُرَ! (How many a small thing has become big! — Notice you can also use "min" here).
+
+------------------------------
+## 📝 Updated Shrunk Checklist for your Notes
+
+* كَمْ + Singular Indefinite Double Fatha (ـً) = A direct question asking "How many?"
+* كَمْ + Indefinite Kasrah (ـٍ) = An exclamation meaning "So many!" or "How numerous!"
+
+Thank you for catching that! It is a critical puzzle piece for mastering the specifier concept.
+Would you like to try a quick exercise where you change a questioning sentence like "How many pens do you have?" into an exclamatory sentence meaning "So many pens I have!"?
+
+
+
+## ➡ ➡ ➡ ➡ ➡
+
+Here is a dedicated, comprehensive study guide for التَّمْيِيزُ (The Specifier/Clarifier) that breaks down all the properties we discovered. It includes all rules, types, triggers, and examples with full تَشْكِيلُ and strict left alignment.
+------------------------------
+## 📚 The Ultimate Guide to التَّمْيِيزُ## 🎯 1. Core Definition & The 5 Rules
+The تَمْيِيزٌ is a word used to remove ambiguity from a vague word or a vague sentence. It answers the hidden question: "In terms of what?" or "With respect to what?"
+Every standard تَمْيِيزٌ holds 5 specific traits at the exact same time:
+
+   1. نَكِرَةٌ (Indefinite) ➔ It never has الْـ.
+   2. مَنْصُوبٌ (Accusative) ➔ It ends with a فَتْحَةٌ or تَنْوِينُ فَتْحٍ (ـً).
+   3. جَامِدٌ (Solid Noun) ➔ It must be a concrete item or absolute concept noun, not a descriptive adjective.
+   4. مُفْرَدٌ (Singular) ➔ It always stays singular in form, even if the amount is huge or plural.
+   5. فَضْلَةٌ (Extra Element) ➔ Grammatically, the sentence remains legal if you remove it, even though the meaning becomes mysterious.
+
+------------------------------
+## 🗺️ 2. The Two Structural Categories## Category A: تَمْيِيزُ الذَّاتِ (Clarifying a Single Word)
+This type clears up a single vague word right before it. It triggers after four specific concepts:
+## 1. After Numbers (الْأَعْدَاد) — Specifically 11 to 99:
+
+* رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا (I saw eleven planets.)
+* فِي الْفَصْلِ عِشْرُونَ طَالِبًا (In the classroom are twenty students.)
+* Notice: طَالِبًا is singular, even though there are twenty of them!
+
+## 2. After Weight Measurements (الْوَزْن):
+
+* اِشْتَرَيْتُ رِطْلًا زَيْتًا (I bought a pound of oil.)
+* عِنْدِي كِيلُو غِرَامًا عَسَلًا (I have a kilogram of honey.)
+
+## 3. After Volume / Capacity Measurements (الْكَيْل):
+
+* شَرِبْتُ كُوبًا لَبَنًا (I drank a cup of milk.)
+* بَاعَ الرَّجُلُ صَاعًا تَمْرًا (The man sold a cubic measure of dates.)
+
+## 4. After Distance / Area Measurements (الْمِسَاحَة):
+
+* زَرَعْتُ فِدَّانًا أُرْزًا (I planted an acre of rice.)
+* بِعْتُ مِتْرًا حَرِيرًا (I sold a metre of silk.)
+
+------------------------------
+## Category B: تَمْيِيزُ النِّسْبَةِ (Clarifying a Relationship / Entire Sentence)
+This type clarifies the vague relationship between the verb and the subject/object, or a comparison. It is secretly a transformed word (مُحَوَّلٌ) that used to hold a different job:
+## 1. After Comparison Words (أَفْعَل التَّفْضِيل) — Originally the Subject:
+
+* أَنَا أَكْثَرُ مِنْكَ مَالًا (I have more than you in wealth.)
+* Original sentence: مَالِي أَكْثَرُ مِن مَالِكَ (My wealth is more than your wealth). مَالٌ was originally the مُبْتَدَأٌ.
+* حَامِدٌ أَكْبَرُ النَّاسِ سِنًّا (Hamid is the oldest of people with respect to age.)
+
+## 2. After Verbs of Filling or Psychological States — Originally the Doer:
+
+* اِشْتَعَلَ الرَّأْسُ شَيْبًا (The head flared up with grey hair.)
+* Original sentence: اِشْتَعَلَ شَيْبُ الرَّأْسِ (The grey hair of the head flared up). شَيْبٌ was originally the فَاعِلٌ.
+* طَابَ مُحَمَّدٌ نَفْسًا (Muhammad became happy in spirit.)
+
+## 3. After Verbs of Direct Action — Originally the Object:
+
+* فَجَّرْنَا الْأَرْضَ عُيُونًا (We caused the earth to gush with springs.)
+* Original sentence: فَجَّرْنَا عُيُونَ الْأَرْضِ (We gushed the springs of the earth). عُيُونٌ was originally the مَفْعُولٌ بِهِ.
+
+------------------------------
+## ❓ 3. The Kam (كَمْ) Rule Combo
+The word كَمْ is a massive trigger for تَمْيِيزٌ. Its vowel formatting tells the listener if you are asking a question or boasting:
+
+* Questioning "How many?" (كَمْ الِاسْتِفْهَامِيَّةُ): Followed by a standard mansub, singular double-fatha تَمْيِيز.
+* كَمْ قَلَمًا عِنْدَكَ؟ (How many pens do you have?)
+* Exclamatory "So many!" (كَمْ الْخَبَرِيَّةُ): Followed by a majroor single-noun or plural ending in a kasrah.
+* كَمْ قَلَمٍ عِنْدِي! (So many pens I have! / How numerous are my pens!)
+
+------------------------------
+## 💡 4. The Alternative "Majroor" Case Shortcut
+While the default rule states a tamyeez must be مَنْصُوبٌ (with a fatha), Arabic allows a structural bypass only for measurements and weights. You can optionally pull the tamyeez into a مَجْرُورٌ state using the preposition مِنْ:
+
+* Standard Mansub: شَرِبْتُ كُوبًا مَاءً (I drank a cup of water.)
+* Alternative Majroor: شَرِبْتُ كُوبًا مِنْ مَاءٍ (I drank a cup of water.)
+
+Would you like to try a three-question quiz specifically targeting التَّمْيِيزُ to see if you can identify its types and correct its vowel markings?
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+## ➡ ➡ ➡ ➡ ➡
 
 ## ➡ ➡ ➡ ➡ ➡
 
@@ -858,16 +976,24 @@ A brief introduction as its explained in Book 3 in detail there.
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 🎥 https://youtu.be/7S9JVXkDY7o?list=PLD12AB760427DD567
 
-📚📚 page#  📝 📝 page#  📢📢
 
-## ➡ ➡ ➡ ➡ ➡
-
+📚📚 page#  📝 📝 page#  📢📢 Learn Arabic grammar lesson 18 
 
 ## ➡ ➡ ➡ ➡ ➡
 
 
+🎥 https://youtu.be/pUxn7wHRhBI?list=PLD12AB760427DD567
+
+📚 page#  📢📢  **Learn Arabic grammar (counting masculine nouns from 1-10)**
+
+## ➡ ➡ ➡ ➡ ➡
+
+
+🎥 https://youtu.be/d0u8nNGEvGY?list=PLD12AB760427DD567
+
+📚 page#  📢📢  **Learn Arabic grammar ( preliminary lesson before lesson 19 )**
 
 ## ➡ ➡ ➡ ➡ ➡
 
