@@ -734,11 +734,17 @@ https://youtu.be/79rxN2rqnA0?list=PLD12AB760427DD567&t=1373
 📚📚 page#87-91 Lesson 15  📝 📝 page#  📢📢
 
 
+## ➡ ➡ ➡ ➡ ➡
 
+##### A short video
+
+**Translation Exercises ( Eng to Arabic)**
+
+🎥 https://youtu.be/9g5_xImxqAo?list=PLD12AB760427DD567
 
 ---
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
-🎥 
+🎥 https://youtu.be/bpiH8omtYFA?list=PLD12AB760427DD567
 
 📚📚 page#  📝 📝 page#  📢📢
 
