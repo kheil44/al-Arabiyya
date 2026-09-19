@@ -1017,7 +1017,7 @@ Would you like to try a three-question quiz specifically targeting التَّم�
 ### 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 
 🎥 https://youtu.be/C7JdRskFVt4?list=PLD12AB760427DD567
 
-📚📚 page#109  Lesson 20  📝 📝 page#  📢📢
+📚📚 page#109  Lesson 20  📝 📝 page#  📢📢 
 
 ## ➡ ➡ ➡ ➡ ➡
 
