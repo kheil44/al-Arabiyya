@@ -1242,7 +1242,95 @@ Would you like to try a three-question quiz specifically targeting التَّم�
 ---
 📚📚📚
 
+Here is a list of the vocabulary covered so far. Each Arabic word or phrase appears only once.
 
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **طَالِبٌ** | student | **أَنَا طَالِبٌ.** = I am a student. |
+| **كُرْسِيٌّ** | chair | **عَلَى الْكُرْسِيِّ** = on the chair |
+| **لَا، مَا عِنْدِي** | No, I don’t have it | **لَا، مَا عِنْدِي.** = No, I don’t have it. |
+| **قِرْشٌ** | qirsh; a small currency unit | **قِرْشٌ وَاحِدٌ** = one qirsh |
+| **قُرُوشٌ** | qirshes; plural of قِرْشٌ | **عَشَرَةُ قُرُوشٍ** = ten qirshes |
+| **مُدَرِّسٌ** | male teacher | **هُوَ مُدَرِّسٌ.** = He is a teacher. |
+| **ذَهَبٌ** | gold | **ذَهَبٌ خَالِصٌ** = pure gold |
+| **ذَهَبَ** | he went | **ذَهَبَ إِلَى الْمَدْرَسَةِ.** = He went to school. |
+| **طَبِيبٌ** | male doctor | **الطَّبِيبُ فِي الْمُسْتَشْفَى.** = The doctor is in the hospital. |
+| **غَدَاءٌ** | lunch | **تَنَاوَلْتُ غَدَاءً.** = I had lunch. |
+| **إِصْبَعٌ** | finger; toe | **أَلَمٌ فِي إِصْبَعِي.** = Pain in my finger. |
+| **أُصْبُعٌ** | finger; toe | **هَذَا أُصْبُعٌ.** = This is a finger. |
+| **ظَهْرٌ** | back; rear side | **أَلَمٌ فِي الظَّهْرِ.** = Pain in the back. |
+| **مَاءٌ** | water | **أُرِيدُ مَاءً.** = I want water. |
+| **آبٌ** | August | **وُلِدَ فِي آبٍ.** = He was born in August. |
+| **آبِ زَمْزَم** | Zamzam water, in Persian/Urdu | **آبِ زَمْزَم** = the water of Zamzam |
+| **طَعَامٌ** | food | **أُحِبُّ الطَّعَامَ الإِيطَالِيَّ.** = I like Italian food. |
+| **وَجْبَةٌ** | meal | **هَذِهِ وَجْبَةٌ كَامِلَةٌ.** = This is a complete meal. |
+| **مِلْحٌ** | salt | **أَضِفْ مِلْحًا.** = Add salt. |
+| **كُوبٌ** | cup | **كُوبُ مَاءٍ** = a cup of water |
+| **كَأْسٌ** | glass; drinking cup | **كَأْسُ عَصِيرٍ** = a glass of juice |
+| **فِنْجَانٌ** | small cup | **فِنْجَانُ قَهْوَةٍ** = a cup of coffee |
+| **قَهْوَةٌ** | coffee | **كُوبٌ مِنَ الْقَهْوَةِ** = a cup of coffee |
+| **مِرْحَاضٌ** | toilet; restroom | **أَيْنَ الْمِرْحَاضُ؟** = Where is the restroom? |
+| **حَمَّامٌ** | bathroom | **الْحَمَّامُ نَظِيفٌ.** = The bathroom is clean. |
+| **دَوْرَةُ الْمِيَاهِ** | restroom; public toilet | **أَيْنَ دَوْرَةُ الْمِيَاهِ؟** = Where is the restroom? |
+| **دَرَّاجَةٌ** | bicycle; bike | **رَكِبْتُ الدَّرَّاجَةَ.** = I rode the bicycle. |
+| **مِلْعَقَةٌ** | spoon | **أَيْنَ الْمِلْعَقَةُ؟** = Where is the spoon? |
+| **جَمَلٌ** | camel | **رَأَيْتُ جَمَلًا.** = I saw a camel. |
+| **نَاقَةٌ** | female camel | **هَذِهِ نَاقَةٌ.** = This is a female camel. |
+| **بَعِيرٌ** | riding or carrying camel | **رَكِبَ الرَّجُلُ بَعِيرًا.** = The man rode a camel. |
+| **تَحْتَ** | underneath; under | **تَحْتَ الطَّاوِلَةِ** = underneath the table |
+| **فَوْقَ** | on top of; above | **فَوْقَ الطَّاوِلَةِ** = on top of the table |
+| **خَلْفَ** | behind | **خَلْفَ الْبَابِ** = behind the door |
+| **وَرَاءَ** | behind | **وَرَاءَ الْبَيْتِ** = behind the house |
+| **مَطْعَمٌ** | restaurant | **ذَهَبْتُ إِلَى الْمَطْعَمِ.** = I went to the restaurant. |
+| **مُمَرِّضٌ** | male nurse | **الْمُمَرِّضُ فِي الْمُسْتَشْفَى.** = The nurse is in the hospital. |
+| **مُمَرِّضَةٌ** | female nurse | **الْمُمَرِّضَةُ فِي الْمُسْتَشْفَى.** = The nurse is in the hospital. |
+| **صَعْبٌ** | difficult; masculine | **هَذَا سُؤَالٌ صَعْبٌ.** = This is a difficult question. |
+| **صَعْبَةٌ** | difficult; feminine | **هَذِهِ مَسْأَلَةٌ صَعْبَةٌ.** = This is a difficult problem. |
+| **سَهْلٌ** | easy; masculine | **اِمْتِحَانٌ سَهْلٌ** = an easy exam |
+| **سَهْلَةٌ** | easy; feminine | **مَسْأَلَةٌ سَهْلَةٌ** = an easy problem |
+| **ثَانَوِيَّةٌ** | secondary school; high school | **مَدْرَسَةٌ ثَانَوِيَّةٌ** = a secondary school |
+| **مُسْتَوْصَفٌ** | clinic; medical dispensary | **ذَهَبْتُ إِلَى الْمُسْتَوْصَفِ.** = I went to the clinic. |
+| **مَلْآنٌ** | full; masculine | **كُوبٌ مَلْآنٌ بِالْمَاءِ.** = A cup is full of water. |
+| **مَلْأَى** | full; feminine | **زُجَاجَةٌ مَلْأَى.** = A full bottle. |
+| **مَمْلُوءٌ** | filled; full | **كُوبٌ مَمْلُوءٌ بِالْمَاءِ.** = A cup filled with water. |
+| **حَادٌّ** | sharp; masculine | **سِكِّينٌ حَادٌّ.** = A sharp knife. |
+| **حَادَّةٌ** | sharp; feminine | **سِكِّينٌ حَادَّةٌ.** = A sharp knife. |
+| **لِي** | for me; to me; I have in some contexts | **لِي كِتَابٌ.** = I have a book. |
+| **عِنْدِي** | I have; I possess | **عِنْدِي كِتَابٌ.** = I have a book. |
+| **زَوْجَةٌ** | wife | **هَذِهِ زَوْجَتِي.** = This is my wife. |
+| **زَوْجٌ** | husband; spouse | **هَذَا زَوْجِي.** = This is my husband. |
+| **مَطْبَخٌ** | kitchen | **أَنَا فِي الْمَطْبَخِ.** = I am in the kitchen. |
+| **مِفْتَاحٌ** | key | **أَيْنَ الْمِفْتَاحُ؟** = Where is the key? |
+| **مَفْتُوحٌ** | open | **الْبَابُ مَفْتُوحٌ.** = The door is open. |
+| **اِفْتَحْ** | open!; masculine command | **اِفْتَحْ الْبَابَ.** = Open the door. |
+| **اِفْتَحِي** | open!; feminine command | **اِفْتَحِي الْبَابَ.** = Open the door. |
+| **وَجْهٌ** | face | **غَسَلْتُ وَجْهِي.** = I washed my face. |
+| **مُوَجِّهٌ** | guide; adviser; instructor | **هُوَ مُوَجِّهٌ لِلطُّلَّابِ.** = He is an adviser to the students. |
+| **مَدْرَسَةٌ مُتَوَسِّطَةٌ** | middle school | **هَذِهِ مَدْرَسَةٌ مُتَوَسِّطَةٌ.** = This is a middle school. |
+| **الْمَرْحَلَةُ الْمُتَوَسِّطَةُ** | middle-school stage | **أَنَا فِي الْمَرْحَلَةِ الْمُتَوَسِّطَةِ.** = I am in middle school. |
+| **مُفَتِّشٌ** | inspector | **جَاءَ الْمُفَتِّشُ إِلَى الْمَدْرَسَةِ.** = The inspector came to the school. |
+| **شَابٌّ** | young man | **هُوَ شَابٌّ.** = He is a young man. |
+| **شَابَّةٌ** | young woman | **هِيَ شَابَّةٌ.** = She is a young woman. |
+| **فَتًى** | boy; young man | **رَأَيْتُ فَتًى.** = I saw a boy. |
+| **فَتَاةٌ** | girl; young woman | **هَذِهِ فَتَاةٌ.** = This is a girl. |
+| **سَطْحٌ** | surface | **سَطْحُ الْمِيَاهِ** = the surface of the water |
+| **مِيَاهٌ** | water; waters | **سَطْحُ الْمِيَاهِ** = the surface of the water |
+| **مَطَارٌ** | airport | **وَصَلْتُ إِلَى الْمَطَارِ.** = I arrived at the airport. |
+| **طَارَ** | he flew | **طَارَ الطَّائِرُ فَوْقَ الْبَحْرِ.** = The bird flew over the sea. |
+| **يَطِيرُ** | he/it flies | **يَطِيرُ الْعُصْفُورُ فَوْقَ الشَّجَرَةِ.** = The bird flies above the tree. |
+| **طَائِرٌ** | bird | **رَأَيْتُ طَائِرًا جَمِيلًا.** = I saw a beautiful bird. |
+| **طَائِرَةٌ** | airplane | **الطَّائِرَةُ فِي السَّمَاءِ.** = The airplane is in the sky. |
+| **طَيَرَانٌ** | flying; flight | **كَانَ الطَّيَرَانُ مُرْهِقًا.** = The flight was tiring. |
+| **أُسْبُوعٌ** | week | **هَذَا الأُسْبُوعُ** = this week |
+| **مَتَى** | when | **مَتَى يَبْدَأُ الدَّرْسُ؟** = When does the lesson begin? |
+| **أَسْلَمْتَ** | you became Muslim; masculine | **مَتَى أَسْلَمْتَ؟** = When did you become Muslim? |
+| **أَسْلَمْتِ** | you became Muslim; feminine | **مَتَى أَسْلَمْتِ؟** = When did you become Muslim? |
+| **اِخْتِبَارٌ** | test; exam | **عِنْدِي اِخْتِبَارٌ صَعْبٌ غَدًا.** = I have a difficult test tomorrow. |
+| **رَخِيصٌ** | cheap; masculine | **هَذَا رَخِيصٌ.** = This is cheap. |
+| **رَخِيصَةٌ** | cheap; feminine | **هَذِهِ رَخِيصَةٌ.** = This is cheap. |
+| **دَقِيقَةٌ** | minute | **اِنْتَظِرْ دَقِيقَةً.** = Wait a minute. |
+| **ثَانِيَةٌ** | second | **اِنْتَظِرْ ثَانِيَةً.** = Wait a second. |
+| **سَاعَةٌ** | hour | **اِنْتَظَرْتُ سَاعَةً.** = I waited for an hour. |
 
 ---
 📚📚📚
