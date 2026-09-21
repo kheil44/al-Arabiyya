@@ -1338,6 +1338,191 @@ Here is a list of the vocabulary covered so far. Each Arabic word or phrase appe
 
 
 
+
+---
+📚📚📚
+
+
+You’re right. The correct format is:
+
+**Arabic | Meaning | Usage example**
+
+### Descriptions
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **ثَقِيلٌ** | heavy; difficult; burdensome | **هٰذَا الصُّنْدُوقُ ثَقِيلٌ، وَلَا أَسْتَطِيعُ حَمْلَهُ.**<br>This box is heavy, and I cannot carry it. |
+| **خَفِيفٌ** | light; mild; slight | **هٰذَا الصُّنْدُوقُ خَفِيفٌ، وَيَسْهُلُ حَمْلُهُ.**<br>This box is light, and it is easy to carry. |
+| **بَارِدٌ** | cold; cool | **هٰذَا الشَّايُ بَارِدٌ، وَأُرِيدُهُ سَاخِنًا.**<br>This tea is cold, and I want it hot. |
+| **حَارٌّ** | hot; spicy | **هٰذَا الطَّعَامُ حَارٌّ، فَاشْرَبْ مَاءً.**<br>This food is spicy, so drink some water. |
+| **وَاسِعٌ** | wide; spacious; broad | **هٰذَا الْمَكَانُ وَاسِعٌ وَمُرِيحٌ.**<br>This place is spacious and comfortable. |
+| **ضَيِّقٌ** | narrow; tight; cramped | **هٰذَا الشَّارِعُ ضَيِّقٌ جِدًّا.**<br>This street is very narrow. |
+| **وَسِخٌ** | dirty; filthy | **هٰذَا الْقَمِيصُ وَسِخٌ، وَيَحْتَاجُ إِلَى الْغَسْلِ.**<br>This shirt is dirty and needs to be washed. |
+| **رَخِيصٌ** | cheap; inexpensive | — |
+| **رَخِيصَةٌ** | cheap; inexpensive, feminine | **هٰذِهِ الْحَقِيبَةُ رَخِيصَةٌ وَجَيِّدَةٌ.**<br>This bag is cheap and good. |
+| **غَالٍ** | expensive; costly | — |
+| **غَالِيَةٌ** | expensive; costly, feminine | **هٰذِهِ السَّيَّارَةُ غَالِيَةٌ جِدًّا.**<br>This car is very expensive. |
+| **مَلْآنٌ** | full; filled to the top | **الْكُوبُ مَلْآنٌ بِالْمَاءِ.**<br>The cup is full of water. |
+| **مُمْتَلِئٌ** | filled; full; crowded | **الْمَتْجَرُ مُمْتَلِئٌ بِالنَّاسِ.**<br>The store is full of people. |
+| **كَامِلٌ** | complete; whole; full | **اِنْتَظَرْتُ سَاعَةً كَامِلَةً.**<br>I waited for a full hour. |
+| **شَبْعَانُ** | full after eating; not hungry | **أَنَا شَبْعَانُ، لَا أُرِيدُ طَعَامًا.**<br>I am full; I do not want any food. |
+| **جَالِسٌ** | sitting; seated | **الطَّالِبُ جَالِسٌ أَمَامَ الْمُعَلِّمِ.**<br>The student is sitting in front of the teacher. |
+| **وَاقِفٌ** | standing; waiting | **الرَّجُلُ وَاقِفٌ عِنْدَ الْبَابِ.**<br>The man is standing at the door. |
+
+### Places and landforms
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **جَبَلٌ** | mountain | **يَرْتَفِعُ جَبَلٌ خَلْفَ الْمَدِينَةِ.**<br>A mountain rises behind the city. |
+| **جَبَلٌ شَاهِقٌ** | towering mountain | **يَرْتَفِعُ جَبَلٌ شَاهِقٌ خَلْفَ الْمَدِينَةِ.**<br>A towering mountain rises behind the city. |
+| **تَلٌّ** | hill; small elevation | **جَلَسْنَا فَوْقَ تَلٍّ أَخْضَرَ.**<br>We sat on a green hill. |
+| **هَضْبَةٌ** | plateau | **تَقَعُ الْقَرْيَةُ فَوْقَ هَضْبَةٍ مُرْتَفِعَةٍ.**<br>The village is on a high plateau. |
+| **سِلْسِلَةٌ جَبَلِيَّةٌ** | mountain range | **تَمْتَدُّ سِلْسِلَةٌ جَبَلِيَّةٌ عَلَى طُولِ السَّاحِلِ.**<br>A mountain range stretches along the coast. |
+| **قِمَّةٌ** | peak; summit | **وَصَلَ الْمُتَسَلِّقُ إِلَى الْقِمَّةِ.**<br>The climber reached the summit. |
+| **سَفْحٌ** | mountain slope; foothill | **بَنَى الْفَلَّاحُ بَيْتَهُ عِنْدَ سَفْحِ الْجَبَلِ.**<br>The farmer built his house at the foot of the mountain. |
+| **بُرْكَانٌ** | volcano | **يَنْفَثُ الْبُرْكَانُ الدُّخَانَ.**<br>The volcano releases smoke. |
+| **قَرْيَةٌ** | village; rural community | **تَقَعُ الْقَرْيَةُ قُرْبَ النَّهْرِ.**<br>The village is near the river. |
+| **بَلْدَةٌ** | town; small city | **تَقَعُ بَلْدَتُنَا قُرْبَ الْبَحْرِ.**<br>Our town is near the sea. |
+| **حَقْلٌ** | field; farm field; specialized field | **يَعْمَلُ الْفَلَّاحُ فِي الْحَقْلِ كُلَّ يَوْمٍ.**<br>The farmer works in the field every day. |
+| **بُحَيْرَةٌ** | lake | **تَقَعُ الْبُحَيْرَةُ قُرْبَ الْجَبَلِ.**<br>The lake is near the mountain. |
+| **نَهْرٌ** | river | **يَجْرِي النَّهْرُ بَيْنَ الْقُرَى.**<br>The river flows between the villages. |
+| **بَحْرٌ** | sea; ocean | **نَسْكُنُ قُرْبَ الْبَحْرِ وَنَسْمَعُ أَمْوَاجَهُ.**<br>We live near the sea and hear its waves. |
+| **حَيٌّ** | neighborhood; district; alive; living | **أَسْكُنُ فِي حَيٍّ هَادِئٍ.**<br>I live in a quiet neighborhood. |
+
+### Roads and transportation
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **شَارِعٌ** | street; avenue | **يَقَعُ الْمَطْعَمُ فِي هٰذَا الشَّارِعِ.**<br>The restaurant is on this street. |
+| **طَرِيقٌ** | road; way; path | **هٰذَا الطَّرِيقُ يُؤَدِّي إِلَى الْقَرْيَةِ.**<br>This road leads to the village. |
+| **طَرِيقٌ سَرِيعٌ** | highway; expressway | **سَلَكْنَا الطَّرِيقَ السَّرِيعَ لِنَصِلَ مُبَكِّرًا.**<br>We took the highway to arrive early. |
+| **عَجَلَةٌ** | wheel; haste | **اِنْكَسَرَتْ عَجَلَةُ السَّيَّارَةِ.**<br>The car’s wheel broke. |
+| **حَافِلَةٌ** | bus; coach | **أَرْكَبُ الْحَافِلَةَ إِلَى الْجَامِعَةِ.**<br>I take the bus to the university. |
+| **رَاكِبٌ** | passenger; rider | **الرَّاكِبُ جَالِسٌ فِي الْحَافِلَةِ.**<br>The passenger is sitting on the bus. |
+| **سَائِقٌ** | driver; chauffeur | **السَّائِقُ يَقُودُ الْحَافِلَةَ بِحَذَرٍ.**<br>The driver drives the bus carefully. |
+
+### Body parts
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **وَجْهٌ** | face; front or surface | **أَغْسِلُ وَجْهِي كُلَّ صَبَاحٍ.**<br>I wash my face every morning. |
+| **رَأْسٌ** | head; top | **أَضَعُ الْقُبَّعَةَ عَلَى رَأْسِي.**<br>I put the hat on my head. |
+| **فَمٌ** | mouth | **يَفْتَحُ الطَّبِيبُ فَمِي لِيَفْحَصَ أَسْنَانِي.**<br>The doctor opens my mouth to examine my teeth. |
+| **أَنْفٌ** | nose | **أَنْفِي صَغِيرٌ وَلَكِنَّهُ حَسَّاسٌ.**<br>My nose is small, but it is sensitive. |
+| **أُذُنٌ** | ear; handle of a container | **أَسْمَعُ بِأُذُنِي صَوْتَ الطَّائِرِ.**<br>I hear the bird’s voice with my ear. |
+| **يَدٌ** | hand; help or assistance | **أَغْسِلُ يَدَيَّ قَبْلَ الطَّعَامِ.**<br>I wash my hands before eating. |
+| **إِصْبَعٌ** | finger; toe | **أُشِيرُ بِإِصْبَعِي إِلَى الْبَابِ.**<br>I point to the door with my finger. |
+| **ظُفْرٌ** | fingernail; claw | **قَصَصْتُ ظُفْرِي لِأَنَّهُ طَوِيلٌ.**<br>I cut my fingernail because it is long. |
+| **صَدْرٌ** | chest; breast | **أَشْعُرُ بِأَلَمٍ فِي صَدْرِي.**<br>I feel pain in my chest. |
+| **ظَهْرٌ** | back; rear side | **أَضَعُ الْحَقِيبَةَ عَلَى ظَهْرِي.**<br>I put the bag on my back. |
+| **مَعِدَةٌ** | stomach | **تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ.**<br>My stomach hurts after the meal. |
+| **رِجْلٌ** | leg; foot | **أَمْشِي بِرِجْلَيَّ كُلَّ يَوْمٍ.**<br>I walk with my legs every day. |
+
+### Food and meals
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **خُبْزٌ** | bread; loaf of bread | **أَشْتَرِي خُبْزًا طَازَجًا كُلَّ صَبَاحٍ.**<br>I buy fresh bread every morning. |
+| **أَرُزٌّ** | rice | **أَطْبُخُ أَرُزًّا مَعَ الدَّجَاجِ.**<br>I cook rice with chicken. |
+| **فُطُورٌ** | breakfast; meal that breaks a fast | **أَتَنَاوَلُ الْفُطُورَ فِي الصَّبَاحِ.**<br>I eat breakfast in the morning. |
+| **غَدَاءٌ** | lunch; midday meal | **أَتَنَاوَلُ الْغَدَاءَ مَعَ عَائِلَتِي.**<br>I eat lunch with my family. |
+| **عَشَاءٌ** | dinner; evening meal | **أَتَنَاوَلُ الْعَشَاءَ لَيْلًا مَعَ أُسْرَتِي.**<br>I eat dinner at night with my family. |
+
+### Time
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **ثَانِيَةٌ** | second | **اِنْتَظِرْ ثَانِيَةً وَاحِدَةً، مِنْ فَضْلِكَ.**<br>Wait one second, please. |
+| **دَقِيقَةٌ** | minute | **سَأَرْجِعُ بَعْدَ دَقِيقَةٍ وَاحِدَةٍ.**<br>I will return after one minute. |
+| **سَاعَةٌ** | hour; clock; watch | **تَسْتَغْرِقُ الرِّحْلَةُ سَاعَةً كَامِلَةً.**<br>The journey takes a full hour. |
+| **سَاعَةٌ يَدَوِيَّةٌ** | wristwatch | **أَنْظُرُ إِلَى سَاعَتِي الْيَدَوِيَّةِ لِأَعْرِفَ الْوَقْتَ.**<br>I look at my wristwatch to know the time. |
+| **أَمْسِ** | yesterday | **ذَهَبْتُ إِلَى السُّوقِ أَمْسِ.**<br>I went to the market yesterday. |
+| **الْيَوْمَ** | today | **أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ الْيَوْمَ.**<br>I am learning Arabic today. |
+| **غَدًا** | tomorrow | **سَأَزُورُ صَدِيقِي غَدًا.**<br>I will visit my friend tomorrow. |
+| **الْآنَ** | now; at this moment | **أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ الْآنَ.**<br>I am learning Arabic now. |
+| **أُسْبُوعٌ** | week | **أَزُورُ أَهْلِي كُلَّ أُسْبُوعٍ.**<br>I visit my family every week. |
+| **شَهْرٌ** | month | **أَعْمَلُ هُنَا مُنْذُ شَهْرٍ.**<br>I have been working here for a month. |
+| **سَنَةٌ** | year | **دَرَسْتُ الْعَرَبِيَّةَ مُدَّةَ سَنَةٍ.**<br>I studied Arabic for a year. |
+| **عَامٌ** | year; complete or specific calendar year | — |
+
+### People and family
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **مُفَتِّشٌ** | inspector; examiner | **يَفْحَصُ الْمُفَتِّشُ جَوَازَ سَفَرِي.**<br>The inspector checks my passport. |
+| **زَمِيلٌ** | colleague; classmate; peer | **هٰذَا زَمِيلِي فِي الْعَمَلِ.**<br>This is my colleague at work. |
+| **ضَيْفٌ** | guest; visitor | **جَاءَ ضَيْفٌ إِلَى بَيْتِنَا هٰذَا الْمَسَاءَ.**<br>A guest came to our house this evening. |
+| **حَفِيدٌ** | grandson; male grandchild | **هٰذَا حَفِيدِي، وَهُوَ يَزُورُنِي كُلَّ أُسْبُوعٍ.**<br>This is my grandson, and he visits me every week. |
+| **حَفِيدَةٌ** | granddaughter; female grandchild | **هٰذِهِ حَفِيدَتِي، وَهِيَ تُحِبُّ الْقِرَاءَةَ.**<br>This is my granddaughter, and she loves reading. |
+
+### Shopping and objects
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **شَرِكَةٌ** | company; business; corporation | **أَعْمَلُ فِي شَرِكَةٍ كَبِيرَةٍ.**<br>I work for a large company. |
+| **مَتْجَرٌ** | store; shop | **أَذْهَبُ إِلَى الْمَتْجَرِ لِشِرَاءِ الْخُبْزِ.**<br>I go to the store to buy bread. |
+| **مِسْطَرَةٌ** | ruler; measuring stick | **أَقِيسُ الطُّولَ بِالْمِسْطَرَةِ.**<br>I measure the length with a ruler. |
+| **قَلَمُ رَصَاصٍ** | pencil | **أَكْتُبُ بِقَلَمِ الرَّصَاصِ.**<br>I write with a pencil. |
+| **مَجَلَّةٌ** | magazine; journal | **أَقْرَأُ مَجَلَّةً عَنْ تَارِيخِ الْعَالَمِ.**<br>I read a magazine about world history. |
+| **خَصْمٌ** | discount; price reduction | **هُنَاكَ خَصْمٌ عَلَى هٰذَا الْمُنْتَجِ.**<br>There is a discount on this product. |
+| **مُخَفَّضٌ** | discounted; reduced in price | **هٰذَا السِّعْرُ مُخَفَّضٌ الْيَوْمَ.**<br>This price is discounted today. |
+| **نِصْفُ السِّعْرِ** | half price | **اِشْتَرَيْتُهُ بِنِصْفِ السِّعْرِ.**<br>I bought it at half price. |
+| **ثَمَنٌ** | price; cost; value | **مَا ثَمَنُ هٰذَا الْكِتَابِ؟**<br>What is the price of this book? |
+| **سِعْرٌ** | listed price; market price; rate | **اِنْخَفَضَ سِعْرُ الْخُبْزِ.**<br>The price of bread decreased. |
+| **مَجَّانًا** | for free | **اِشْتَرِ وَاحِدًا وَخُذِ الثَّانِيَ مَجَّانًا.**<br>Buy one, get one free. |
+
+### Education and communication
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **كُلِّيَّةٌ** | college; faculty | **أَدْرُسُ فِي كُلِّيَّةِ الطِّبِّ.**<br>I study at the medical college. |
+| **كُلْيَةٌ** | kidney | — |
+| **مَجَالٌ** | field; area; domain | — |
+| **تَخَصُّصٌ** | specialization; field of study | **مَا تَخَصُّصُكَ؟**<br>What is your field of study? |
+| **سُؤَالٌ** | question; inquiry | **لَدَيَّ سُؤَالٌ عَنِ الدَّرْسِ.**<br>I have a question about the lesson. |
+| **جَوَابٌ** | answer; reply; response | **هٰذَا جَوَابٌ صَحِيحٌ لِلسُّؤَالِ.**<br>This is the correct answer to the question. |
+
+### Other words
+
+| Arabic | Meaning | Usage example |
+|---|---|---|
+| **حَجَرٌ** | stone | **هٰذَا حَجَرٌ.**<br>This is a stone. |
+| **رَجَعَ** | he returned; he went back | **رَجَعَ أَبِي مِنَ الْعَمَلِ مُبَكِّرًا.**<br>My father returned from work early. |
+| **حَيٌّ** | alive; living | **هٰذَا النَّبَاتُ حَيٌّ وَلَمْ يَمُتْ.**<br>This plant is alive and has not died. |
+| **اِشْتَرِ وَاحِدًا وَخُذِ الثَّانِيَ مَجَّانًا.** | buy one, get one free | **اِشْتَرِ وَاحِدًا وَخُذِ الثَّانِيَ مَجَّانًا.**<br>Buy one, get one free. |
+
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+---
+📚📚📚
+
+
+
+
 ---
 
  🌹 📚📚📚  🕋🕋  ⭐⭐⭐ 🌿🌿  ⬆️ ⬇️ ⬅️ ➡️ ↗️ ↘️ ↙️ ↖️ ⤴️ ⤵️ 🔝 🔜 🔙 🔚 ☝️ 👇 👈 👉 ⏩ ⏪ ⏫ ⏬ 🔀 🔁 🔂 
