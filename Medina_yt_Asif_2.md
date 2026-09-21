@@ -1353,7 +1353,9 @@ You’re right. The correct format is:
 |---|---|---|
 | **ثَقِيلٌ** | heavy; difficult; burdensome | **هٰذَا الصُّنْدُوقُ ثَقِيلٌ، وَلَا أَسْتَطِيعُ حَمْلَهُ.**<br>This box is heavy, and I cannot carry it. |
 | **خَفِيفٌ** | light; mild; slight | **هٰذَا الصُّنْدُوقُ خَفِيفٌ، وَيَسْهُلُ حَمْلُهُ.**<br>This box is light, and it is easy to carry. |
-| **بَارِدٌ** | cold; cool | **هٰذَا الشَّايُ بَارِدٌ، وَأُرِيدُهُ سَاخِنًا.**<br>This tea is cold, and I want it hot. |
+| **بَارِدٌ** | | Arabic | Meaning | Usage example |
+| **حَارٌّ** | hot in temperature; spicy | **هٰذَا الطَّعَامُ حَارٌّ، فَاشْرَبْ مَاءً.**<br>**Translation:** This food is spicy, so drink some water. |
+| **سَاخِنٌ** | hot or warm to touch; high in temperature | **هٰذَا الشَّايُ سَاخِنٌ.**<br>**Translation:** This tea is hot. |cold; cool | **هٰذَا الشَّايُ بَارِدٌ، وَأُرِيدُهُ سَاخِنًا.**<br>This tea is cold, and I want it hot.|
 | **حَارٌّ** | hot; spicy | **هٰذَا الطَّعَامُ حَارٌّ، فَاشْرَبْ مَاءً.**<br>This food is spicy, so drink some water. |
 | **وَاسِعٌ** | wide; spacious; broad | **هٰذَا الْمَكَانُ وَاسِعٌ وَمُرِيحٌ.**<br>This place is spacious and comfortable. |
 | **ضَيِّقٌ** | narrow; tight; cramped | **هٰذَا الشَّارِعُ ضَيِّقٌ جِدًّا.**<br>This street is very narrow. |
