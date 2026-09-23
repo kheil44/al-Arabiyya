@@ -630,6 +630,75 @@ Would you like to move on to learning the structural rules for attaching object 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
+I completely understand, and you are entirely right! I apologize for cutting corners and removing that column.  
+When you want an exhaustive architectural master document, nothing should be shrunk or left out. I have expanded the table to its absolute maximum width, ensuring it contains every single tense, every exact formula, the structural transformations, and the specific grammatical shift details all in one massive view.  
+Here is your fully detailed, complete master tutorial:  
+------------------------------
+## The Complete Morphological Blueprint of the 10 Arabic Verb Forms (**الأَوْزَانُ الْعَشَرَةُ**)
+In Arabic, vocabulary expansion is governed by a 3-letter root engine plugged into 10 standard structural templates. Grammarians refer to these templates as Forms I through X.
+When you inject a core 3-letter root into one of these templates, the factory shape alters the baseline concept in a highly predictable, mathematical manner. This comprehensive tutorial provides a master blueprint mapping the structural behaviour of verbs across all ten standard patterns.
+------------------------------
+## PART 1: Advanced Phonological Anomalies (The Hidden Sound Rules)
+When applying these abstract templates, certain letters cause the pronunciation or spelling to adapt to preserve natural speech patterns:
+## Anomaly 1: The Form IV Present-Tense Contraction
+When the root letter **ي** follows the fixed Form IV present prefix **يُـ** (which carries a Dammah), transitioning directly from a Dammah to a native "Y" sound is awkward.
+
+* The system automatically contracts the combination.
+* The prefix **يُـ** combined with the root letter **ي** transforms into a prolonged Waw (و) sound:## **يُـ + يْـقِظُ = يُوقِظُ**
+
+## Anomaly 2: The Form VIII Consonant Merging (Assimilation)
+When a core root begins with the letter **ي** (like **يَقِظَ**), and you attempt to drop it into the Form VIII template (**اِفْتَعَلَ**), the initial root letter interacts with the template's embedded ت.
+
+* To prevent awkward pronunciation, the initial root letter **ي** is completely absorbed.
+* It merges permanently into the template's ت, resulting in a double ت marked with a Shaddah:## **اِفْتَعَلَ → اِيْتَقَظَ → اِتَّقَظَ**
+
+------------------------------
+## PART 2: The Ultimate Unified Master 10-Form Architectural Grid
+This comprehensive blueprint maps the trilateral root **ي - ق - ظ** (representing the concept of wakefulness, alertness, or vigilance) across all 10 forms, all grammatical tenses, along with their exact structural shifts and definitions.
+
+| Form | Abstract Past Pattern | Abstract Present Pattern | Abstract Command Pattern | Core Grammatical Shift / Meaning Definition | Past Tense Verb (**هُوَ** / He) | Present Tense Verb (**هُوَ** / He) | Future Tense Verb (**هُوَ** / He) | Command Tense Verb (You - Masc. Sing.) | English Meanings (Past → Present → Future → Command) |
+|---|---|---|---|---|---|---|---|---|---|
+| I | **فَعِلَ** | **يَفْعَلُ** | **اِفْعَلْ** | The Ground Zero State: Represents the basic, raw root concept without any added letters. Usually describes an internal state or simple condition. | # **يَقِظَ** | # **يَيْقَظُ** | # **سَيَيْقَظُ** | # **اِيْقَظْ** | He was awake → He is awake → He will be awake → Be awake! |
+| II | **فَعَّلَ** | **يُفَعِّلُ** | **فَعِّلْ** | Causative / Intensive upgrade: Created by doubling the middle root letter with a Shaddah. Forces an action to happen intensely, or repeatedly to an external object. | # **يَقَّظَ** | # **يُيَقِّظُ** | # **سَيُيَقِّظُ** | # **يَقِّظْ** | He thoroughly alerted → He alerts → He will alert → Alert someone! |
+| III | **فَاعَلَ** | **يُفَاعِلُ** | **فَاعِلْ** | Interactive / Mutual Action: Created by inserting an Alif after the first letter. Implies performing the action dynamically alongside, with, or towards another person. | # **يَاقَظَ** | # **يُيَاقِظُ** | # **سَيُيَاقِظُ** | # **يَاقِظْ** | He watched over → He watches over → He will watch over → Watch over! |
+| IV | **أَفْعَلَ** | **يُفْعِلُ** | **أَفْعِلْ** | Transitive / Instant Causative: Adding an explicit glottal Hamza prefix. Transforms the internal state into an immediate action forced upon an external object. | # **أَيْقَظَ** | # **يُوْقِظُ** | # **سَيُوْقِظُ** | # **أَيْقِظْ** | He woke someone up → He wakes them up → He will wake them up → Wake them up! |
+| V | **تَفَعَّلَ** | **يَتَفَعَّلُ** | **تَفَعَّلْ** | Reflexive of Form II: Form II combined with a **تَـ** prefix. Shows the performer making a conscious, deliberate internal effort to achieve the state for themselves. | # **تَيَقَّظَ** | # **يَتَيَقَّظُ** | # **سَيَتَيَقَّظُ** | # **تَيَقَّظْ** | He became vigilant → He stays vigilant → He will stay vigilant → Stay alert! |
+| VI | **تَفَاعَلَ** | **يَتَفَاعَلُ** | **تَفَاعَلْ** | Simulation / Pretence: Form III combined with a **تَـ** prefix. Grammatically used to denote pretending, acting, or feigning to be in the state of the root word. | # **تَيَاقَظَ** | # **يَتَيَاقَظُ** | # **سَيَتَيَاقَظُ** | # **تَيَاقَظْ** | He pretended to wake → He pretends to wake → He will pretend → Pretend to wake! |
+| VII | **اِنْفَعَلَ** | **يَنْفَعِلُ** | **اِنْفَعِلْ** | The Automatic Passive: Planted with an **اِنْـ** prefix. Indicates becoming the passive victim of an external action happening to you. (Rare/Theoretic for this root). | # **اِنْيَقَظَ** | # **يَنْيَقِظُ** | # **سَيَنْيَقِظُ** | # **اِنْيَقِظْ** | He was shaken awake → He gets shaken awake → He will get awake → Be shaken awake! |
+| VIII | **اِفْتَعَلَ** | **يَفْتَعِلُ** | **اِفْتَعِلْ** | Intentional Reflexive Assimilation: Inserting an infixed ت inside the root structure. Denotes completely transforming or fully entering into a state. | # **اِتَّقَظَ** | # **يَتَّقِظُ** | # **سَيَتَّقِظُ** | # **اِتَّقِظْ** | He rised wide awake → He rises wide awake → He will rise awake → Wake up fully! |
+| IX | **اِفْعَلَّ** | **يَفْعَلُّ** | **اِفْعَلَّ** | Defects and Color Intensification: Created by doubling the final root letter. Reserved for permanent physical variations or flaws. (Theoretic layout for this root). | # **اِيْقَظَّ** | # **يَيْقَظُّ** | # **سَيَيْقَظُّ** | # **اِيْقَظَّ** | (Pattern structurally invalid for non-color physical roots) |
+| X | **اِسْتَفْعَلَ** | **يَسْتَفْعِلُ** | **اِسْتَفْعِلْ** | Seeking or Achieving the State: Instantly recognizable by its signature **اِسْتَـ** prefix block. Indicates actively seeking or completing the process of entering the state. | # **اِسْتَيْقَظَ** | # **يَسْتَيْقِظُ** | # **سَيَسْتَيْقِظُ** | # **اِسْتَيْقِظْ** | He woke up → He wakes up → He will wake up → Wake up! |
+
+------------------------------
+## PART 3: Form IV vs Form X Conversational Syntax
+To understand how these templates operate in real dialogue, observe the functional difference between Form IV (Transitive/Action on others) and Form X (Intransitive/Action on self):
+## Example 1: Form X (Action directed entirely at oneself)
+
+* ## **اِسْتَيْقَظْتُ مُبَكِّرًا فِي الصَّبَاحِ.**Translation: I woke up early in the morning.
+
+## Example 2: Form IV (Action forced upon another object)
+
+* ## **أَيْقَظْتُ أَخِي لِيَذْهَبَ إِلَى الْمَدْرَسَةِ.**Translation: I woke my brother up so that he could go to school.
+
+------------------------------
+Now that this absolute master architectural layout is locked down with zero data stripped, let me know how you want to proceed. We can:
+
+* Map out the Active Noun Derivatives (**اسم الفاعل**) and Passive Noun Derivatives (**اسم المفعول**) across all 10 forms.
+* Pick a completely different 3-letter root (like **كَتَبَ** or **دَخَلَ**) and run it through this exact complete framework.
+* Introduce negation systems across this 10-form model.
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
+
+
+
+
 ---
 📚📚📚
 
