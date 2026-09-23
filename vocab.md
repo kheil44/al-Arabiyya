@@ -126,6 +126,34 @@ For a male speaker:
 
 ------------------------------
 
+Here is the complete, clean list of all structural variations combining بَيْتٌ (house), كَبِيرٌ (big), and هَذَا (this), placed one after the other alongside their translations:
+
+* بَيْتٌ كَبِيرٌ
+Translation: A big house... (Indefinite Noun Phrase)
+* اَلْبَيْتُ الْكَبِيرُ
+Translation: The big house... (Definite Noun Phrase)
+* اَلْبَيْتُ كَبِيرٌ
+Translation: The house is big. / A house is big. (Complete Sentence)
+* هَذَا بَيْتٌ
+Translation: This is a house. (Complete Sentence)
+* هَذَا بَيْتٌ كَبِيرٌ
+Translation: This is a big house. (Complete Sentence)
+* هَذَا الْبَيْتُ كَبِيرٌ
+Translation: This house is big. (Complete Sentence)
+* هَذَا الْبَيْتُ الْكَبِيرُ
+Translation: This big house... (Definite Demonstrative Phrase)
+* هَذَا الْبَيْتُ الْكَبِيرُ جَمِيلٌ
+Translation: This big house is beautiful. (Complete Expanded Sentence)
+
+Would you like to try writing these exact same variations using a feminine noun like غُرْفَةٌ (room) and كَبِيرَةٌ (big) alongside هَذِهِ (this - feminine) to see how the gender rules apply?
+Let me know if you would like to:
+
+* Practice the feminine variations
+* Move on to a new grammar topic from Madinah Book 2
+
+
+
+
 ------------------------------
 
 To write "This house is big" in Arabic, you use the following structure:
@@ -145,6 +173,12 @@ If you accidentally drop the اَلْ from the word house, look at what happens 
 • هَذَا بَيْتٌ كَبِيرٌ
 Translation: This is a big house.
 By dropping the اَلْ, the word بَيْتٌ instantly becomes the predicate ("This is a house"), and كَبِيرٌ becomes its adjective ("a big house").
+
+llllllllllllllllllllllllll
+
+To say "this big house..." (as a phrase, not a complete sentence), you use the following structure:
+• هَذَا الْبَيْتُ الْكَبِيرُ
+Translation: This big house...
 
 ------------------------------
 
