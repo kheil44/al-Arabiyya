@@ -437,7 +437,7 @@ Now that your master blueprint is locked in, how should we test it? Let me know 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
-💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
 In daily conversational Arabic, you do not need all 14 pronouns equally. In fact, you can comfortably handle about 85% of normal daily speech by focusing on just five core pronoun forms.
 These are the combinations you will use constantly when talking about yourself, speaking directly to someone, or talking about another person.
@@ -483,12 +483,13 @@ To see how these five look in real life, let’s run the common verb دَخَل�
 ------------------------------
 Would you like to pick one specific verb from your advanced list (like **طَبَخَ
 ** to cook, or سَمِعَ to hear) and practice forcing it through just these five daily combinations? Let me know which verb you choose!
-💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
+
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
-💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
 Yes, absolutely! Just like with the pronouns, you do not need all 10 verb forms equally in daily life. In fact, out of the 10 forms, Forms I, II, IV, and X are the absolute heavy lifters of the Arabic language.  
 If you master just these four forms, you will unlock more than 80% of all verbs used in daily conversations, media, and reading. The others (like Form IX or Form VII) are either incredibly rare or mostly theoretical.  
@@ -515,7 +516,49 @@ Look at how focusing on just these 4 forms allows you to effortlessly multiply y
 Would you like to take a brand new conversational root verb like **قَبِلَ
 ** (to accept) or **خَرَجَ** (to go out) and run it through just these 4 essential forms across your 14-pronoun grid, or should we look at how to add nouns to them?
 
-💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
+💡💡💡💡💡💡💡
+
+This is a brilliant question. Running the verb **ذَهَبَ** (the core root for "going" or "leaving") through the 4 famous forms reveals a fascinating rule about Arabic grammar.
+
+While the formulas work perfectly on paper, some roots do not use all 4 forms in real life because another word already does that job. For the root **ذ - هـ - ب**, Form I and Form IV are used constantly every single day, Form II is occasionally used in classical settings, and Form X is completely unused.
+
+Here is the exact breakdown and explanation of how the 4 core templates interact with this specific root:
+
+------------------------------
+
+## The 4 Essential Forms Breakdown: **ذَهَبَ**
+
+| Priority Form | Abstract Pattern | Derived Verb Form (**هُوَ** / He) | Conversational Reality & Explanation | English Translation |
+|---|---|---|---|---|
+| Form I | **فَعَلَ** | # **ذَهَبَ** | The Absolute King: This is one of the most common words in the entire Arabic language. It describes the simple, baseline action of moving from one place to another. | He went / He left. |
+| Form II | **فَعَّلَ** | # **ذَهَّبَ** | The Intensive/Material Shift: Instead of meaning "to make someone go," this template treats the root as a noun (**ذَهَبٌ** - Gold). Adding the Shaddah transforms the meaning into gilding or coating an object completely in gold layer by layer. | He gilded / plated with gold. |
+| Form IV | **أَفْعَلَ** | # **أَذْهَبَ** | The Direct Causative: This template forces the action onto an object. Instead of "going" yourself, you cause the thing to go away (i.e., you remove it, dispel it, or make it vanish completely). | He removed / took away / dispelled. |
+| Form X | **اِسْتَفْعَلَ** | # **اِسْتَذْهَبَ** | Unused/Theoretical: While you can technically build this word using the formula, native speakers never use it. If they want to say "he sought to leave," they simply use Form I along with a helper word. | (Not used in Arabic) |
+
+------------------------------
+
+## 💡 The Conversational Secret to Form IV (**أَذْهَبَ**)
+
+Form IV is incredibly powerful because it allows you to talk about abstract problems disappearing. Look at how it is used in common high-level sentences:
+
+* **أَذْهَبَ اللهُ الْخَوْفَ عَنَّا.**  
+  Translation: God removed the fear from us.
+
+* **أَذْهَبَ النَّوْمُ التَّعَبَ.**  
+  Translation: Sleep took away the tiredness.
+
+## ⚠️ A Bonus Shortcut: The Preposition "B" (**بِـ**) Hack
+
+If you want to say "He made someone go" (like He took him away), speakers rarely use Form IV. Instead, they stick to Form I (**ذَهَبَ**) and glue the tiny letter **بِـ** onto the object. This turns "to go" into "to go with / to take":
+
+* **ذَهَبَ الطَّبِيبُ بِالْمَرِيضِ.**  
+  Translation: The doctor took the patient away (literally: went with the patient).
+
+------------------------------
+
+Would you like to try taking the heavily used Form I (**ذَهَبَ**) or Form IV (**أَذْهَبَ**) and layout their 14-pronoun charts using your custom template style, or should we practice building a few simple left-aligned dialogues with them?
+
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
