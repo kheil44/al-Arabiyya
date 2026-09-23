@@ -2552,6 +2552,45 @@ Would you like to try writing these same three versions with a feminine noun lik
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
+To say "this new house" (as a phrase, not a complete sentence), you use the following structure:
+
+* هٰذَا الْبَيْتُ الْجَدِيدُ
+Translation: This new house...
+
+## Grammatical Breakdown of this Phrase:
+
+* هٰذَا الْبَيْتُ (This house)
+The الْ on الْبَيْتُ acts as the structural bridge to fuse it directly with هٰذَا, making the phrase a definite unit.
+* الْجَدِيدُ (The new)
+Because it is describing a definite noun unit (هٰذَا الْبَيْتُ), the adjective must copy that trait perfectly by taking الْ. Since it is masculine, it matches الْبَيْتُ and ends with a single damma.
+
+------------------------------
+## Every Version of the "House and New" Sentences (For Practice)
+To help you see how that tiny الْ and word order change everything, look at all these versions side-by-side:
+
+* بَيْتٌ جَدِيدٌ
+Translation: A new house... (Indefinite Noun Phrase)
+* اَلْبَيْتُ الْجَدِيدُ
+Translation: The new house... (Definite Noun Phrase)
+* اَلْبَيْتُ جَدِيدٌ
+Translation: The house is new. (Complete Sentence)
+* هٰذَا بَيْتٌ جَدِيدٌ
+Translation: This is a new house. (Complete Sentence)
+* هٰذَا الْبَيْتُ جَدِيدٌ
+Translation: This house is new. (Complete Sentence)
+* هٰذَا الْبَيْتُ الْجَدِيدُ
+Translation: This new house... (Definite Demonstrative Phrase)
+* هٰذَا الْبَيْتُ الْجَدِيدُ كَبِيرٌ
+Translation: This new house is big. (Complete Expanded Sentence)
+
+Would you like to try converting "this new house" into a question like "This new house?" or are you ready to try these exact same variations with a feminine noun? Let me know:
+
+* If you want to see the question variations
+* If you want to practice with a feminine noun like سَيَّارَةٌ (car)
+
+
+
+
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
