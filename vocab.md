@@ -2,6 +2,8 @@
 
 ---
 
+---
+
 [Go to Tutorials](#tutorials)
 
 [Go to Vocabulary](#vocabulary)
@@ -385,6 +387,155 @@ Here **نَشْرِ** literally means **“spreading.”**
 
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
+
+
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
+Yes, there is an incredibly precise mathematical trick to change a verb between the three tenses (Past, Present, and Command). You never have to guess the changes.
+In Arabic grammar, everything is derived from the 3rd Person Masculine Singular Form (هُوَ), which acts as your Base Foundation.
+Here is the exact step-by-step formulaic trick to transition any regular 3-letter verb between all three tenses:
+------------------------------
+## The Three-Tense Transformation Blueprint
+
+| Tense Step | The Formula Trick | Example Root: فَتَحَ (To open) | Example Root: دَخَلَ (To enter) |
+|---|---|---|---|
+| 1. The Past Tense Base | This is your starting point. It always has three letters with vowel markings. | # فَتَحَ Translation: He opened | # دَخَلَ Translation: He entered |
+| 2. Move to Present Tense | Step A: Slap a يَـ onto the front. Step B: Force a Sukoon (ْ) onto the 1st root letter. Step C: Put a Dammah (ُ) on the very last letter. | # يَفْتَحُ Translation: He opens | # يَدْخُلُ Translation: He enters |
+| 3. Move to Command Tense | Step A: Chop off the present prefix يَـ. Step B: Replace it with an Alif (ا) helper. Step C: Smash the last vowel down to a Sukoon (ْ). (Vowel Rule: Give the front Alif a Kasrah (ِ) unless the middle letter has a dammah, then give it a Dammah (ُ)). | # اِفْتَحْ Translation: Open! | # اُدْخُلْ Translation: Enter! |
+
+------------------------------
+## 💡 The Ultimate Multiplier Hack:
+Once you have used this trick to find the base present tense or base command tense, you can immediately snap your Pronoun Suffix Map right onto them to talk to anyone else!
+
+* Take the Present Base: # يَفْتَحُ (He opens)
+* Swap the front letter for "I": # أَفْتَحُ (I open)
+* Swap it for "We": # نَفْتَحُ (We open)
+
+------------------------------
+Would you like to try running an advanced vocabulary word like **رَفَضَ
+** (To refuse) or طَبَخَ (To cook) through this three-step tense transformation engine yourself to see how easily it works?
+
+---
+📚📚📚
+
+Here is the comprehensive tense transformation table demonstrating this formula across five completely different verbs.
+This table lets you observe exactly how the system maps a word from its past tense foundation, upgrades it to the present tense using the يَـ prefix configuration, and cuts it down into a command using the helper Alif (ا) and a closing Sukoon (ْ).
+## The Three-Tense Formula Engine in Action
+
+| Tense / Step | Verb 1: خَرَجَ (To go out) | Verb 2: سَمِعَ (To hear) | Verb 3: رَفَضَ (To refuse) | Verb 4: عَزَفَ (To play music) | Verb 5: طَبَخَ (To cook) |
+|---|---|---|---|---|---|
+| 1. Past Tense Base (The absolute root foundation) | # خَرَجَ Translation: He went out | # سَمِعَ Translation: He heard | # رَفَضَ Translation: He refused | # عَزَفَ Translation: He played | # طَبَخَ Translation: He cooked |
+| 2. Present Tense Transition • Add front يَـ • Freeze 1st letter with ْ • End word with ُ | # يَخْرُجُ Translation: He goes out | # يَسْمَعُ Translation: He hears | # يَرْفُضُ Translation: He refuses | # يَعْزِفُ Translation: He plays | # يَطْبَخُ Translation: He cooks |
+| 3. Command Tense Transition • Chop off front يَـ • Add Helper ا at front • Lock end letter with ْ | # اُخْرُجْ Translation: Go out! (Uses Dammah because middle letter is رُ) | # اِسْمَعْ Translation: Listen! (Uses Kasrah because middle letter is مَ) | # اُرْفُضْ Translation: Refuse! (Uses Dammah because middle letter is فُ) | # اِعْزِفْ Translation: Play! (Uses Kasrah because middle letter is زِ) | # اُطْبُخْ Translation: Cook! (Uses Dammah because middle letter is بُ) |
+
+------------------------------
+Now that you can track verbs moving across all three tenses in a single view, let me know:
+
+* Would you like to pick one verb from this list and expand it into a full pronoun chart?
+* Do you want to see how these command verbs change when speaking directly to a female or a group?
+* Should we practice building a complete sentence combining a noun and one of these tenses?
+
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
+
+
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+Yes, you have hit the absolute jackpot of Arabic language learning strategy! Memorising the map of detached pronouns (مُنْفَصِلٌ) to their attached counterparts (مُتَّصِلٌ) is the single most powerful shortcut you can learn.
+Once you lock this specific map into your memory, your vocabulary expands instantly. Why? Because you can take any new noun or verb you learn, snap these suffixes onto it, and instantly generate dozens of new meanings without studying new words.
+Here is the master structural map you should commit to memory:
+## The Master Pronoun Suffix Map
+
+| Detached Pronoun (ضَمِيرٌ مُنْفَصِلٌ) | Meaning | Attached Suffix (ضَمِيرٌ مُتَّصِلٌ) | Attachment Rule For Nouns (Creates Possession: "My / Your / His") | Attachment Rule For Past Verbs (Creates the Actor: "I / You / He") |
+|---|---|---|---|---|
+| 3rd Person Masc. | | | | |
+| هُوَ | He | هُ / ــهُ | "His" | (None / Hidden) |
+| هُمَا | They two | هُمَا / ــهُمَا | "Their" (two) | ا |
+| هُمْ | They all | هُمْ / ــهُمْ | "Their" (all) | وا |
+| 3rd Person Fem. | | | | |
+| هِيَ | She | هَا / ــهَا | "Her" | تْ* (Gender tag) |
+| هُمَا | They two | هُمَا / ــهُمَا | "Their" (two) | تَا |
+| هُنَّ | They all | هُنَّ / ــهُنَّ | "Their" (all) | نَ |
+| 2nd Person Masc. | | | | |
+| أَنْتَ | You | كَ / ــكَ | "Your" | تَ |
+| أَنْتُمَا | You two | كُمَا / ــكُمَا | "Your" (two) | تُمَا |
+| أَنْتُمْ | You all | كُمْ / ــكُمْ | "Your" (all) | تُمْ |
+| 2nd Person Fem. | | | | |
+| أَنْتِ | You | كِ / ــكِ | "Your" | تِ |
+| أَنْتُمَا | You two | كُمَا / ــكُمَا | "Your" (two) | تُمَا |
+| أَنْتُنَّ | You all | كُنَّ / ــكُنَّ | "Your" (all) | تُنَّ |
+| 1st Person (All) | | | | |
+| أَنَا | I | ي / ــِي* or تُ | "My" (uses ي) | "I did it" (uses تُ) |
+| نَحْنُ | We | نَا / ــنَا | "Our" | "We did it" |
+
+------------------------------
+## 💡 Why this makes vocabulary stick effortlessly:
+Imagine you learn a brand new singular noun today: قَلَمٌ (A pen). Because you know the map above, you instantly gain 12 new vocabulary words for free:
+
+* ## قَلَمِي (My pen)
+* ## قَلَمُكَ (Your pen - male)
+* ## قَلَمُهَا (Her pen)
+* ## قَلَمُنَا (Our pen)
+
+The same thing happens with verbs! If you learn a brand new root verb: وَجَدَ (To find). You look at your map and immediately unlock actions:
+
+* ## وَجَدْتُ (I found)
+* ## وَجَدْنَا (We found)
+* ## وَجَدُوا (They found)
+
+Would you like to test your command of this strategy right now? I can give you one brand new advanced word, and you can try to write out how it would look with "My", "Your (male)", and "Our" using the rules above! Let me know if you want to try a quick challenge.
+
+
+---
+📚📚📚
+
+Here is the updated master map, expanded to show exactly how five completely different nouns and five completely different past verbs transform simultaneously when you apply these suffixes.
+This layout lets you see the absolute uniformity of the structural system across multiple words at once.
+## Master Pronoun Suffix Map with 10 Parallel Examples
+
+| Detached Pronoun (ضَمِيرٌ مُنْفَصِلٌ) | Attached Suffix (ضَمِيرٌ مُتَّصِلٌ) | Noun 1: قَلَمٌ (Pen) | Noun 2: مَفْتَحٌ (Office) | Noun 3: بَيْتٌ (House) | Noun 4: مِفْتَاحٌ (Key) | Noun 5: طَبَّاخٌ (Chef) | Verb 1: وَجَدَ (Find) | Verb 2: عَزَفَ (Play) | Verb 3: هَمَسَ (Whisper) | Verb 4: طَبَخَ (Cook) | Verb 5: رَفَضَ (Refuse) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 3rd Person Masc. | | | | | | | | | | | |
+| هُوَ | هُ | # قَلَمُهُ | # مَكْتَبُهُ | # بَيْتُهُ | # مِفْتَاحُهُ | # طَبَّاخُهُ | # وَجَدَ | # عَزَفَ | # هَمَسَ | # طَبَخَ | # رَفَضَ |
+| هُمَا | هُمَا / ا* | # قَلَمُهُمَا | # مَكْتَبُهُمَا | # بَيْتُهُمَا | # مِفْتَاحُهُمَا | # طَبَّاخُهُمَا | # وَجَدَا | # عَزَفَا | # هَمَسَا | # طَبَخَا | # رَفَضَا |
+| هُمْ | هُمْ / وا* | # قَلَمُهُمْ | # مَكْتَبُهُمْ | # بَيْتُهُمْ | # مِفْتَاحُهُمْ | # طَبَّاخُهُمْ | # وَجَدُوا | # عَزَفُوا | # هَمَسُوا | # طَبَخُوهَا | # رَفَضُوا |
+| 3rd Person Fem. | | | | | | | | | | | |
+| هِيَ | هَا / تْ* | # قَلَمُهَا | # مَكْتَبُهَا | # بَيْتُهَا | # مِفْتَاحُهَا | # طَبَّاخُهَا | # وَجَدَتْ | # عَزَفَتْ | # هَمَسَتْ | # طَبَخَتْ | # رَفَضَتْ |
+| هُمَا | هُمَا / تَا* | # قَلَمُهُمَا | # مَكْتَبُهُمَا | # بَيْتُهُمَا | # مِفْتَاحُهُمَا | # طَبَّاخُهُمَا | # وَجَدَتَا | # عَزَفَتَا | # هَمَسَتَا | # طَبَخَتَا | # رَفَضَتَا |
+| هُنَّ | هُنَّ / نَ* | # قَلَمُهُنَّ | # مَكْتَبُهُنَّ | # بَيْتُهُنَّ | # مِفْتَاحُهُنَّ | # طَبَّاخُهُنَّ | # وَجَدْنَ | # عَزَفْنَ | # هَمَسْنَ | # طَبَخْنَ | # رَفَضْنَ |
+| 2nd Person Masc. | | | | | | | | | | | |
+| أَنْتَ | كَ / تَ* | # قَلَمُكَ | # مَكْتَبُكَ | # بَيْتُكَ | # مِفْتَاحُكَ | # طَبَّاخُكَ | # وَجَدْتَ | # عَزَفْتَ | # هَمَسْتَ | # طَبَخْتَ | # رَفَضْتَ |
+| أَنْتُمَا | كُمَا / تُمَا* | # قَلَمُكُمَا | # مَكْتَبُكُمَا | # بَيْتُكُمَا | # مِفْتَاحُكُمَا | # طَبَّاخُكُمَا | # وَجَدْتُمَا | # عَزَفْتُمَا | # هَمَسْتُمَا | # طَبَخْتُمَا | # رَفَضْتُمَا |
+| أَنْتُمْ | كُمْ / تُمْ* | # قَلَمُكُمْ | # مَكْتَبُكُمْ | # بَيْتُكُمْ | # مِفْتَاحُكُمْ | # طَبَّاخُكُمْ | # وَجَدْتُمْ | # عَزَفْتُمْ | # هَمَسْتُمْ | # طَبَخْتُمْ | # رَفَضْتُمْ |
+| 2nd Person Fem. | | | | | | | | | | | |
+| أَنْتِ | كِ / تِ* | # قَلَمُكِ | # مَكْتَبُكِ | # بَيْتُكِ | # مِفْتَاحُكِ | # طَبَّاخُكِ | # وَجَدْتِ | # عَزَفْتِ | # هَمَسْتِ | # طَبَخْتِ | # رَفَضْتِ |
+| أَنْتُمَا | كُمَا / تُمَا* | # قَلَمُكُمَا | # مَكْتَبُكُمَا | # بَيْتُكُمَا | # مِفْتَاحُكُمَا | # طَبَّاخُكُمَا | # وَجَدْتُمَا | # عَزَفْتُمَا | # هَمَسْتُمَا | # طَبَخْتُمَا | # رَفَضْتُمَا |
+| أَنْتُنَّ | كُنَّ / تُنَّ | # قَلَمُكُنَّ | # مَكْتَبُكُنَّ | # بَيْتُكُنَّ | # مِفْتَاحُكُنَّ | # طَبَّاخُكُنَّ | # وَجَدْتُنَّ | # عَزَفْتُنَّ | # هَمَسْتُنَّ | # طَبَخْتُنَّ | # رَفَضْتُنَّ |
+| 1st Person (All) | | | | | | | | | | | |
+| أَنَا | ي / تُ* | # قَلَمِي | # مَكْتَبِي | # بَيْتِي | # مِفْتَاحِي | # طَبَّاخِي | # وَجَدْتُ | # عَزَفْتُ | # هَمَسْتُ | # طَبَخْتُ | # رَفَضْتُ |
+| نَحْنُ | نَا | # قَلَمُنَا | # مَكْتَبُنَا | # بَيْتُنَا | # مِفْتَاحُنَا | # طَبَّاخُنَا | # وَجَدْنَا | # عَزَفْنَا | # هَمَسْنَا | # طَبَخْنَا | # رَفَضْنَا |
+
+------------------------------
+*Note: Where two entries are split by a slash, the first is used to create possession on the nouns (e.g. قَلَمُهُنَّ), and the second is attached to past verbs to mark the action (e.g. وَجَدْنَ).
+Would you like to move on to learning the structural rules for attaching object pronouns directly to verbs (like changing "I found" to "I found it"), or would you prefer to practice building complete, left-aligned sentences using these combinations?
+
+
+
 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
