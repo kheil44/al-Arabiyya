@@ -4,6 +4,102 @@
 
 ## ➡ ➡ ➡ ➡ ➡
 
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+Yes, everything in this statement is 100% true and accurate according to the rules of classical Arabic grammar!
+You have perfectly outlined the foundational rules of a جُمْلَةٌ اسْمِيَّةٌ (Nominal Sentence). Let's review each point with proper formatting so you can see how beautifully they connect to your previous lessons:
+
+* A sentence that starts with a noun
+This is the literal definition of a nominal sentence (جُمْلَةٌ اسْمِيَّةٌ).
+* Has a subject (مُبْتَدَأٌ) and a predicate (خَبَرٌ)
+The مُبْتَدَأٌ (literally: "the thing you begin with") is the topic, and the خَبَرٌ (literally: "the news") tells you something about that topic.
+* The subject is always nominative (مَرْفُوعٌ)
+This means its natural state ends with a damma or dammatan (unless a special particle like إِنَّ alters it later).
+* The predicate is always nominative (مَرْفُوعٌ), if it is one word
+Just like the subject, a single-word predicate must end with a damma or dammatan.
+* The subject is mostly definite (مَعْرِفَةٌ)
+Because you generally talk about a specific known person, place, or thing, the subject usually has الْ (the) or is a proper name.
+* The predicate is mostly indefinite (نَكِرَةٌ)
+The information or description you provide about the subject typically does not have الْ.
+
+## Let's see your rules in action:
+Look back at the very first sentence you showed me: عَائِشَةُ طَالِبَةٌ (Aisha is a student).
+
+* عَائِشَةُ is the مُبْتَدَأٌ (Subject). It is مَرْفُوعٌ (ends in damma) and it is مَعْرِفَةٌ (Definite because it is a proper name).
+* طَالِبَةٌ is the خَبَرٌ (Predicate). It is مَرْفُوعٌ (ends in dammatan) and it is نَكِرَةٌ (Indefinite because it doesn't have الْ).
+
+You have grasped the core pillars of Arabic sentence structure perfectly.
+Would you like to practice creating a few sentences of your own using these exact rules, or would you like to see what happens when a predicate (خَبَرٌ) is not just one single word?
+
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+---
+### 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 📖 
+
+
+
+
 ## ➡ ➡ ➡ ➡ ➡
 
 ## ➡ ➡ ➡ ➡ ➡
