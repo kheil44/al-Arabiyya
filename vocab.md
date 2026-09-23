@@ -2529,6 +2529,24 @@ Using the masculine words هٰذَا (this) and قَلَمٌ (pen), can you tell
 * How would you write "This pen?"
 
 
+---
+
+Here is how you say these three variations in Arabic, following the exact الْ bridge and question rules from the tutorial:
+
+* هٰذَا الْبَيْتُ
+Translation: This house... (Phrase)
+* أَهٰذَا الْبَيْتُ؟
+Translation: This house? / Is it this house? (Questioning a specific house)
+* أَهٰذَا بَيْتٌ؟
+Translation: Is this a house? (Questioning what the building actually is)
+
+## 💡 Remember the Rule:
+
+* Adding the الْ on الْبَيْتُ locks it to هٰذَا as a single unit ("this house").
+* Dropping the الْ leaves بَيْتٌ indefinite, forcing the word "is" into the sentence structure.
+
+Would you like to try writing these same three versions with a feminine noun like سَيَّارَةٌ (car) using هٰذِهِ, or are you ready to jump into negating sentences using لَيْسَ (is not)?
+
 
 
 ---
