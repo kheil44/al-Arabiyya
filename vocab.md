@@ -392,7 +392,6 @@ Here **نَشْرِ** literally means **“spreading.”**
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
-Yes—each cell now puts the **formula on its own first line**, followed by the example on a new line.
 
 ## 🧭 The Master 14-Pronoun Tense Blueprint
 
@@ -438,6 +437,8 @@ Now that your master blueprint is locked in, how should we test it? Let me know 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
+
 In daily conversational Arabic, you do not need all 14 pronouns equally. In fact, you can comfortably handle about 85% of normal daily speech by focusing on just five core pronoun forms.
 These are the combinations you will use constantly when talking about yourself, speaking directly to someone, or talking about another person.
 Here is the exact layout of the most common daily conversational combinations you should master first:
@@ -482,9 +483,39 @@ To see how these five look in real life, let’s run the common verb دَخَل�
 ------------------------------
 Would you like to pick one specific verb from your advanced list (like **طَبَخَ
 ** to cook, or سَمِعَ to hear) and practice forcing it through just these five daily combinations? Let me know which verb you choose!
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
+---
+### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
+Yes, absolutely! Just like with the pronouns, you do not need all 10 verb forms equally in daily life. In fact, out of the 10 forms, Forms I, II, IV, and X are the absolute heavy lifters of the Arabic language.  
+If you master just these four forms, you will unlock more than 80% of all verbs used in daily conversations, media, and reading. The others (like Form IX or Form VII) are either incredibly rare or mostly theoretical.  
+Here is the strategic recommendation table of the forms you should focus on first:
+## 🎯 The 4 Most Essential Verb Forms for Daily Speech
+
+| Priority | Verb Form | Abstract Pattern | Why It Is Essential for Daily Conversation | Real-World Example Root: **عـلـم** (Knowledge) |
+|---|---|---|---|---|
+| Rank 1 | Form I | **فَعَلَ** | The Base Foundation: This is the starting point for almost everything. You cannot speak Arabic without it. It handles baseline actions like eating, writing, sitting, and entering. | # **عَلِمَ** Translation: He knew. |
+| Rank 2 | Form II | **فَعَّلَ** | The Teaching / Action Multiplier: Essential because it turns a basic concept into an active process. You use this constantly for daily actions like teaching, cleaning, speaking, and moving. | # **عَلَّمَ** Translation: He taught (made someone else know). |
+| Rank 3 | Form IV | **أَفْعَلَ** | The Direct Causative: This is your primary tool for causing an action to happen to someone or something else instantly (e.g., sending, announcing, waking someone up, closing). | # **أَعْلَمَ** Translation: He informed / announced (notified someone). |
+| Rank 4 | Form X | **اِسْتَفْعَلَ** | The Asking / Seeking Blueprint: Used constantly every day to express asking for permission, using an item, waking up, or seeking help. | # **اِسْتَعْلَمَ** Translation: He inquired (sought information). |
+
+------------------------------
+## 💡 The Ultimate Vocabulary Multiplier Cheat-Sheet
+Look at how focusing on just these 4 forms allows you to effortlessly multiply your vocabulary from a single common root like **دَرَسَ** (to study):
+
+* Form I: # **دَرَسَ** (He studied)
+* Form II: # **دَرَّسَ** (He taught / lectured)
+* Form V: # **تَدَرَّسَ** (He took lessons carefully) — Note: Form V is just Form II's reflexive cousin, so you get it almost for free!
+* Form X: # **اِسْتَدْرَسَ** (He sought a scholarship / demanded to study)
+
+------------------------------
+Would you like to take a brand new conversational root verb like **قَبِلَ
+** (to accept) or **خَرَجَ** (to go out) and run it through just these 4 essential forms across your 14-pronoun grid, or should we look at how to add nouns to them?
+
+💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
@@ -492,7 +523,9 @@ Would you like to pick one specific verb from your advanced list (like **طَب�
 Yes, there is an incredibly precise mathematical trick to change a verb between the three tenses (Past, Present, and Command). You never have to guess the changes.
 In Arabic grammar, everything is derived from the 3rd Person Masculine Singular Form (هُوَ), which acts as your Base Foundation.
 Here is the exact step-by-step formulaic trick to transition any regular 3-letter verb between all three tenses:
+
 ------------------------------
+
 ## The Three-Tense Transformation Blueprint
 
 | Tense Step | The Formula Trick | Example Root: فَتَحَ (To open) | Example Root: دَخَلَ (To enter) |
@@ -630,14 +663,14 @@ Would you like to move on to learning the structural rules for attaching object 
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
-I completely understand, and you are entirely right! I apologize for cutting corners and removing that column.  
-When you want an exhaustive architectural master document, nothing should be shrunk or left out. I have expanded the table to its absolute maximum width, ensuring it contains every single tense, every exact formula, the structural transformations, and the specific grammatical shift details all in one massive view.  
-Here is your fully detailed, complete master tutorial:  
+
 ------------------------------
 ## The Complete Morphological Blueprint of the 10 Arabic Verb Forms (**الأَوْزَانُ الْعَشَرَةُ**)
 In Arabic, vocabulary expansion is governed by a 3-letter root engine plugged into 10 standard structural templates. Grammarians refer to these templates as Forms I through X.
 When you inject a core 3-letter root into one of these templates, the factory shape alters the baseline concept in a highly predictable, mathematical manner. This comprehensive tutorial provides a master blueprint mapping the structural behaviour of verbs across all ten standard patterns.
+
 ------------------------------
+
 ## PART 1: Advanced Phonological Anomalies (The Hidden Sound Rules)
 When applying these abstract templates, certain letters cause the pronunciation or spelling to adapt to preserve natural speech patterns:
 ## Anomaly 1: The Form IV Present-Tense Contraction
