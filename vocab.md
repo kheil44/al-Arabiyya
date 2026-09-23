@@ -392,54 +392,49 @@ Here **نَشْرِ** literally means **“spreading.”**
 ---
 ### 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
 
+Understood. I’ll use non-people gender symbols:
 
-
-<div align="left">
-
-> 🏛️ Here is your master architectural blueprint. This table covers all 14 pronouns across all four active conversational tenses (Past, Present, Future, and Command/Imperative).  
->   
-> 📚 Keep this comprehensive guide as your permanent reference blueprint to track how the structural formulas apply across every single linguistic group.
+- **♂️** masculine singular
+- **♂️♂️** masculine dual
+- **♂️♂️♂️** masculine plural
+- **♀️** feminine singular
+- **♀️♀️** feminine dual
+- **♀️♀️♀️** feminine plural
 
 ## 🧭 The Master 14-Pronoun Tense Blueprint
 
 | Perspective | Pronoun (**مُنْفَصِلٌ**) | Past Tense Form (Suffix Added) | Present Tense Form (Prefix / Suffix Added) | Future Tense Form (The Instant Prefix Trick) | Command Form (Imperative) |
 |---|---|---|---|---|---|
 | 3rd Person Masc. | | | | | |
-| Singular (He/It) | **هُوَ** | ...َ (Base Root) # **خَرَجَ** Translation: He went out | يَ...ُ # **يَخْرُجُ** Translation: He goes out | سَيَ...ُ # **سَيَخْرُجُ** Translation: He will go out | (Not Applicable) |
-| Dual (They two) | **هُمَا** | ...َا # **خَرَجَا** Translation: They two went out | يَ...َانِ # **يَخْرُجَانِ** Translation: They two go out | سَيَ...َانِ # **سَيَخْرُجَانِ** Translation: They two will go out | (Not Applicable) |
-| Plural (They all) | **هُمْ** | ...ُوا # **خَرَجُوا** Translation: They went out | يَ...ُونَ # **يَخْرُجُونَ** Translation: They go out | سَيَ...ُونَ # **سَيَخْرُجُونَ** Translation: They will go out | (Not Applicable) |
+| ♂️ Singular (He/It) | **هُوَ** | ...َ (Base Root) # **خَرَجَ** He went out | يَ...ُ # **يَخْرُجُ** He goes out | سَيَ...ُ # **سَيَخْرُجُ** He will go out | (Not Applicable) |
+| ♂️♂️ Dual (They two) | **هُمَا** | ...َا # **خَرَجَا** They two went out | يَ...َانِ # **يَخْرُجَانِ** They two go out | سَيَ...َانِ # **سَيَخْرُجَانِ** They two will go out | (Not Applicable) |
+| ♂️♂️♂️ Plural (They all) | **هُمْ** | ...ُوا # **خَرَجُوا** They went out | يَ...ُونَ # **يَخْرُجُونَ** They go out | سَيَ...ُونَ # **سَيَخْرُجُونَ** They will go out | (Not Applicable) |
 | 3rd Person Fem. | | | | | |
-| Singular (She) | **هِيَ** | ...َتْ # **خَرَجَتْ** Translation: She went out | تَ...ُ # **تَخْرُجُ** Translation: She goes out | سَتَ...ُ # **سَتَخْرُجُ** Translation: She will go out | (Not Applicable) |
-| Dual (They two) | **هُمَا** | ...َتَا # **خَرَجَتَا** Translation: They two went out | تَ...َانِ # **تَخْرُجَانِ** Translation: They two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** Translation: They two will go out | (Not Applicable) |
-| Plural (They all) | **هُنَّ** | ...ْنَ # **خَرَجْنَ** Translation: They went out | يَ...ْنَ # **يَخْرُجْنَ** Translation: They go out | سَيَ...ْنَ # **سَيَخْرُجْنَ** Translation: They will go out | (Not Applicable) |
+| ♀️ Singular (She) | **هِيَ** | ...َتْ # **خَرَجَتْ** She went out | تَ...ُ # **تَخْرُجُ** She goes out | سَتَ...ُ # **سَتَخْرُجُ** She will go out | (Not Applicable) |
+| ♀️♀️ Dual (They two) | **هُمَا** | ...َتَا # **خَرَجَتَا** They two went out | تَ...َانِ # **تَخْرُجَانِ** They two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** They two will go out | (Not Applicable) |
+| ♀️♀️♀️ Plural (They all) | **هُنَّ** | ...ْنَ # **خَرَجْنَ** They went out | يَ...ْنَ # **يَخْرُجْنَ** They go out | سَيَ...ْنَ # **سَيَخْرُجْنَ** They will go out | (Not Applicable) |
 | 2nd Person Masc. | | | | | |
-| Singular (You) | **أَنْتَ** | ...ْتَ # **خَرَجْتَ** Translation: You went out | تَ...ُ # **تَخْرُجُ** Translation: You go out | سَتَ...ُ # **سَتَخْرُجُ** Translation: You will go out | اُ...ْ # **اُخْرُجْ** Translation: Go out! |
-| Dual (You two) | **أَنْتُمَا** | ...ْتُمَا # **خَرَجْتُمَا** Translation: You two went out | تَ...َانِ # **تَخْرُجَانِ** Translation: You two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** Translation: You two will go out | اُ...َا # **اُخْرُجَا** Translation: Go out! (two) |
-| Plural (You all) | **أَنْتُمْ** | ...ْتُمْ # **خَرَجْتُمْ** Translation: You all went out | تَ...ُونَ # **تَخْرُجُونَ** Translation: You all go out | سَتَ...ُونَ # **سَتَخْرُجُونَ** Translation: You all will go out | اُ...ُوا # **اُخْرُجُوا** Translation: Go out! (all) |
+| ♂️ Singular (You) | **أَنْتَ** | ...ْتَ # **خَرَجْتَ** You went out | تَ...ُ # **تَخْرُجُ** You go out | سَتَ...ُ # **سَتَخْرُجُ** You will go out | اُ...ْ # **اُخْرُجْ** Go out! |
+| ♂️♂️ Dual (You two) | **أَنْتُمَا** | ...ْتُمَا # **خَرَجْتُمَا** You two went out | تَ...َانِ # **تَخْرُجَانِ** You two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** You two will go out | اُ...َا # **اُخْرُجَا** Go out! (two) |
+| ♂️♂️♂️ Plural (You all) | **أَنْتُمْ** | ...ْتُمْ # **خَرَجْتُمْ** You all went out | تَ...ُونَ # **تَخْرُجُونَ** You all go out | سَتَ...ُونَ # **سَتَخْرُجُونَ** You all will go out | اُ...ُوا # **اُخْرُجُوا** Go out! (all) |
 | 2nd Person Fem. | | | | | |
-| Singular (You) | **أَنْتِ** | ...ْتِ # **خَرَجْتِ** Translation: You went out | تَ...ِينَ # **تَخْرُجِينَ** Translation: You go out | سَتَ...ِينَ # **سَتَخْرُجِينَ** Translation: You will go out | اُ...ِي # **اُخْرُجِي** Translation: Go out! |
-| Dual (You two) | **أَنْتُمَا** | ...ْتُمَا # **خَرَجْتُمَا** Translation: You two went out | تَ...َانِ # **تَخْرُجَانِ** Translation: You two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** Translation: You two will go out | اُ...َا # **اُخْرُجَا** Translation: Go out! (two) |
-| Plural (You all) | **أَنْتُنَّ** | ...ْتُنَّ # **خَرَجْتُنَّ** Translation: You all went out | تَ...ْنَ # **تَخْرُجْنَ** Translation: You all go out | سَتَ...ْنَ # **سَتَخْرُجْنَ** Translation: You all will go out | اُ...ْنَ # **اُخْرُجْنَ** Translation: Go out! (all) |
+| ♀️ Singular (You) | **أَنْتِ** | ...ْتِ # **خَرَجْتِ** You went out | تَ...ِينَ # **تَخْرُجِينَ** You go out | سَتَ...ِينَ # **سَتَخْرُجِينَ** You will go out | اُ...ِي # **اُخْرُجِي** Go out! |
+| ♀️♀️ Dual (You two) | **أَنْتُمَا** | ...ْتُمَا # **خَرَجْتُمَا** You two went out | تَ...َانِ # **تَخْرُجَانِ** You two go out | سَتَ...َانِ # **سَتَخْرُجَانِ** You two will go out | اُ...َا # **اُخْرُجَا** Go out! (two) |
+| ♀️♀️♀️ Plural (You all) | **أَنْتُنَّ** | ...ْتُنَّ # **خَرَجْتُنَّ** You all went out | تَ...ْنَ # **تَخْرُجْنَ** You all go out | سَتَ...ْنَ # **سَتَخْرُجْنَ** You all will go out | اُ...ْنَ # **اُخْرُجْنَ** Go out! (all) |
 | 1st Person (All) | | | | | |
-| Singular (I) | **أَنَا** | ...ْتُ # **خَرَجْتُ** Translation: I went out | أَ...ُ # **أَخْرُجُ** Translation: I go out | سَـأَ...ُ # **سَأَخْرُجُ** Translation: I will go out | (Not Applicable) |
-| Plural (We) | **نَحْنُ** | ...ْنَا # **خَرَجْنَا** Translation: We went out | نَ...ُ # **نَخْرُجُ** Translation: We go out | سَنَ...ُ # **سَنَخْرُجُ** Translation: We will go out | (Not Applicable) |
-
----
+| Singular (I) | **أَنَا** | ...ْتُ # **خَرَجْتُ** I went out | أَ...ُ # **أَخْرُجُ** I go out | سَـأَ...ُ # **سَأَخْرُجُ** I will go out | (Not Applicable) |
+| Plural (We) | **نَحْنُ** | ...ْنَا # **خَرَجْنَا** We went out | نَ...ُ # **نَخْرُجُ** We go out | سَنَ...ُ # **سَنَخْرُجُ** We will go out | (Not Applicable) |
 
 ## 💡 Core System Observations for your Blueprint:
 
 1. **The "Nun" Drop Rule:** Notice how for plurals and duals (like **يَخْرُجُونَ** or **تَخْرُجِينَ**), the command form drops the ending letter نِ/نَ entirely (becoming # **اُخْرُجُوا** and # **اُخْرُجِي**).
 2. **The Immutable Feminine Plural:** The forms for **هُنَّ** and **أَنْتُنَّ** end in a fixed ْنَ sound across Present, Future, and Command. That ending never drops or changes.
 
----
+Now that your master blueprint is locked in, how should we test it? Let me know if you would like to:
 
-🔒 Now that your master blueprint is locked in, how should we test it? Let me know if you would like to:
-
-- 🧪 Run an advanced verb with a different vowel pattern (like **سَمِعَ**) through these exact positions.
-- 🚫 Learn the structural rules for negation markers across all columns.
-- 🗣️ Practice building complete sentences using some of these dual or plural forms.
-
-</div>
+- Run an advanced verb with a different vowel pattern (like **سَمِعَ**) through these exact positions.
+- Learn the structural rules for negation markers across all columns.
+- Practice building complete sentences using some of these dual or plural forms.
 
 
 ---
