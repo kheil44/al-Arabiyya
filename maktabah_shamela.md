@@ -51,6 +51,70 @@ Would you like help setting up the automatic download screen to fetch more categ
 📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘
 
 
+This screen is the Upgrade / Update Dashboard (الترقية). Its primary function is to fetch, download, and update books directly from the official online Shamela database servers.
+Since Arabic reads from right to left, the controls are organized accordingly. Here is the completely exhaustive breakdown of every single button, tab, and option visible on this screen.
+------------------------------
+## 1. The Main Window Title (Top Center)
+
+* الترقية – المكتبة الشاملة: Translates to "Upgrade / Updates – Al-Maktaba al-Shamela."
+
+------------------------------
+## 2. The Right Vertical Navigation Tabs (Right Edge)
+These tabs change how the available list of downloads is grouped and displayed:
+
+* الكتب (Books): The active tab. It lists all available books individually in a flat list.
+* التصنيف (Classification / Categories): Groups the updates by genre or topic (e.g., Hadith, Fiqh, History, Grammar).
+* المؤلفون (Authors): Groups the updates alphabetically by the authors' names.
+
+------------------------------
+## 3. The Top Filter & Search Bar (Top Right)
+Moving from right to left next to the main list:
+
+* Folder Icon with Yellow Arrow: Import Local Updates. Used if you manually downloaded an update file package from the web and want to load it locally without downloading it line-by-line.
+* Search Input Field: The placeholder text reads “يمكن البحث بجزء من اسم الكتاب أو المؤلف أو كليهما” (Search can be done using part of the book name, author name, or both). Typing here instantly filters the list below.
+* Gear/Spoke Icon (Left of search): Search Settings. Tweaks how the search engine matches your keywords (e.g., exact matches or loose phrase matches).
+
+------------------------------
+## 4. The Central Data Table (The Book List)
+This grid shows what is available on the server.
+
+* الكتاب (Book - Right Column Header): Displays the title of the book in Arabic.
+* Note on icons: The Checkbox allows you to select the book for download. The Green/Yellow Star indicates its classification status (e.g., new addition).
+* المؤلف (Author - Left Column Header): Displays the author's name.
+* Note on dates: The text in parentheses like ت ٥٤٠ م means "Died 540 CE" (ت stands for Tawaffi / Death, and م stands for Miladi / Gregorian CE). If it says ت نحو ٦٢٠ م, it means "Died circa (around) 620 CE".
+
+------------------------------
+## 5. Bottom-Right Filter Checkboxes & Sync
+These filter options allow you to narrow down what appears in your central list:
+
+* الجميع (All): Displays every single book available on the update server.
+* الجديد (New): Filters the list to show only newly released books that are missing from your current setup.
+* المحدث (Updated): Shows books you already have, but the server has a revised, corrected, or cleaner edition ready for re-download.
+* Globe with Radar Icon (Bottom Corner): Refresh/Connect to Server. Forces the software to connect online and download the absolute newest catalog sheet from Shamela.
+
+------------------------------
+## 6. The Bottom Action Row (Horizontal, Right to Left)
+These buttons execute actions on the books you have ticked/checked in the list:
+
+* اختيار الكتب المحددة (Select Marked Books): Automatically checks the boxes for all items you have highlighted with your cursor.
+* إلغاء الكتب المحددة (Deselect Marked Books): Unchecks the boxes for your current selection.
+* تجاهل (Ignore): Moves the selected items to an "Ignore List" so they don't pop up again in future update scans.
+* حذف العناصر المحددة من القائمة (Delete Selected Items from List): Clears the highlighted rows off the current visible list view.
+
+------------------------------
+## 7. The Top-Left Download Action Controls
+Once you select what you want to download, you use these tools on the top-left edge:
+
+* إضافة الجميع وبدء التحميل (Add All and Start Download): This is your primary action button. It pushes all your checked books into the active queue and starts downloading them right into your library.
+* Wrench Tool Icon (Far Left Vertical Bar): Download Settings. Configures connection properties, download paths, timeout rules, or proxy setups.
+* Play Triangle Icon: Resume Queue. Resumes a paused download process.
+* Stop Square Icon: Cancel/Halt. Stops all running downloads immediately.
+
+Would you like to know how to fix a download if it gets stuck mid-way, or do you need help finding a specific category of books like Arabic grammar or lexicon dictionaries?
+
+
+
+
 
 ---
 📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘
