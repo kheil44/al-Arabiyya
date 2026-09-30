@@ -2,6 +2,10 @@
 
 ---
 
+ai Question;
+so im learning arabic, and download and install shamela so help me understand its layout and buttons. in picture from left to write, what the word is literally and brefily its technical term if theres to . here we go;;
+
+
 ---
 
 
