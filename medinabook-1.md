@@ -174,7 +174,8 @@ and sukun when past tense form has ..page 21 in keynotes xournal.
 ---
 
  ###  🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥
- ### 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥
+ 
+### 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥
 
 
  ## Arabic Grammar Topics We Discussed
@@ -270,11 +271,127 @@ One important correction from the later discussion: the phrase concerning the ro
 
 ---
 
- ###  🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥
+###  🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥
+
+The corrected phrase is:
+
+مُبْتَدَأٌ مُؤَخَّرٌ وَخَبَرٌ مُقَدَّمٌ
+
+It means: “A delayed subject and an advanced predicate.”
+
+ضَمِيرٌ مُتَّصِلٌ
+
+The two terms are:
+
+    ضَمِيرٌ مُتَّصِلٌ — an attached pronoun
+    ضَمِيرٌ مُنْفَصِلٌ — a detached pronoun
+
+Yo
+
+The full grammatical description is:
+
+ضَمِيرٌ مُتَّصِلٌ فِي مَحَلِّ جَرٍّ مُضَافٌ إِلَيْهِ
+
+This means: “An attached pronoun in the grammatical position of a genitive complement.”
+
+ the “five nouns” in Arabic grammar:
+
+اَلْأَسْمَاءُ الْخَمْسَةُ
+
+They are:
+
+أَبٌ — father
+أَخٌ — brother
+حَمٌ — father-in-law
+فُو — mouth
+ذُو — possessor of / صاحب
+
+When 
+
+an:
+
+ضَمِيرٌ مُتَّصِلٌ فِي مَحَلِّ جَرٍّ
+
+when the attached pronoun follows a preposition such as إِلَى or عَنْ.
+
+rs:
+
+    مُفْرَدٌ — singular
+    مُثَنًّى — dual
+    جَمْعٌ — plural
+
+
+Arabic distinguishes between:
+
+    جَمْعُ الْعَاقِلِ — a plural referring to people or other beings understood as rational
+    جَمْعُ غَيْرِ الْعَاقِلِ — a plural referring to animals, objects, plants, and abstract things
+
+Thi
+
+You are asking about نَعْتٌ with an إِضَافَةٌ construction: whether the adjective describes the مُضَافُ or the مُضَافٌ إِلَيْهِ.
+
+
+ 
 
 ---
 
  ###  🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥
+
+ ### 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥
+
+
+
+
+ | # | Grammar topic | Arabic term | Brief explanation | Example |
+|---:|---|---|---|---|
+| 1 | Delayed subject and advanced predicate | **مُبْتَدَأٌ مُؤَخَّرٌ وَخَبَرٌ مُقَدَّمٌ** | The predicate comes before the subject. The usual order is **مُبْتَدَأٌ + خَبَرٌ**, but this order is reversed. | **فِي الْفَصْلِ طُلَّابٌ.** — “There are students in the classroom.” |
+| 2 | Advanced predicate | **خَبَرٌ مُقَدَّمٌ** | The predicate appears first in the sentence. | **فِي الْفَصْلِ** is the **خَبَرُ الْمُقَدَّمُ** in **فِي الْفَصْلِ طُلَّابٌ**. |
+| 3 | Delayed subject | **مُبْتَدَأٌ مُؤَخَّرٌ** | The subject appears after the predicate. | **طُلَّابٌ** is the **مُبْتَدَأُ الْمُؤَخَّرُ** in **فِي الْفَصْلِ طُلَّابٌ**. |
+| 4 | Attached pronoun | **ضَمِيرٌ مُتَّصِلٌ** | A pronoun attached directly to a verb, noun, or preposition. | **كَتَبْتُ** — “I wrote”; **كِتَابُهُ** — “his book.” |
+| 5 | Detached pronoun | **ضَمِيرٌ مُنْفَصِلٌ** | A pronoun that stands independently as a separate word. | **أَنَا طَالِبٌ.** — “I am a student.” |
+| 6 | Attached pronoun as possessive complement | **ضَمِيرٌ مُتَّصِلٌ فِي مَحَلِّ جَرٍّ مُضَافٌ إِلَيْهِ** | When an attached pronoun follows a noun, it expresses possession. | **كِتَابُهُ جَدِيدٌ.** — “His book is new.” |
+| 7 | Possessive construction | **إِضَافَةٌ** | A construction consisting of a **مُضَافٌ** followed by a **مُضَافٌ إِلَيْهِ**. The first noun does not take tanwīn. | **كِتَابُ الطَّالِبِ** — “the student’s book” |
+| 8 | First part of an iḍāfah | **مُضَافٌ** | The possessed noun or the first noun in the construction. It does not take tanwīn. | In **كِتَابُ الطَّالِبِ**, **كِتَابُ** is the **مُضَافُ**. |
+| 9 | Second part of an iḍāfah | **مُضَافٌ إِلَيْهِ** | The possessor or second noun. It is always genitive. | In **كِتَابُ الطَّالِبِ**, **الطَّالِبِ** is the **مُضَافُ إِلَيْهِ**. |
+| 10 | Attached pronoun after a preposition | **ضَمِيرٌ مُتَّصِلٌ فِي مَحَلِّ جَرٍّ** | When a pronoun is attached to a preposition, it is grammatically genitive. | **ذَهَبْتُ إِلَيْهِ.** — “I went to him.” |
+| 11 | Preposition meaning “to” | **إِلَى** | When attached to a pronoun, it becomes a combined form such as **إِلَيْهِ**. | **ذَهَبْتُ إِلَيْهَا.** — “I went to her.” |
+| 12 | Preposition meaning “about/from” | **عَنْ** | When attached to a pronoun, it becomes a combined form such as **عَنْهُ**. | **تَحَدَّثْتُ عَنْهُ.** — “I talked about him.” |
+| 13 | The five special nouns | **اَلْأَسْمَاءُ الْخَمْسَةُ** | Certain nouns take special case endings when they meet the required conditions. | **أَبٌ، أَخٌ، حَمٌ، فُو، ذُو** |
+| 14 | Father among the five nouns | **أَبٌ** | Its endings change according to case when used as a qualifying **مُضَافٌ**. | **أَبُوكَ** — your father; **رَأَيْتُ أَبَاكَ** — I saw your father; **بِأَبِيكَ** — with your father |
+| 15 | Special endings of the five nouns | **وَاوٌ، أَلِفٌ، يَاءٌ** | The five nouns are usually nominative with **و**, accusative with **ا**, and genitive with **ي**. | **أَبُوكَ** / **أَبَاكَ** / **أَبِيكَ** |
+| 16 | Singular | **مُفْرَدٌ** | Refers to one person, thing, or idea. | **كِتَابٌ** — one book |
+| 17 | Dual | **مُثَنًّى** | Refers to exactly two. It normally takes **ـَانِ** in the nominative and **ـَيْنِ** in the accusative and genitive. | **طَالِبَانِ** / **طَالِبَيْنِ** |
+| 18 | Dual in the nominative | **مُثَنًّى مَرْفُوعٌ** | The dual ends in **ـَانِ** when nominative. | **حَضَرَ طَالِبَانِ.** — “Two students attended.” |
+| 19 | Dual in the accusative or genitive | **مُثَنًّى مَنْصُوبٌ أَوْ مَجْرُورٌ** | The dual ends in **ـَيْنِ** when accusative or genitive. | **رَأَيْتُ طَالِبَيْنِ.** — “I saw two students.” |
+| 20 | Plural | **جَمْعٌ** | Refers to three or more. Arabic has several kinds of plural. | **كُتُبٌ** — books |
+| 21 | Sound masculine plural | **جَمْعُ مُذَكَّرٍ سَالِمٌ** | Usually refers to male people. The basic form remains recognizable. It takes **ـُونَ** in the nominative and **ـِينَ** in the accusative and genitive. | **مُهَنْدِسُونَ** / **مُهَنْدِسِينَ** |
+| 22 | Sound feminine plural | **جَمْعُ مُؤَنَّثٍ سَالِمٌ** | Often formed by changing **ـَةٌ** to **ـَاتٌ**. | **طَالِبَةٌ → طَالِبَاتٌ** |
+| 23 | Sound feminine plural endings | **ـَاتُ، ـَاتِ** | This plural has **ـَاتُ** in the nominative and **ـَاتِ** in the accusative and genitive. | **وَصَلَتِ الطَّالِبَاتُ.** / **رَأَيْتُ الطَّالِبَاتِ.** |
+| 24 | Broken plural | **جَمْعُ تَكْسِيرٍ** | The internal structure of the singular changes instead of simply receiving a plural ending. | **كِتَابٌ → كُتُبٌ** |
+| 25 | Rational plural | **جَمْعُ الْعَاقِلِ** | A plural referring to people or beings treated as rational. Adjectives, verbs, and pronouns generally use plural agreement. | **جَاءَ الطُّلَّابُ الْمُجْتَهِدُونَ.** |
+| 26 | Non-rational plural | **جَمْعُ غَيْرِ الْعَاقِلِ** | A plural referring to objects, animals, plants, or abstract things. It is usually treated as feminine singular for agreement. | **كُتُبٌ مُفِيدَةٌ.** |
+| 27 | Non-rational plural with an adjective | **نَعْتٌ لِجَمْعِ غَيْرِ الْعَاقِلِ** | The adjective is feminine singular, even though the noun is plural. | **بُيُوتٌ كَبِيرَةٌ.** — “Large houses.” |
+| 28 | Non-rational plural with a verb | **فِعْلٌ مَعَ جَمْعِ غَيْرِ الْعَاقِلِ** | The verb generally appears in the feminine singular. | **وَصَلَتِ السَّيَّارَاتُ.** — “The cars arrived.” |
+| 29 | Non-rational plural with a demonstrative | **هَذِهِ مَعَ جَمْعِ غَيْرِ الْعَاقِلِ** | Use the feminine singular demonstrative **هَذِهِ**, not the human-plural demonstrative **هَؤُلَاءِ**. | **هَذِهِ الْكُتُبُ مُفِيدَةٌ.** |
+| 30 | Non-rational plural with a relative pronoun | **الَّتِي مَعَ جَمْعِ غَيْرِ الْعَاقِلِ** | Use the feminine singular relative pronoun **الَّتِي**. | **اَلْكُتُبُ الَّتِي قَرَأْتُهَا مُفِيدَةٌ.** |
+| 31 | Adjective | **نَعْتٌ** or **صِفَةٌ** | An adjective agrees with the noun it describes in gender, number, case, and definiteness. | **كِتَابٌ مُفِيدٌ** — “a useful book” |
+| 32 | Adjective describing the first part of an iḍāfah | **نَعْتٌ لِلْمُضَافِ** | The adjective comes after the complete iḍāfah and agrees with the **مُضَافُ**. | **كِتَابُ الطَّالِبِ الْجَدِيدُ** — “the student’s new book” |
+| 33 | Adjective describing the second part of an iḍāfah | **نَعْتٌ لِلْمُضَافِ إِلَيْهِ** | The adjective follows the **مُضَافٌ إِلَيْهِ** and agrees with it, including its genitive case. | **كِتَابُ الطَّالِبِ الْجَدِيدِ** — “the new student’s book” |
+
+### Main rules to remember
+
+| Rule | Explanation | Example |
+|---|---|---|
+| **اَلْمُضَافُ لَا يَقْبَلُ التَّنْوِينَ.** | The **مُضَافُ** does not take tanwīn. | **كِتَابُ الطَّالِبِ** |
+| **اَلْمُضَافُ إِلَيْهِ مَجْرُورٌ.** | The **مُضَافٌ إِلَيْهِ** is always genitive. | **بَابُ الْبَيْتِ** |
+| **اَلضَّمِيرُ الْمُتَّصِلُ بَعْدَ حَرْفِ جَرٍّ فِي مَحَلِّ جَرٍّ.** | An attached pronoun after a preposition is grammatically genitive. | **مَرَرْتُ بِهِ** |
+| **جَمْعُ الْعَاقِلِ يُعَامَلُ مُعَامَلَةَ الْجَمْعِ.** | Rational plurals use normal plural agreement. | **طُلَّابٌ مُجْتَهِدُونَ** |
+| **جَمْعُ غَيْرِ الْعَاقِلِ يُعَامَلُ مُعَامَلَةَ الْمُفْرَدِ الْمُؤَنَّثِ.** | Non-rational plurals use feminine singular agreement. | **كُتُبٌ مُفِيدَةٌ** |
+| **اَلنَّعْتُ يَتْبَعُ الْمَنْعُوتَ.** | An adjective follows the noun it describes in its grammatical features. | **الطَّالِبُ الْمُجْتَهِدُ** |
+
+
+
+### 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥 🟥
 
 ---
 
