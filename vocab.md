@@ -3512,6 +3512,205 @@ Yes—here is the table with the **Arabic columns bolded**:
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
+
+Understood. I’ll remove the plural column and give each word:
+
+- the singular Arabic form with full tashkil,
+- the most natural English meaning,
+- a short Arabic example,
+- and an English translation showing the meaning clearly.
+
+## Part 1
+
+| Arabic word | Meaning | Example and translation |
+|---|---|---|
+| **مُنَظَّمَةٌ** | Organization | **تَعْمَلُ الْمُنَظَّمَةُ لِمُسَاعَدَةِ الْفُقَرَاءِ.** — The organization works to help poor people. |
+| **مُؤَسَّسَةٌ** | Institution / Foundation | **أَسَّسَتِ الْمُؤَسَّسَةُ مَدْرَسَةً جَدِيدَةً.** — The foundation established a new school. |
+| **شَرِكَةٌ** | Company | **تَعْمَلُ أُخْتِي فِي شَرِكَةٍ كَبِيرَةٍ.** — My sister works for a large company. |
+| **وَظِيفَةٌ** | Job / Position | **بَحَثَ أَحْمَدُ عَنْ وَظِيفَةٍ مُنَاسِبَةٍ.** — Aḥmad looked for a suitable job. |
+| **مِهْنَةٌ** | Profession / Occupation | **الطِّبَابَةُ مِهْنَةٌ تَحْتَاجُ إِلَى صَبْرٍ.** — Medicine is a profession that requires patience. |
+| **خِبْرَةٌ** | Experience | **لَدَيْهَا خِبْرَةٌ فِي التَّدْرِيسِ.** — She has experience in teaching. |
+| **مَهَارَةٌ** | Skill | **الْكِتَابَةُ بِوُضُوحٍ مَهَارَةٌ مُهِمَّةٌ.** — Writing clearly is an important skill. |
+| **دَوْرَةٌ** | Course / Training course | **سَأَشْتَرِكُ فِي دَوْرَةٍ لِتَعَلُّمِ الْعَرَبِيَّةِ.** — I will enroll in a course to learn Arabic. |
+| **مُحَاضَرَةٌ** | Lecture | **حَضَرْنَا مُحَاضَرَةً عَنْ تَارِيخِ الْعَرَبِ.** — We attended a lecture about Arab history. |
+| **جَلْسَةٌ** | Session | **بَدَأَتِ الْجَلْسَةُ فِي السَّاعَةِ التَّاسِعَةِ.** — The session began at nine o’clock. |
+| **وَرْشَةٌ** | Workshop | **شَارَكْتُ فِي وَرْشَةٍ لِتَطْوِيرِ مَهَارَاتِ الْكِتَابَةِ.** — I took part in a workshop to develop writing skills. |
+| **نَدْوَةٌ** | Seminar / Panel discussion | **أُقِيمَتْ نَدْوَةٌ عَنِ التَّغْيِيرِ الْمُنَاخِيِّ.** — A seminar about climate change was held. |
+| **مُؤْتَمَرٌ** | Conference | **سَيَحْضُرُ الطَّبِيبُ مُؤْتَمَرًا دَوْلِيًّا.** — The doctor will attend an international conference. |
+| **اِجْتِمَاعٌ** | Meeting | **لَدَيْنَا اِجْتِمَاعٌ مُهِمٌّ بَعْدَ الظُّهْرِ.** — We have an important meeting this afternoon. |
+| **مُقَابَلَةٌ** | Interview | **لَدَيَّ مُقَابَلَةٌ لِوَظِيفَةٍ جَدِيدَةٍ.** — I have an interview for a new job. |
+| **زِيَارَةٌ** | Visit | **قُمْنَا بِزِيَارَةٍ قَصِيرَةٍ لِلطَّبِيبِ.** — We made a short visit to the doctor. |
+| **دَعْوَةٌ** | Invitation | **تَلَقَّيْتُ دَعْوَةً إِلَى حَفْلِ الزَّفَافِ.** — I received an invitation to the wedding. |
+| **رِسَالَةٌ** | Message / Letter | **أَرْسَلْتُ رِسَالَةً إِلَى صَدِيقِي.** — I sent a message to my friend. |
+| **مُكَالَمَةٌ** | Phone call | **تَلَقَّيْتُ مُكَالَمَةً مِنْ أَخِي.** — I received a phone call from my brother. |
+| **خِدْمَةٌ** | Service | **تُقَدِّمُ الشَّرِكَةُ خِدْمَةً سَرِيعَةً.** — The company provides a fast service. |
+| **طَلَبِيَّةٌ** | Order | **وَصَلَتِ الطَّلَبِيَّةُ صَبَاحَ الْيَوْمِ.** — The order arrived this morning. |
+| **شِحْنَةٌ** | Shipment / Package | **تَتَبَّعْتُ الشِّحْنَةَ عَلَى الْإِنْتَرْنِتِ.** — I tracked the shipment online. |
+| **عَمَلِيَّةٌ** | Process / Operation | **تَحْتَاجُ هَذِهِ الْعَمَلِيَّةُ إِلَى وَقْتٍ.** — This process requires time. |
+| **تَجْرِبَةٌ** | Experience / Experiment | **كَانَتِ الرِّحْلَةُ تَجْرِبَةً مُفِيدَةً.** — The trip was a useful experience. |
+| **مُحَاوَلَةٌ** | Attempt | **كَانَتْ مُحَاوَلَتُهُ الثَّانِيَةُ نَاجِحَةً.** — His second attempt was successful. |
+| **خُطْوَةٌ** | Step | **هَذِهِ خُطْوَةٌ مُهِمَّةٌ نَحْوَ النَّجَاحِ.** — This is an important step toward success. |
+| **فُرْصَةٌ** | Opportunity | **هَذِهِ فُرْصَةٌ جَيِّدَةٌ لِلتَّعَلُّمِ.** — This is a good opportunity to learn. |
+| **فَائِدَةٌ** | Benefit / Usefulness | **لِقِرَاءَةِ الْكُتُبِ فَائِدَةٌ كَبِيرَةٌ.** — Reading books has a great benefit. |
+| **مِيزَةٌ** | Advantage / Feature | **مِنْ مَيَازِي هَذَا الْهَاتِفِ أَنَّهُ خَفِيفٌ.** — One advantage of this phone is that it is light. |
+| **عَلَامَةٌ** | Sign / Mark | **وَضَعَ الطَّالِبُ عَلَامَةً عَلَى الْجَوَابِ الصَّحِيحِ.** — The student marked the correct answer. |
+| **إِشَارَةٌ** | Signal / Sign | **أَعْطَانِي السَّائِقُ إِشَارَةً لِأَعْبُرَ الطَّرِيقَ.** — The driver gave me a signal to cross the road. |
+| **قَائِمَةٌ** | List / Menu | **كَتَبْتُ قَائِمَةً بِالأَشْيَاءِ الضَّرُورِيَّةِ.** — I wrote a list of necessary things. |
+| **خَرِيطَةٌ** | Map | **اِسْتَخْدَمْتُ خَرِيطَةً لِأَجِدَ الْمَطَارَ.** — I used a map to find the airport. |
+| **صُورَةٌ** | Picture / Photograph | **اِلْتَقَطْنَا صُورَةً أَمَامَ الْمَبْنَى.** — We took a picture in front of the building. |
+| **مَجْمُوعَةٌ** | Group / Collection | **اِنْضَمَمْتُ إِلَى مَجْمُوعَةٍ لِتَعَلُّمِ اللُّغَةِ.** — I joined a group to learn the language. |
+| **فِئَةٌ** | Category / Group | **يَنْتَمِي هَذَا الْكِتَابُ إِلَى فِئَةِ الْكُتُبِ التَّعْلِيمِيَّةِ.** — This book belongs to the category of educational books. |
+| **نَوْعِيَّةٌ** | Quality | **تَمْتَازُ هَذِهِ الْمَنْتَجَاتُ بِنَوْعِيَّةٍ عَالِيَةٍ.** — These products are distinguished by high quality. |
+| **كَمِّيَّةٌ** | Quantity | **أَضِفْ كَمِّيَّةً قَلِيلَةً مِنَ الْمِلْحِ.** — Add a small quantity of salt. |
+| **مِسَاحَةٌ** | Area / Space | **تَحْتَاجُ الْغُرْفَةُ إِلَى مِسَاحَةٍ أَكْبَرَ.** — The room needs more space. |
+| **مَسَافَةٌ** | Distance | **قَطَعْنَا مَسَافَةً طَوِيلَةً بِالسَّيَّارَةِ.** — We traveled a long distance by car. |
+| **سُرْعَةٌ** | Speed | **يَجِبُ أَنْ تَقُودَ بِسُرْعَةٍ مُنَاسِبَةٍ.** — You should drive at an appropriate speed. |
+| **دَرَجَةٌ** | Degree / Grade / Temperature | **حَصَلَ الطَّالِبُ عَلَى دَرَجَةٍ عَالِيَةٍ.** — The student received a high grade. |
+| **نِسْبَةٌ** | Percentage / Proportion | **اِرْتَفَعَتْ نِسْبَةُ النَّجَاحِ هَذَا الْعَامَ.** — The success rate increased this year. |
+| **قِيمَةٌ** | Value / Price | **مَا قِيمَةُ هَذَا الْكِتَابِ؟** — What is the price of this book? |
+| **تَكْلِفَةٌ** | Cost | **تَكْلِفَةُ السَّفَرِ مُرْتَفِعَةٌ.** — The cost of traveling is high. |
+| **مِيزَانِيَّةٌ** | Budget | **لَيْسَ لَدَيْنَا مِيزَانِيَّةٌ كَافِيَةٌ لِلْمَشْرُوعِ.** — We do not have a sufficient budget for the project. |
+| **عُمْلَةٌ** | Currency | **مَا الْعُمْلَةُ الْمُسْتَخْدَمَةُ فِي هَذَا الْبَلَدِ؟** — What currency is used in this country? |
+| **تَعْرِيفَةٌ** | Fee / Fare / Tariff | **تَعْرِيفَةُ الْحَافِلَةِ دِينَارٌ وَاحِدٌ.** — The bus fare is one dinar. |
+| **ضَرِيبَةٌ** | Tax | **تَدْفَعُ الشَّرِكَةُ ضَرِيبَةً سَنَوِيَّةً.** — The company pays an annual tax. |
+| **مُسَاهَمَةٌ** | Contribution | **قَدَّمَ كُلُّ شَخْصٍ مُسَاهَمَةً لِلْمَشْرُوعِ.** — Each person made a contribution to the project. |
+| **اِسْتِثْمَارٌ** | Investment | **يَحْتَاجُ الْمَشْرُوعُ إِلَى اِسْتِثْمَارٍ كَبِيرٍ.** — The project needs a large investment. |
+| **تَبَرُّعٌ** | Donation | **قَدَّمَ رَجُلُ الأَعْمَالِ تَبَرُّعًا لِلْمُسْتَشْفَى.** — The businessman made a donation to the hospital. |
+| **مُكَافَأَةٌ** | Reward / Bonus | **حَصَلَ الْمُوَظَّفُ عَلَى مُكَافَأَةٍ لِجُهُودِهِ.** — The employee received a bonus for his efforts. |
+| **جَائِزَةٌ** | Prize / Award | **فَازَتْ بِجَائِزَةٍ فِي الْمُسَابَقَةِ.** — She won a prize in the competition. |
+
+I will continue using this format: **Arabic word → precise meaning → short contextual example → translation**.
+## Part 2
+
+| Arabic word | Meaning | Example and translation |
+|---|---|---|
+| **مُسَابَقَةٌ** | Competition / Contest | **اِشْتَرَكَ أَخِي فِي مُسَابَقَةٍ لِلْقِرَاءَةِ.** — My brother took part in a reading competition. |
+| **بُطُولَةٌ** | Championship / Tournament | **فَازَ فَرِيقُنَا بِبُطُولَةِ الْمَدْرَسَةِ.** — Our team won the school championship. |
+| **جَوْلَةٌ** | Tour / Round | **قُمْنَا بِجَوْلَةٍ فِي الْمَدِينَةِ الْقَدِيمَةِ.** — We took a tour of the old city. |
+| **مَرْحَلَةٌ** | Stage / Phase | **نَحْنُ الآنَ فِي مَرْحَلَةٍ مُهِمَّةٍ مِنَ الْمَشْرُوعِ.** — We are now at an important stage of the project. |
+| **فَتْرَةٌ** | Period of time | **عَمِلْتُ فِي الشَّرِكَةِ فَتْرَةً قَصِيرَةً.** — I worked at the company for a short period. |
+| **لَحْظَةٌ** | Moment | **اِنْتَظِرْ لَحْظَةً مِنْ فَضْلِكَ.** — Please wait a moment. |
+| **قَنَاةٌ** | Channel | **أُشَاهِدُ قَنَاةً إِخْبَارِيَّةً كُلَّ صَبَاحٍ.** — I watch a news channel every morning. |
+| **مَحَطَّةٌ** | Station | **نَزَلْنَا فِي الْمَحَطَّةِ التَّالِيَةِ.** — We got off at the next station. |
+| **عِيَادَةٌ** | Clinic | **ذَهَبَتْ أُمِّي إِلَى عِيَادَةِ الطَّبِيبِ.** — My mother went to the doctor’s clinic. |
+| **صَيْدَلِيَّةٌ** | Pharmacy | **اِشْتَرَيْتُ الدَّوَاءَ مِنَ الصَّيْدَلِيَّةِ.** — I bought the medicine from the pharmacy. |
+| **حُقْنَةٌ** | Injection | **أَعْطَانِي الطَّبِيبُ حُقْنَةً لِتَخْفِيفِ الأَلَمِ.** — The doctor gave me an injection to relieve the pain. |
+| **أَزْمَةٌ** | Crisis | **تُوَاجِهُ الْمَدِينَةُ أَزْمَةً اِقْتِصَادِيَّةً.** — The city is facing an economic crisis. |
+| **صَدْمَةٌ** | Shock / Trauma | **كَانَ الْخَبَرُ صَدْمَةً كَبِيرَةً لِعَائِلَتِهِ.** — The news was a great shock to his family. |
+| **إِصَابَةٌ** | Injury | **أُصِيبَ اللَّاعِبُ بِإِصَابَةٍ فِي قَدَمِهِ.** — The player suffered an injury to his foot. |
+| **رِعَايَةٌ** | Care | **يَحْتَاجُ الْمَرِيضُ إِلَى رِعَايَةٍ خَاصَّةٍ.** — The patient needs special care. |
+| **حِمَايَةٌ** | Protection | **تُوَفِّرُ الشُّرْطَةُ حِمَايَةً لِلسُّكَّانِ.** — The police provide protection for the residents. |
+| **صِيَانَةٌ** | Maintenance | **تَحْتَاجُ السَّيَّارَةُ إِلَى صِيَانَةٍ دَوْرِيَّةٍ.** — The car needs regular maintenance. |
+| **إِصْلَاحٌ** | Repair | **اِسْتَغْرَقَ إِصْلَاحُ الْحَاسُوبِ سَاعَتَيْنِ.** — Repairing the computer took two hours. |
+| **تَعْدِيلٌ** | Modification / Amendment | **يَحْتَاجُ الْعَقْدُ إِلَى تَعْدِيلٍ بَسِيطٍ.** — The contract needs a minor amendment. |
+| **تَغْيِيرٌ** | Change | **أَحْدَثَ الْمَشْرُوعُ تَغْيِيرًا كَبِيرًا فِي الْمَدِينَةِ.** — The project caused a major change in the city. |
+| **تَطْوِيرٌ** | Development / Improvement | **يَهْدِفُ الْبَرْنَامَجُ إِلَى تَطْوِيرِ مَهَارَاتِ الطُّلَّابِ.** — The program aims to develop students’ skills. |
+| **إِنْتَاجٌ** | Production | **يَزْدَادُ إِنْتَاجُ الْمَصْنَعِ كُلَّ عَامٍ.** — The factory’s production increases every year. |
+| **تَصْدِيرٌ** | Export | **يَعْتَمِدُ الْبَلَدُ عَلَى تَصْدِيرِ النَّفْطِ.** — The country depends on exporting oil. |
+| **اِسْتِيرَادٌ** | Import | **يَحْتَاجُ الْبَلَدُ إِلَى اِسْتِيرَادِ بَعْضِ الْمَوَادِّ.** — The country needs to import some materials. |
+| **تَوْزِيعٌ** | Distribution | **تَتَوَلَّى الشَّرِكَةُ تَوْزِيعَ الْمُنْتَجَاتِ.** — The company handles the distribution of the products. |
+| **تَسْوِيقٌ** | Marketing | **يَعْتَمِدُ نَجَاحُ الْمُنْتَجِ عَلَى تَسْوِيقٍ جَيِّدٍ.** — The product’s success depends on good marketing. |
+| **إِعْلَانٌ** | Advertisement | **شَاهَدْتُ إِعْلَانًا لِهَاتِفٍ جَدِيدٍ.** — I saw an advertisement for a new phone. |
+| **دِعَايَةٌ** | Publicity / Propaganda | **اِسْتَخْدَمَتِ الشَّرِكَةُ الدِّعَايَةَ لِلتَّعْرِيفِ بِمُنْتَجِهَا.** — The company used publicity to promote its product. |
+| **عَلَاقَةٌ** | Relationship | **تَرْبِطُنِي بِجَارِي عِلَاقَةٌ طَيِّبَةٌ.** — I have a good relationship with my neighbor. |
+| **ثَقَافَةٌ** | Culture | **تَعَلُّمُ اللُّغَةِ يَفْتَحُ بَابًا إِلَى ثَقَافَةٍ جَدِيدَةٍ.** — Learning a language opens a door to a new culture. |
+| **حَضَارَةٌ** | Civilization | **تَرَكَتِ الْحَضَارَةُ الْمِصْرِيَّةُ آثَارًا عَظِيمَةً.** — Egyptian civilization left great monuments. |
+| **عَادَةٌ** | Habit / Custom | **قِرَاءَةُ الْكِتَابِ قَبْلَ النَّوْمِ عَادَةٌ مُفِيدَةٌ.** — Reading a book before sleep is a useful habit. |
+| **تَقْلِيدٌ** | Tradition | **يَحْتَفِظُ السُّكَّانُ بِتَقْلِيدٍ قَدِيمٍ.** — The residents preserve an old tradition. |
+| **فِكْرَةٌ** | Idea | **كَانَتْ فِكْرَةُ الْمَشْرُوعِ بَسِيطَةً وَمُفِيدَةً.** — The idea of the project was simple and useful. |
+| **وَجْهَةٌ** | Destination | **كَانَتْ الْجَزِيرَةُ وَجْهَتَنَا فِي الْعُطْلَةِ.** — The island was our destination during the holiday. |
+| **رِحْلَةٌ** | Journey / Trip | **كَانَتْ رِحْلَتُنَا إِلَى الْجَبَلِ مُتْعَةً كَبِيرَةً.** — Our trip to the mountain was great fun. |
+| **نُزْهَةٌ** | Stroll / Outing | **خَرَجْنَا فِي نُزْهَةٍ مَسَائِيَّةٍ.** — We went out for an evening stroll. |
+| **إِقَامَةٌ** | Stay / Residence | **كَانَتْ إِقَامَتُنَا فِي الْفُنْدُقِ مُرِيحَةً.** — Our stay at the hotel was comfortable. |
+| **هِجْرَةٌ** | Migration | **كَانَتِ الْهِجْرَةُ سَبَبًا فِي تَغَيُّرِ حَيَاتِهِ.** — Migration was a reason for the change in his life. |
+| **حَجْزٌ** | Reservation / Booking | **أَجْرَيْتُ حَجْزًا فِي فُنْدُقٍ قَرِيبٍ.** — I made a reservation at a nearby hotel. |
+| **غُرْفَةٌ** | Room | **حَجَزْنَا غُرْفَةً مُطِلَّةً عَلَى الْبَحْرِ.** — We booked a room overlooking the sea. |
+| **صَالَةٌ** | Hall / Lounge | **اِنْتَظَرَ الضُّيُوفُ فِي صَالَةِ الِاسْتِقْبَالِ.** — The guests waited in the reception hall. |
+| **سَاحَةٌ** | Square / Courtyard | **اِجْتَمَعَ النَّاسُ فِي سَاحَةِ الْمَدِينَةِ.** — The people gathered in the city square. |
+| **حَدِيقَةٌ** | Garden / Park | **يَلْعَبُ الأَطْفَالُ فِي الْحَدِيقَةِ.** — The children are playing in the park. |
+| **مَزْرَعَةٌ** | Farm | **يَزْرَعُ الْفَلَّاحُ الْخُضْرَوَاتِ فِي مَزْرَعَتِهِ.** — The farmer grows vegetables on his farm. |
+| **غَابَةٌ** | Forest | **مَشَيْنَا بَيْنَ أَشْجَارِ الْغَابَةِ.** — We walked among the trees of the forest. |
+| **بُحَيْرَةٌ** | Lake | **تَقَعُ الْقَرْيَةُ قُرْبَ بُحَيْرَةٍ جَمِيلَةٍ.** — The village is located near a beautiful lake. |
+| **قِمَّةٌ** | Peak / Summit | **وَصَلَ الْمُتَسَلِّقُونَ إِلَى قِمَّةِ الْجَبَلِ.** — The climbers reached the mountain peak. |
+| **مَوْجَةٌ** | Wave | **كَانَتْ مَوْجَةُ الْبَحْرِ قَوِيَّةً.** — The sea wave was strong. |
+| **عَاصِفَةٌ** | Storm | **أَغْلَقَتِ الْعَاصِفَةُ الطُّرُقَ.** — The storm closed the roads. |
+| **غَيْمَةٌ** | Cloud | **مَرَّتْ غَيْمَةٌ كَبِيرَةٌ فَوْقَ الْمَدِينَةِ.** — A large cloud passed over the city. |
+| **نَبْتَةٌ** | Plant | **وَضَعْتُ نَبْتَةً صَغِيرَةً قُرْبَ النَّافِذَةِ.** — I placed a small plant near the window. |
+| **شَجَرَةٌ** | Tree | **جَلَسْنَا تَحْتَ شَجَرَةٍ كَبِيرَةٍ.** — We sat under a large tree. |
+| **وَرْدَةٌ** | Rose | **أَهْدَانِي صَدِيقِي وَرْدَةً حَمْرَاءَ.** — My friend gave me a red rose. |
+| **زَهْرَةٌ** | Flower | **قَطَفَتِ الطِّفْلَةُ زَهْرَةً صَفْرَاءَ.** — The girl picked a yellow flower. |
+| **ثَمَرَةٌ** | Fruit / Result | **قَطَفَ الْفَلَّاحُ ثَمَرَةً نَاضِجَةً.** — The farmer picked a ripe fruit. |
+| **حَبَّةٌ** | Grain / Pill | **تَنَاوَلَ الْمَرِيضُ حَبَّةً بَعْدَ الطَّعَامِ.** — The patient took a pill after the meal. |
+| **قَطْرَةٌ** | Drop | **سَقَطَتْ قَطْرَةٌ مِنَ الْمَاءِ عَلَى الْكِتَابِ.** — A drop of water fell on the book. |
+
+## Part 3
+
+| Arabic word | Meaning | Example and translation |
+|---|---|---|
+| **رَمْيَةٌ** | Throw / Shot | **كَانَتْ رَمْيَتُهُ قَوِيَّةً وَدَقِيقَةً.** — His throw was strong and accurate. |
+| **ضَرْبَةٌ** | Hit / Strike | **وَجَّهَ اللَّاعِبُ ضَرْبَةً قَوِيَّةً لِلْكُرَةِ.** — The player gave the ball a strong hit. |
+| **طَعْنَةٌ** | Stab | **أُصِيبَ الرَّجُلُ بِطَعْنَةٍ فِي ذِرَاعِهِ.** — The man was injured by a stab wound in his arm. |
+| **هَجْمَةٌ** | Attack | **شَنَّ الْفَرِيقُ هَجْمَةً سَرِيعَةً.** — The team launched a quick attack. |
+| **رَكْلَةٌ** | Kick | **سَدَّدَ اللَّاعِبُ رَكْلَةً نَحْوَ الْمَرْمَى.** — The player kicked the ball toward the goal. |
+| **قَفْزَةٌ** | Jump / Leap | **قَامَ اللَّاعِبُ بِقَفْزَةٍ عَالِيَةٍ.** — The player made a high jump. |
+| **خُطْوَةٌ** | Step | **تَقَدَّمَ خُطْوَةً نَحْوَ الْبَابِ.** — He took a step toward the door. |
+| **نَظْرَةٌ** | Look / Glance | **أَلْقَيْتُ نَظْرَةً سَرِيعَةً عَلَى السَّاعَةِ.** — I took a quick look at the clock. |
+| **لَمْسَةٌ** | Touch | **أَضَافَ الرَّسَّامُ لَمْسَةً أَخِيرَةً إِلَى اللَّوْحَةِ.** — The painter added a final touch to the painting. |
+| **هَمْسَةٌ** | Whisper | **سَمِعْتُ هَمْسَةً خَفِيفَةً خَلْفَ الْبَابِ.** — I heard a soft whisper behind the door. |
+| **صَرْخَةٌ** | Scream / Shout | **سَمِعَ الْجِيرَانُ صَرْخَةً فِي وَسَطِ اللَّيْلِ.** — The neighbors heard a scream in the middle of the night. |
+| **ضَحْكَةٌ** | Laugh | **مَلَأَتْ ضَحْكَةُ الطِّفْلِ الْبَيْتَ.** — The child’s laugh filled the house. |
+| **اِبْتِسَامَةٌ** | Smile | **رَحَّبَ بِنَا بِاِبْتِسَامَةٍ لَطِيفَةٍ.** — He welcomed us with a kind smile. |
+| **دَمْعَةٌ** | Tear | **نَزَلَتْ دَمْعَةٌ عَلَى خَدِّهَا.** — A tear rolled down her cheek. |
+| **نَفْسٌ** | Self / Soul | **يَجِبُ أَنْ يَثِقَ الْإِنْسَانُ بِنَفْسِهِ.** — A person should trust himself. |
+| **نَفَسٌ** | Breath | **أَخَذَ الرَّجُلُ نَفَسًا عَمِيقًا.** — The man took a deep breath. |
+| **حَرَكَةٌ** | Movement | **لَاحَظَ الطَّبِيبُ حَرَكَةً غَرِيبَةً فِي يَدِهِ.** — The doctor noticed an unusual movement in his hand. |
+| **قَاعِدَةٌ** | Rule | **اِحْتِرَامُ الْآخَرِينَ قَاعِدَةٌ أَسَاسِيَّةٌ.** — Respecting others is a basic rule. |
+| **سِيَاسَةٌ** | Policy / Politics | **وَضَعَتِ الشَّرِكَةُ سِيَاسَةً جَدِيدَةً لِلْعَمَلِ.** — The company established a new work policy. |
+| **أُمْنِيَةٌ** | Wish | **كَانَ السَّفَرُ إِلَى الْيَابَانِ أُمْنِيَتَهُ الْكُبْرَى.** — Traveling to Japan was his greatest wish. |
+| **رَغْبَةٌ** | Desire / Wish | **لَدَيَّ رَغْبَةٌ فِي تَعَلُّمِ لُغَةٍ جَدِيدَةٍ.** — I have a desire to learn a new language. |
+| **فِكْرَةٌ** | Idea / Thought | **خَطَرَتْ لِي فِكْرَةٌ مُفِيدَةٌ.** — A useful idea occurred to me. |
+| **خُطَّةٌ** | Plan | **وَضَعْنَا خُطَّةً لِإِنْجَازِ الْمَشْرُوعِ.** — We made a plan to complete the project. |
+| **قَبُولٌ** | Acceptance / Admission | **تَلَقَّى الطَّالِبُ رِسَالَةَ قَبُولٍ مِنَ الْجَامِعَةِ.** — The student received an acceptance letter from the university. |
+| **مُوَافَقَةٌ** | Approval / Agreement | **لَا نَبْدَأُ الْمَشْرُوعَ بِلَا مُوَافَقَةٍ رَسْمِيَّةٍ.** — We do not begin the project without official approval. |
+| **رَفْضٌ** | Refusal / Rejection | **كَانَ رَفْضُهُ لِلْعَرْضِ مُفَاجِئًا.** — His rejection of the offer was surprising. |
+| **شَكْوَى** | Complaint | **قَدَّمَ الْمُسَافِرُ شَكْوَى بِسَبَبِ تَأَخُّرِ الطَّائِرَةِ.** — The passenger filed a complaint because of the flight’s delay. |
+| **اِقْتِرَاحٌ** | Suggestion / Proposal | **قَدَّمَتْ زَمِيلَتِي اِقْتِرَاحًا مُفِيدًا.** — My colleague made a useful suggestion. |
+| **تَوْصِيَةٌ** | Recommendation | **كَتَبَ الطَّبِيبُ تَوْصِيَةً لِلمَرِيضِ.** — The doctor wrote a recommendation for the patient. |
+| **نَصِيحَةٌ** | Advice | **أَعْطَانِي أَبِي نَصِيحَةً مُهِمَّةً.** — My father gave me important advice. |
+| **تَحْذِيرٌ** | Warning | **نَشَرَتِ الشُّرْطَةُ تَحْذِيرًا لِلسَّائِقِينَ.** — The police issued a warning to drivers. |
+| **تَهْدِيدٌ** | Threat | **تَلَقَّى الرَّجُلُ تَهْدِيدًا عَبْرَ الْهَاتِفِ.** — The man received a threat by phone. |
+| **مُشَاجَرَةٌ** | Quarrel / Fight | **حَدَثَتْ مُشَاجَرَةٌ بَيْنَ رَجُلَيْنِ فِي الشَّارِعِ.** — A quarrel broke out between two men in the street. |
+| **مُجَادَلَةٌ** | Argument / Debate | **لَا تُفِيدُ الْمُجَادَلَةُ إِذَا لَمْ نَسْمَعْ بَعْضَنَا.** — Arguing is not useful if we do not listen to each other. |
+| **مُنَاقَشَةٌ** | Discussion | **كَانَتِ الْمُنَاقَشَةُ هَادِئَةً وَمُفِيدَةً.** — The discussion was calm and useful. |
+| **مُحَادَثَةٌ** | Conversation | **أَجْرَيْتُ مُحَادَثَةً قَصِيرَةً مَعَ الْمُدِيرِ.** — I had a short conversation with the manager. |
+| **دِرَاسَةٌ** | Study | **تَحْتَاجُ دِرَاسَةُ اللُّغَةِ إِلَى مُوَاظَبَةٍ.** — Studying a language requires consistency. |
+| **مُرَاجَعَةٌ** | Review / Revision | **أَحْتَاجُ إِلَى مُرَاجَعَةِ الدَّرْسِ قَبْلَ الِامْتِحَانِ.** — I need to review the lesson before the exam. |
+| **قِرَاءَةٌ** | Reading | **أُحِبُّ قِرَاءَةَ الرِّوَايَاتِ فِي وَقْتِ فَرَاغِي.** — I like reading novels in my free time. |
+| **كِتَابَةٌ** | Writing | **تَحْتَاجُ الْكِتَابَةُ بِاللُّغَةِ الْعَرَبِيَّةِ إِلَى تَدْرِيبٍ.** — Writing in Arabic requires practice. |
+| **رَسْمَةٌ** | Drawing / Sketch | **رَسَمَ الطِّفْلُ رَسْمَةً لِبَيْتِهِ.** — The child drew a picture of his house. |
+| **دَهْنَةٌ** | Coat of paint | **أَضَفْنَا دَهْنَةً جَدِيدَةً إِلَى الْجِدَارِ.** — We added a new coat of paint to the wall. |
+| **نَظَافَةٌ** | Cleanliness | **نَظَافَةُ الْمَكَانِ مَسْؤُولِيَّةُ الْجَمِيعِ.** — Keeping the place clean is everyone’s responsibility. |
+| **مُسَاعَدَةٌ** | Help / Assistance | **شَكَرْتُهُ عَلَى مُسَاعَدَتِهِ لِي.** — I thanked him for helping me. |
+| **مُشَارَكَةٌ** | Participation | **مُشَارَكَةُ الطُّلَّابِ فِي الدَّرْسِ مُهِمَّةٌ.** — The students’ participation in the lesson is important. |
+| **مُسَاهَمَةٌ** | Contribution | **كَانَتْ مُسَاهَمَتُهُ فِي الْمَشْرُوعِ كَبِيرَةً.** — His contribution to the project was significant. |
+| **مُنَافَسَةٌ** | Competition | **كَانَتِ الْمُنَافَسَةُ بَيْنَ الْفَرِيقَيْنِ قَوِيَّةً.** — The competition between the two teams was intense. |
+| **نَجَاحٌ** | Success | **يَحْتَاجُ النَّجَاحُ إِلَى عَمَلٍ مُسْتَمِرٍّ.** — Success requires continuous work. |
+| **صُعُوبَةٌ** | Difficulty | **وَاجَهْتُ صُعُوبَةً فِي فَهْمِ هَذَا الدَّرْسِ.** — I had difficulty understanding this lesson. |
+| **سُهُولَةٌ** | Ease | **شَرَحَ الْمُعَلِّمُ الْقَاعِدَةَ بِسُهُولَةٍ.** — The teacher explained the rule easily. |
+| **قُدْرَةٌ** | Ability / Capability | **لَدَيْهَا قُدْرَةٌ عَلَى حَلِّ الْمَشَاكِلِ.** — She has the ability to solve problems. |
+| **طَاقَةٌ** | Energy | **لَيْسَ لَدَيَّ طَاقَةٌ لِلْعَمَلِ اللَّيْلَةَ.** — I do not have the energy to work tonight. |
+| **مَشْغُولٌ** | Busy / Occupied | **أَنَا مَشْغُولٌ بِإِعْدَادِ التَّقْرِيرِ.** — I am busy preparing the report. |
+| **مَبْسُوطٌ** | Happy / Pleased | **أَنَا مَبْسُوطٌ لِأَنَّكَ زُرْتَنِي.** — I am happy that you visited me. |
+| **زَعْلَانُ** | Upset | **هُوَ زَعْلَانُ مِنْ صَدِيقِهِ.** — He is upset with his friend. |
+| **تَعْبَانُ** | Tired | **أَنَا تَعْبَانُ بَعْدَ يَوْمٍ طَوِيلٍ.** — I am tired after a long day. |
+| **شَبْعَانُ** | Full after eating | **أَنَا شَبْعَانُ، وَلَا أُرِيدُ طَعَامًا.** — I am full and do not want any food. |
+| **جَوْعَانُ** | Hungry | **أَنَا جَوْعَانُ، فَهَلْ نَتَنَاوَلُ الطَّعَامَ؟** — I am hungry, so shall we eat? |
+| **عَطْشَانُ** | Thirsty | **كَانَ الطِّفْلُ عَطْشَانَ بَعْدَ اللَّعِبِ.** — The child was thirsty after playing. |
+| **كَسْلَانُ** | Lazy | **لَا تَكُنْ كَسْلَانَ وَابْدَأْ عَمَلَكَ.** — Do not be lazy; start your work. |
+| **نَشِيطٌ** | Active / Energetic | **أَخِي نَشِيطٌ وَيُمَارِسُ الرِّيَاضَةَ كُلَّ يَوْمٍ.** — My brother is active and exercises every day. |
+| **فَرْحَانُ** | Joyful / Glad | **كَانَ الطِّفْلُ فَرْحَانَ بِنَجَاحِهِ.** — The child was delighted by his success. |
+
+
 ---
 ### 🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲🤲
 
