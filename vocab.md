@@ -113,6 +113,25 @@ For a male speaker:
 
 For example, **هذا مُهِمّ** means “This is important,” while **هذا لازِم** means “This is necessary/needed.”
 
+“He asked Ḥamīd” is:
+
+**سَأَلَهُ حَمِيدٌ** means “Ḥamīd asked him,” so the word order matters.
+
+For “He asked Ḥamīd,” say:
+
+**سَأَلَ حَمِيدًا.**
+
+Here, **حَمِيدًا** is the direct object, so it takes the accusative ending **ـًا**. The subject “he” is understood from the verb **سَأَلَ**.
+
+You can also make the subject explicit:
+
+**سَأَلَهُ رَجُلٌ حَمِيدًا.**  
+“A man asked him Ḥamīd.” — This sentence is unnatural because it contains two objects, so the clearest sentence is:
+
+**سَأَلَ حَمِيدًا.**  
+“He asked Ḥamīd.”
+
+
 
 
 ---
