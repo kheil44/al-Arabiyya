@@ -388,6 +388,33 @@ Here **نَشْرِ** literally means **“spreading.”**
 
 
 
+---
+**سَأَلَهُ حَمِيدًا** is grammatically **incorrect**. Here's why:
+
+| Form | Case | Role | Valid? |
+|------|------|------|--------|
+| **سَأَلَهُ حَمِيدٌ** | Nominative (رفع) | فاعل (subject) | ✅ |
+| **سَأَلَهُ حَمِيدًا** | Accusative (نصب) | مفعول به (object)? | ❌ |
+
+**The problem:** **سَأَلَ** is a transitive verb that takes **one** direct object. That slot is already filled by **هُ** (him). There's no room for a second accusative noun.
+
+And the subject (فاعل) **must** be nominative — always. You can never put the فاعل in the accusative.
+
+So:
+
+- **سَأَلَهُ حَمِيدٌ** → "Hamid asked him." (subject = **حَمِيدٌ**, object = **هُ**)
+- **سَأَلَهُ حَمِيدًا** → ✗ No grammatical role exists for **حَمِيدًا** here.
+
+**The rule to internalize:** In a verbal sentence, the فاعل is **always** in the رفع (nominative, damma). If you see a noun after the verb with a fatha, it's not the subject — it must be filling some other role (object, complement, etc.). If no such role is available, the sentence is broken.
+
+
+---
+
+---
+
+---
+
+---
 
 
 
