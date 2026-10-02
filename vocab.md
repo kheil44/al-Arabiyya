@@ -105,7 +105,13 @@ For a male speaker:
 - **There** = **هُنَاكَ** (*hunāka*)
 - 
 
+**لازِم (lāzim)** can mean “necessary,” “required,” or “needed”—not usually “important.”
 
+- **مُهِمّ (muhimm)** — important  
+- **ضَرُورِيّ (ḍarūrī)** — necessary / essential  
+- **لازِم (lāzim)** — needed / required, and in some dialects “must”  
+
+For example, **هذا مُهِمّ** means “This is important,” while **هذا لازِم** means “This is necessary/needed.”
 
 
 
