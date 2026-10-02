@@ -3164,6 +3164,46 @@ Now that you have the absolute exhaustive semantic mapping for all four dominant
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
 
+Yes. These should be added as separate columns. **Subject form** means the attached subject pronoun, while **object form** means the attached object pronoun.
+
+| Person | Detached pronoun | Subject form | Past-tense example | Present-tense prefix/suffix | Present-tense example | Object form | Object example |
+|---|---|---|---|---|---|---|---|
+| He | **هُوَ** | hidden | **كَتَبَ** | **يَـ** | **يَكْتُبُ** | **ـهُ** | **كَتَبَهُ** |
+| She | **هِيَ** | **ـتْ** | **كَتَبَتْ** | **تَـ** | **تَكْتُبُ** | **ـهَا** | **كَتَبَهَا** |
+| They two, masculine | **هُمَا** | **ـا** | **كَتَبَا** | **يَـ...ـانِ** | **يَكْتُبَانِ** | **ـهُمَا** | **كَتَبَهُمَا** |
+| They two, feminine | **هُمَا** | **ـتَا** | **كَتَبَتَا** | **تَـ...ـانِ** | **تَكْتُبَانِ** | **ـهُمَا** | **كَتَبَهُمَا** |
+| They, masculine plural | **هُمْ** | **ـوا** | **كَتَبُوا** | **يَـ...ـونَ** | **يَكْتُبُونَ** | **ـهُمْ** | **كَتَبَهُمْ** |
+| They, feminine plural | **هُنَّ** | **ـنَ** | **كَتَبْنَ** | **يَـ...ـنَ** | **يَكْتُبْنَ** | **ـهُنَّ** | **كَتَبَهُنَّ** |
+| You, masculine singular | **أَنْتَ** | **ـتَ** | **كَتَبْتَ** | **تَـ** | **تَكْتُبُ** | **ـكَ** | **كَتَبَكَ** |
+| You, feminine singular | **أَنْتِ** | **ـتِ** | **كَتَبْتِ** | **تَـ...ـينَ** | **تَكْتُبِينَ** | **ـكِ** | **كَتَبَكِ** |
+| You two | **أَنْتُمَا** | **ـتُمَا** | **كَتَبْتُمَا** | **تَـ...ـانِ** | **تَكْتُبَانِ** | **ـكُمَا** | **كَتَبَكُمَا** |
+| You, masculine plural | **أَنْتُمْ** | **ـتُمْ** | **كَتَبْتُمْ** | **تَـ...ـونَ** | **تَكْتُبُونَ** | **ـكُمْ** | **كَتَبَكُمْ** |
+| You, feminine plural | **أَنْتُنَّ** | **ـتُنَّ** | **كَتَبْتُنَّ** | **تَـ...ـنَ** | **تَكْتُبْنَ** | **ـكُنَّ** | **كَتَبَكُنَّ** |
+| I | **أَنَا** | **ـتُ** | **كَتَبْتُ** | **أَـ** | **أَكْتُبُ** | **ـنِي** | **كَتَبَنِي** |
+| We | **نَحْنُ** | **ـنَا** | **كَتَبْنَا** | **نَـ** | **نَكْتُبُ** | **ـنَا** | **كَتَبَنَا** |
+
+### Column meanings
+
+- **Detached pronoun:** written separately, such as **هُوَ** or **أَنَا**.
+- **Subject form:** the form that performs the action.
+- **Past-tense example:** shows the subject form attached to a past-tense verb.
+- **Present-tense prefix/suffix:** shows how the subject is marked in the present tense.
+- **Object form:** the form that receives the action.
+- **Object example:** shows the object form attached to the verb.
+
+For example:
+
+**كَتَبْتُ**  
+“I wrote.”
+
+Here, **ـتُ** is the subject form.
+
+**كَتَبَنِي**  
+“He wrote me.”
+
+Here, **ـنِي** is the object form.
+
+
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
