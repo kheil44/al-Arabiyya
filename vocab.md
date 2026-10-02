@@ -3207,6 +3207,66 @@ Here, **ـنِي** is the object form.
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
 
+Okay. Forget everything I wrote before. Let's do this from absolute zero, short and clean.
+
+---
+
+## Arabic verbs have **two slots** at the end
+
+Think of a verb like this:
+
+```
+[ VERB ] [ WHO did it? ] [ WHO got it? ]
+```
+
+- **Slot 1** (right after the verb) = the **doer**
+- **Slot 2** (at the very end) = the **receiver**
+
+Either slot can be **empty**. That's all.
+
+---
+
+## One verb, four sentences:
+
+| Arabic | Slot 1 | Slot 2 | English |
+|--------|--------|--------|---------|
+| **رَأَى** | *(empty)* | *(empty)* | He saw. |
+| **رَأَيْتُ** | **ـتُ** = I | *(empty)* | I saw. |
+| **رَأَيْتُه** | **ـتُ** = I | **ـه** = him | I saw him. |
+| **رَأَى** + **ـه** = **رَآه** | *(empty)* | **ـه** = him | He saw him. |
+
+**That's the entire system.** Two slots. Fill them or leave them empty.
+
+---
+
+## Why two slots? Because English needs two words, Arabic needs two endings
+
+English: **I** (separate word) + saw + **him** (separate word)
+Arabic: saw + **ـتُ** (I) + **ـه** (him) → **رَأَيْتُه**
+
+Same information. Arabic just **sticks it on** instead of using separate words.
+
+---
+
+## The only rule for position
+
+> **Doer** goes **first** (closer to the verb).
+> **Receiver** goes **last** (farthest from the verb).
+
+Never the other way around. That's why:
+
+- **رَأَيْتُه** = I saw him ✅
+- ~~رَأَيَهُتُ~~ = nonsense ❌ (receiver before doer — doesn't exist)
+
+---
+
+## That's it.
+
+Two slots. Doer first, receiver last. Either can be empty. The verb itself is always the same.
+
+Now — does **this** version make sense? If yes, I'll build on it slowly. If something still feels off, tell me **exactly which part** and I'll only explain that part.
+
+
 
 ---
 ## 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔 📓 📒 📕 📗 📘 📙 📔
