@@ -470,6 +470,506 @@ All five pages (4–8) are done with content unchanged and nicely formatted for 
 ###################################################
 
 
+Here is **Page 9** presented in a clean, GitHub-compatible Markdown table, with all Arabic preserved exactly as you provided (full tashkil and bold).
+
+---
+
+## 📖 Page 9 — Vocabulary & Examples
+
+| # | Arabic Word | English Meaning | Practical Example Sentence | Example Translation |
+|---|---|---|---|---|
+| 1 | **ذَكَرٌ** | male | **هَذَا الطِّفْلُ ذَكَرٌ.** | This child is a male. |
+| 2 | **عَامِلٌ** | laborer | **الْعَامِلُ فِي الْمَصْنَعِ.** | The laborer is in the factory. |
+| 3 | **ذَكِيٌّ** | intelligent | **الطَّالِبُ ذَكِيٌّ جِدًّا.** | The student is very intelligent. |
+| 4 | **الْبَارِحَةُ** | last night | **مَطَرَتِ السَّمَاءُ الْبَارِحَةَ.** | It rained last night. |
+| 5 | **ذَهَابٌ** | going | **الذَّهَابُ إِلَى الْمَدْرَسَةِ مُفِيدٌ.** | Going to school is beneficial. |
+| 6 | **الْأُسْبُوعُ الْمَاضِي** | last week | **سَافَرَ أَبِي الْأُسْبُوعَ الْمَاضِي.** | My father traveled last week. |
+| 7 | **ذَهَبَ : يَذْهَبُ** | to go | **يَذْهَبُ الرَّجُلُ إِلَى الْعَمَلِ.** | The man goes to work. |
+| 8 | **كُسَالَى** | lazy (fp) | **النِّسَاءُ لَسْنَ كُسَالَى.** | The women are not lazy. |
+| 9 | **ذُو** | having / possessing (ms) | **الْمُعَلِّمُ ذُو عِلْمٍ كَبِيرٍ.** | The teacher is possessor of great knowledge. |
+| 10 | **كَسْلَى** | lazy (fs) | **الْبِنْتُ لَيْسَتْ كَسْلَى.** | The girl is not lazy. |
+| 11 | **ذُو وَجْهَيْنِ** | hypocrite (2 faced) | **الرَّجُلُ الْكَاذِبُ ذُو وَجْهَيْنِ.** | The lying man is two-faced. |
+| 12 | **كُسَالَى** | lazy (mp) | **الرِّجَالُ لَيْسُوا كُسَالَى.** | The men are not lazy. |
+| 13 | **ذَوَاتُ** | having / possessing (fp) | **النِّسَاءُ ذَوَاتُ فَضْلٍ.** | The women possess virtue. |
+| 14 | **كَسْلَانُ** | lazy (ms) | **الطَّالِبُ لَيْسَ كَسْلَانَ.** | The student is not lazy. |
+| 15 | **ذَوُو** | having / possessing (mp) | **الرِّجَالُ ذَوُو مَالٍ.** | The men possess wealth. |
+| 16 | **يَسَارٌ** | left hand | **الْقَلَمُ فِي الْيَدِ الْيَسَارِ.** | The pen is in the left hand. |
+| 17 | **رَئِيسٌ** | president | **الرَّئِيسُ يَخْطُبُ الْآنَ.** | The president is giving a speech now. |
+| 18 | **طُولٌ** | length | **طُولُ الشَّارِعِ كَبِيرٌ.** | The length of the street is great. |
+| 19 | **رَائِحَةٌ** | smell | **رَائِحَةُ الْوَرْدَةِ طَيِّبَةٌ.** | The smell of the rose is good. |
+| 20 | **عَدَسٌ** | lentil | **الْعَدَسُ طَعَامٌ لَذِيذٌ.** | Lentil is delicious food. |
+| 21 | **رِسَالَةٌ** | letter | **كَتَبْتُ رِسَالَةً إِلَى أُمِّي.** | I wrote a letter to my mother. |
+| 22 | **رَاكِبٌ** | passenger | **الرَّاكِبُ فِي الْقِطَارِ.** | The passenger is on the train. |
+| 23 | **رَبِيعٌ** | spring | **الرَّبِيعُ فَصْلٌ جَمِيلٌ.** | Spring is a beautiful season. |
+| 24 | **كَـ** | like | **الْوَلَدُ كَالْأَسَدِ فِي الشَّجَاعَةِ.** | The boy is like a lion in bravery. |
+| 25 | **رَجَا : يَرْجُو** | to request | **أَرْجُو مِنْكَ الْمَعْذِرَةَ.** | I request an excuse from you. |
+| 26 | **كَذَلِكَ** | like that | **الْأَمْرُ لَيْسَ كَذَلِكَ.** | The matter is not like that. |
+| 27 | **رَدَّ : يَرُدُّ** | to reply | **يَرُدُّ الرَّجُلُ عَلَى السُّؤَالِ.** | The man replies to the question. |
+| 28 | **هَكَذَا** | like this / so | **نَكْتُبُ الْكَلِمَةَ هَكَذَا.** | We write the word like this. |
+| 29 | **قَائِمَةٌ** | list | **هَذِهِ قَائِمَةُ الْأَسْمَاءِ.** | This is the list of names. |
+| 30 | **رِسَالَةٌ** | letter | **قَرَأْتُ الرِّسَالَةَ جَيِّدًا.** | I read the letter well. |
+| 31 | **رَسَبَ : يَرْسُبُ** | to fail an examination | **رَسَبَ الطَّالِبُ الْمُهْمِلُ.** | The neglectful student failed. |
+| 32 | **غَدَاءٌ** | lunch | **الْغَدَاءُ جَاهِزٌ عَلَى الْمَائِدَةِ.** | Lunch is ready on the table. |
+| 33 | **رَفَعَ : يَرْفَعُ** | to raise | **يَرْفَعُ الْوَلَدُ يَدَهُ.** | The boy raises his hand. |
+| 34 | **مَجَلَّةٌ** | magazine | **قَرَأْتُ مَجَلَّةً عِلْمِيَّةً.** | I read a scientific magazine. |
+| 35 | **رَقْمٌ** | number | **رَقْمُ الْبَيْتِ وَاضِحٌ.** | The house number is clear. |
+| 36 | **ذَكَرٌ** | male | **الْمَوْلُودُ جَاءَ ذَكَرًا.** | The newborn arrived as a male. |
+| 37 | **رَكِبَ : يَرْكَبُ** | to ride | **يَرْكَبُ الرَّجُلُ السَّيَّارَةَ.** | The man rides the car. |
+| 38 | **خُلُقٌ** | manners | **الرَّجُلُ ذُو خُلُقٍ حَسَنٍ.** | The man possesses good manners. |
+| 39 | **رَكَعَ : يَرْكَعُ** | to bow down in prayer | **يَرْكَعُ الْمُصَلِّي فِي الْمَسْجِدِ.** | The worshipper bows in the mosque. |
+| 40 | **مُتَزَوِّجٌ** | married | **أَخِي رَجُلٌ مُتَزَوِّجٌ.** | My brother is a married man. |
+| 41 | **رَمَى : يَرْمِي** | to throw | **يَرْمِي الْوَلَدُ الْكُرَةَ.** | The boy throws the ball. |
+| 42 | **وَفَّقَكَ اللَّهُ** | May Allah grant you success | **قَالَ الْمُعَلِّمُ: وَفَّقَكَ اللَّهُ.** | The teacher said: May Allah grant you success. |
+
+---
+
+I notice a few entries in your source had "Target" appended in the meaning or word column (rows 36, 39, 41, and the final row 42). I've kept your content intact but cleaned up those stray "Target" markers so the table reads cleanly. Let me know if you'd like me to keep them as-is instead!
+
+Ready for the next page whenever you are! 📚
+
+########################################################
+
+
+Here are **Pages 10, 11, and 12** presented in clean, GitHub-compatible Markdown tables, with all Arabic preserved exactly as you provided (full tashkil and bold). I've also cleaned up the stray "Target" markers.
+
+---
+
+## 📖 Page 10
+
+| # | Arabic Word | English Meaning | Practical Example Sentence | Example Translation |
+|---|---|---|---|---|
+| 10 | **ذُو وَجْهَيْنِ** | hypocrite (2 faced) | **الرَّجُلُ الْكَذَّابُ ذُو وَجْهَيْنِ.** | The lying man is two-faced. |
+| 11 | **كَسْلَى** | lazy (fs) | **الْبِنْتُ لَيْسَتْ كَسْلَى.** | The girl is not lazy. |
+| 12 | **ذَوَاتُ** | having / possessing (fp) | **النِّسَاءُ ذَوَاتُ فَضْلٍ.** | The women are possessors of virtue. |
+| 13 | **كُسَالَى** | lazy (mp) | **الرِّجَالُ لَيْسُوا كُسَالَى.** | The men are not lazy. |
+| 14 | **ذَوُو** | having / possessing (mp) | **الْمُعَلِّمُونَ ذَوُو عِلْمٍ.** | The teachers are possessors of knowledge. |
+| 15 | **كَسْلَانُ** | lazy (ms) | **الْوَلَدُ كَسْلَانُ الْيَوْمَ.** | The boy is lazy today. |
+| 16 | **رَئِيسٌ** | president | **الرَّئِيسُ فِي الْعَاصِمَةِ.** | The president is in the capital city. |
+| 17 | **يَسَارٌ** | left hand | **الْكِتَابُ عَلَى الْيَسَارِ.** | The book is on the left. |
+| 18 | **رَائِحَةٌ** | smell | **الرَّائِحَةُ طَيِّبَةٌ هُنَا.** | The smell is good here. |
+| 19 | **طُولٌ** | length | **طُولُ السَّبُّورَةِ مِتْرٌ.** | The length of the writing board is a metre. |
+| 20 | **رِسَالَةٌ** | letter | **كَتَبْتُ رِسَالَةً إِلَى أَبِي.** | I wrote a letter to my father. |
+| 21 | **عَدَسٌ** | lentil | **الْعَدَسُ طَعَامٌ لَذِيذٌ.** | Lentils are a delicious food. |
+| 22 | **رَبِيعٌ** | spring | **الرَّبِيعُ جَمِيلٌ جِدًّا.** | Spring is very beautiful. |
+| 23 | **رَاكِبٌ** | passenger | **الرَّاكِبُ فِي الْقِطَارِ.** | The passenger is on the train. |
+| 24 | **رَجَا : يَرْجُو** | to request / hope | **أَرْجُو الْخَيْرَ لَكَ.** | I hope for good for you. |
+| 25 | **كَـ** | like | **الْوَلَدُ كَالْأَسَدِ.** | The boy is like a lion. |
+| 26 | **رَدَّ : يَرُدُّ** | to reply | **رَدَّ الرَّجُلُ عَلَى الرِّسَالَةِ.** | The man replied to the letter. |
+| 27 | **كَذَلِكَ** | like that | **الْأَمْرُ لَيْسَ كَذَلِكَ.** | The matter is not like that. |
+| 28 | **قَائِمَةٌ** | list | **الْقَائِمَةُ عَلَى الْمَكْتَبِ.** | The list is on the desk. |
+| 29 | **هَكَذَا** | like this / so | **الْكِتَابَةُ هَكَذَا صَحِيحَةٌ.** | Writing like this is correct. |
+| 30 | **رَسَبَ : يَرْسُبُ** | to fail an examination | **رَسَبَ الطَّالِبُ الْكَسْلَانُ.** | The lazy student failed the exam. |
+| 31 | **غَدَاءٌ** | lunch | **الْغَدَاءُ جَاهِزٌ الْآنَ.** | Lunch is ready now. |
+| 32 | **رَفَعَ : يَرْفَعُ** | to raise | **يَرْفَعُ الْوَلَدُ يَدَهُ.** | The boy raises his hand. |
+| 33 | **مَجَلَّةٌ** | magazine | **قَرَأْتُ مَجَلَّةً مُفِيدَةً.** | I read a useful magazine. |
+| 34 | **رَقْمٌ** | number | **رَقْمُ الْبَيْتِ وَاضِحٌ.** | The house number is clear. |
+| 35 | **ذَكَرٌ** | male | **هَذَا الْحَيَوَانُ ذَكَرٌ.** | This animal is a male. |
+| 36 | **رَكِبَ : يَرْكَبُ** | to ride | **يَرْكَبُ الرَّجُلُ الْحِصَانَ.** | The man rides the horse. |
+| 37 | **خُلُقٌ** | manners | **الرَّجُلُ ذُو خُلُقٍ حَسَنٍ.** | The man has good manners. |
+| 38 | **رَكَعَ : يَرْكَعُ** | to bow down in prayer | **يَرْكَعُ الْمُصَلِّي هُنَا.** | The worshipper bows down here. |
+| 39 | **مُتَزَوِّجٌ** | married | **أَخِي مُتَزَوِّجٌ الْآنَ.** | My brother is married now. |
+| 40 | **رَمَى : يَرْمِي** | to throw | **رَمَى الطِّفْلُ الْوَرَقَةَ.** | The child threw the piece of paper. |
+| 41 | **وَفَّقَكَ اللَّهُ** | May Allah grant you success | **يَا أَخِي، وَفَّقَكَ اللَّهُ.** | My brother, may Allah grant you success. |
+| 42 | **رَنَّ** | it rang | **رَنَّ الْجَرَسُ سَرِيعًا.** | The bell rang quickly. |
+| 43 | **زَادَكَ اللَّهُ عِلْمًا** | may Allah increase your knowledge | **يَا طَالِبُ، زَادَكَ اللَّهُ عِلْمًا.** | O student, may Allah increase your knowledge. |
+| 44 | **رُوبِيَّةٌ** | rupee | **هَذِهِ رُوبِيَّةٌ وَاحِدَةٌ.** | This is one rupee. |
+| 45 | **لَا بَأْسَ** | may no harm come to you! | **قَالَ الطَّبِيبُ: لَا بَأْسَ.** | The doctor said: May no harm come to you! |
+| 46 | **زَادَكَ اللَّهُ عِلْمًا** | may Allah increase your knowledge | **قَالَ الْمُعَلِّمُ: زَادَكَ اللَّهُ عِلْمًا.** | The teacher said: May if please Allah increase your knowledge. |
+| 47 | **مَعْنًى** | meaning | **مَعْنَى الْكَلِمَةِ سَهْلٌ.** | The meaning of the word is easy. |
+| 48 | **زَارَ : يَزُورُ** | to visit | **يَزُورُ السَّفِيرُ الْمُتْحَفَ.** | The ambassador visits the museum. |
+| 49 | **دَوَاءٌ** | medicine | **هَذَا الدَّوَاءُ نَافِعٌ.** | This medicine is beneficial. |
+| 50 | **زَالَ : يَزَالُ** | to cease to do | **مَا زَالَ الرَّجُلُ مَرِيضًا.** | The man has not ceased to be sick (is still sick). |
+| 51 | **وَسِيطٌ** | medium | **الرَّجُلُ التَّاجِرُ وَسِيطٌ.** | The businessman is a medium/middleman. |
+| 52 | **لِقَاءٌ** | meeting | **اللِّقَاءُ قَرِيبٌ جِدًّا.** | The meeting is very soon. |
+| 53 | **زُحَلُ** | Saturn | **زُحَلُ كَوْكَبٌ بَعِيدٌ.** | Saturn is a distant star/planet. |
+| 54 | **اِجْتِمَاعٌ** | meeting | **الِاجْتِمَاعُ فِي الْقَاعَةِ.** | The meeting is in the hall. |
+| 55 | **زِرٌّ** | button | **الزِّرُّ صَغِيرٌ جِدًّا.** | The button is very small. |
+| 56 | **زَهْرَةٌ** | flower | **الزَّهْرَةُ جَمِيلَةٌ فِي الْبُسْتَانِ.** | The flower is beautiful in the garden. |
+| 57 | **مِتْرٌ** | meter | **هَذَا الْقُمَاشُ مِتْرٌ وَاحِدٌ.** | This cloth is one metre. |
+| 58 | **زَوْجٌ** | spouse | **الرَّجُلُ زَوْجٌ صَالِحٌ.** | The man is a righteous spouse. |
+| 59 | **مُنْتَصَفُ اللَّيْلِ** | midnight | **الْوَقْتُ مُنْتَصَفُ اللَّيْلِ.** | The time is midnight. |
+| 60 | **زَيْتٌ** | oil | **الزَّيْتُ فِي الْعُلْبَةِ.** | The oil is in the tin. |
+| 61 | **مَنَارَةٌ** | minaret | **مَنَارَةُ الْمَسْجِدِ عَالِيَةٌ.** | The minaret of the mosque is high. |
+| 62 | **مِرْآةٌ** | mirror | **الْمِرْآةُ عَلَى الْجِدَارِ.** | The mirror is on the wall. |
+| 63 | **سُؤَالٌ** | question | **الْسُّؤَالُ سَهْلٌ جِدًّا.** | The question is very easy. |
+| 64 | **سَارَ : يَسِيرُ** | to walk | **يَسِيرُ الرَّجُلُ فِي الطَّرِيقِ.** | The man walks on the path. |
+| 65 | **خَطَأٌ** | mistake | **هَذَا الْجَوَابُ خَطَأٌ.** | This answer is a mistake. |
+| 66 | **سَبَّ : يَسُبُّ** | to abuse | **الرَّجُلُ لَا يَسُبُّ النَّاسَ.** | The man does not abuse people. |
+| 67 | **مُخْتَلِطٌ** | mixed | **الْمَاءُ مُخْتَلِطٌ بِاللَّبَنِ.** | The water is mixed with milk. |
+| 68 | **سَبُّورَةٌ** | writing board | **الْمُعَلِّمُ يَكْتُبُ عَلَى السَّبُّورَةِ.** | The teacher writes on the writing board. |
+| 69 | **لَحْظَةٌ** | moment | **اِنْتَظِرْ هُنَا لَحْظَةً.** | Wait here for a moment. |
+| 70 | **سَجَدَ : يَسْجُدُ** | to perform sajdah | **يَسْجُدُ الْمُسْلِمُ لِلَّهِ.** | The Muslim prostrates to Allah. |
+| 71 | **نَقْدٌ** | money / cash | **الْمَالُ نَقْدٌ جَاهِزٌ.** | The money is ready cash. |
+| 72 | **سَدَّ : يَسُدُّ** | to block | **يَسُدُّ الْعَامِلُ الْبَالُوعَةَ.** | The laborer blocks the drain. |
+| 73 | **شَهْرٌ** | month | **الرَّمَضَانُ شَهْرٌ مُبَارَكٌ.** | Ramadan is a blessed month. |
+| 74 | **سَفِيرٌ** | ambassador | **السَّفِيرُ ذَهَبَ إِلَى مَكْتَبِهِ.** | The ambassador went to his office. |
+| 75 | **مَزِيدٌ** | more | **أُرِيدُ مَزِيدًا مِنَ الْخُبْزِ.** | I want more bread. |
+| 76 | **سَقَى : يَسْقِي** | to give water | **يَسْقِي الرَّجُلُ الصَّغِيرَ مَاءً.** | The man gives the little one water. |
+| 77 | **صَبَاحٌ** | morning | **الْجَوُّ بَارِدٌ فِي الصَّبَاحِ.** | The weather is cold in the morning. |
+| 78 | **سَكَتَ : يَسْكُتُ** | to keep quiet | **سَكَتَ الطَّالِبُ فِي الصَّفِّ.** | The student kept quiet in the classroom. |
+| 79 | **طِينٌ** | mud | **الطِّينُ عَلَى الطَّرِيقِ.** | The mud is on the path. |
+| 80 | **سَكَنَ : يَسْكُنُ** | to stay / live | **يَسْكُنُ أخي فِي الشَّقَّةِ.** | My brother lives in the apartment. |
+| 81 | **بَلَدِيَّةٌ** | municipality | **مَكْتَبُ الْبَلَدِيَّةِ مَفْتُوحٌ.** | The municipality office is open. |
+| 82 | **سُلَّمٌ** | staircase | **نَزَلَ الرَّجُلُ مِنَ السُّلَّمِ.** | The man went down from the staircase. |
+| 83 | **مُتْحَفٌ** | museum | **الْمُتْحَفُ مَشْهُورٌ فِي الْمَدِينَةِ.** | The museum is famous in the city. |
+
+---
+
+## 📖 Page 11
+
+| # | Arabic Word | English Meaning | Practical Example Sentence | Example Translation |
+|---|---|---|---|---|
+| 1 | **سَمِحَ : يَسْمَحُ** | to permit | **سَمِحَ الْأَبُ لِلْوَلَدِ.** | The father permitted the boy. |
+| 2 | **الْمُعْجَمُ الْوَسِيطُ** | name of an Arabic dictionary | **الْمُعْجَمُ الْوَسِيطُ مُفِيدٌ.** | Al-Mu'jam al-Wasit is useful. |
+| 3 | **سَمِعَ : يَسْمَعُ** | to hear | **يَسْمَعُ الرَّجُلُ الْأَذَانَ.** | The man hears the call to prayer. |
+| 4 | **ضَيِّقٌ** | narrow | **الشَّارِعُ ضَيِّقٌ جِدًّا.** | The street is very narrow. |
+| 5 | **سِنٌّ** | age / tooth | **هَذَا الْوَلَدُ صَغِيرُ السِّنِّ.** | This boy is young of age. |
+| 6 | **جَارٌ** | neighbor | **الْجَارُ قَرِيبٌ مِنَ الْبَيْتِ.** | The neighbor is near the house. |
+| 7 | **سِنٌّ** | tooth | **سِنُّ الطِّفْلِ بَيْضَاءُ.** | The child's tooth is white. |
+| 8 | **أَبَدًا** | never (future negative emphasis) | **لَا أَكْذِبُ أَبَدًا.** | I will never lie. |
+| 9 | **سَنْتِيمِتْرٌ** | centimeter | **الْقَلَمُ طُولُهُ سَنْتِيمِتْرٌ.** | The pen's length is a centimeter. |
+| 10 | **قَطُّ** | never (past negative emphasis) | **مَا فَعَلْتُ هَذَا قَطُّ.** | I have never done this. |
+| 11 | **سُورَةٌ** | surah | **قَرَأْتُ سُورَةً قَصِيرَةً.** | I read a short surah. |
+| 12 | **الْعَامُ الْمُقْبِلُ** | next year | **سَأُسَافِرُ الْعَامَ الْمُقْبِلَ.** | I will travel next year. |
+| 13 | **سَيِّدٌ** | gentleman | **الرَّجُلُ سَيِّدٌ كَرِيمٌ.** | The man is a generous gentleman. |
+| 14 | **لَيْلٌ** | night | **اللَّيْلُ بَارِدٌ هُنَا.** | The night is cold here. |
+| 15 | **شَايٌ** | tea | **الشَّايُ سَاخِنٌ فِي الْكُوبِ.** | The tea is hot in the glass. |
+| 16 | **ضَوْضَاءٌ** | noise | **الضَّوْضَاءُ فِي الشَّارِعِ.** | The noise is in the street. |
+| 17 | **شَبَهٌ** | similarity | **هُنَا شَبَهٌ بَيْنَ الْوَلَدَيْنِ.** | There is a similarity between the two boys. |
+| 18 | **وَلَا** | nor | **لَا أَشْرَبُ الشَّايَ وَلَا الْقَهْوَةَ.** | I drink neither tea nor coffee. |
+| 19 | **شِتَاءٌ** | winter | **الشِّتَاءُ بَارِدٌ جِدًّا.** | The winter is very cold. |
+| 20 | **لَنْ** | not (future negative) | **لَنْ أَذْهَبَ إِلَى السُّوقِ.** | I will not go to the market. |
+| 21 | **شَدِيدٌ** | severe | **الْبَرْدُ شَدِيدٌ الْيَوْمَ.** | The cold is severe today. |
+| 22 | **لَمَّا** | not yet | **لَمَّا يَدْخُلِ الْمُعَلِّمُ.** | The teacher has not yet entered. |
+| 23 | **شَرِبَ : يَشْرَبُ** | to drink | **يَشْرَبُ الطِّفْلُ اللَّبَنَ.** | The child drinks the milk. |
+| 24 | **رَقْمٌ** | number | **رَقْمُ الْهَاتِفِ سَهْلٌ.** | The telephone number is easy. |
+| 25 | **شَرَحَ : يَشْرَحُ** | to explain | **يَشْرَحُ الْمُعَلِّمُ الدَّرْسَ.** | The teacher explains the lesson. |
+| 26 | **يَا أَبَتِ** | O my father! | **يَا أَبَتِ، اِسْمَعْ لِي.** | O my father, listen to me. |
+| 27 | **شُرْطِيٌّ** | policeman | **الشُرْطِيُّ فِي الشَّارِعِ.** | The policeman is in the street. |
+| 28 | **يَا بُنَيَّ** | O my little son! | **يَا بُنَيَّ، اِقْرَأِ الْكِتَابَ.** | O my little son, read the book. |
+| 29 | **شَقَّةٌ** | flat | **الشَّقَّةُ وَاسِعَةٌ جِدًّا.** | The flat is very spacious. |
+| 30 | **مَكْتَبٌ** | office | **الْمُدِيرُ فِي الْمَكْتَبِ.** | The director is in the office. |
+| 31 | **شَقِيقٌ** | brother (full) | **هَذَا الرَّجُلُ شَقِيقِي.** | This man is my full brother. |
+| 32 | **تَيْتٌ / زَيْتٌ** | oil | **الزَّيْتُ فِي الْقَارُورَةِ.** | The oil is in the bottle. |
+| 33 | **شَكَا : يَشْكُو** | to complain | **يَشْكُو الْمَرِيضُ لِلطَّبِيبِ.** | The sick person complains to the doctor. |
+| 34 | **مَرَّةً** | once | **قَرَأْتُ الدَّرْسَ مَرَّةً.** | I read the lesson once. |
+| 35 | **شَكَرَ : يَشْكُرُ** | to thank | **يَشْكُرُ الْمُسْلِمُ اللَّهَ.** | The Muslim thanks Allah. |
+| 36 | **مَرَّةً أُخْرَى** | once again | **اِقْرَأِ الْكِتَابَ مَرَّةً أُخْرَى.** | Read the book once again. |
+| 37 | **شَمَّ : يَشَمُّ** | to smell | **يَشَمُّ الْوَلَدُ الزَّهْرَةَ.** | The boy smells the flower. |
+| 38 | **أَحَدُهُمَا** | one of them | **أَحَدُهُمَا طَالِبٌ ذَكِيٌّ.** | One of them is an intelligent student. |
+| 39 | **شَهِدَ : يَشْهَدُ** | to bear witness | **يَشْهَدُ الرَّجُلُ بِالْحَقِّ.** | The man bears witness to the truth. |
+| 40 | **ثُلُثٌ** | one third | **أَكَلْتُ ثُلُثَ الْخُبْزِ.** | I ate one third of the bread. |
+| 41 | **شَهْرٌ** | month | **الشَّهْرُ ثَلَاثُونَ يَوْمًا.** | The month is thirty days. |
+| 42 | **نَاجِحٌ** | one who has passed | **الطَّالِبُ نَاجِحٌ.** | The student is successful. |
+
+---
+
+## 📖 Page 12
+
+| # | Arabic Word | English Meaning | Practical Example Sentence | Example Translation |
+|---|---|---|---|---|
+| 1 | **شَهِيرٌ** | famous | **الْكَاتِبُ شَهِيرٌ فِي الْعَالَمِ.** | The writer is famous in the world. |
+| 2 | **فَقَطْ** | only | **أُرِيدُ دُولَارًا وَاحِدًا فَقَطْ.** | I want one dollar only. |
+| 3 | **إِنَّمَا** | only | **إِنَّمَا الْعِلْمُ بِالتَّعَلُّمِ.** | Knowledge is only through learning. |
+| 4 | **شَيْءٌ** | thing | **هَذَا الشَّيْءُ صَغِيرٌ.** | This thing is small. |
+| 5 | **صَابُونٌ** | soap | **الصَّابُونُ فِي الْحَمَّامِ.** | The soap is in the bathroom. |
+| 6 | **أَوْ** | or (in non-questions) | **خُذِ الْقَلَمَ أَوْ الْكِتَابَ.** | Take the pen or the book. |
+| 7 | **صَامَ : يَصُومُ** | to fast | **يَصُومُ الْمُسْلِمُ فِي رَمَضَانَ.** | The Muslim fasts in Ramadan. |
+| 8 | **أَمْ** | or (in questions) | **أَقَلَمٌ هَذَا أَمْ كِتَابٌ؟** | Is this a pen or a book? |
+| 9 | **صَبَّ : يَصُبُّ** | to pour | **يَصُبُّ الرَّجُلُ الْمَاءَ.** | The man pours the water. |
+| 10 | **بُرْتُقَالٌ** | orange | **الْبُرْتُقَالُ لَذِيذٌ جِدًّا.** | The orange is very delicious. |
+| 11 | **صَبَاحٌ** | morning | **الصَّبَاحُ جَمِيلٌ الْيَوْمَ.** | The morning is beautiful today. |
+| 12 | **عُلْبَةٌ** | packet / tin | **الْعُلْبَةُ عَلَى الْمَائِدَةِ.** | The tin is on the table. |
+| 13 | **صُدَاعٌ** | headache | **عِنْدِي صُدَاعٌ شَدِيدٌ.** | I have a severe headache. |
+| 14 | **صَفْحَةٌ** | page | **هَذِهِ صَفْحَةٌ بَيْضَاءُ.** | This is a white page. |
+| 15 | **صَعِدَ : يَصْعَدُ** | he ascended | **صَعِدَ الرَّجُلُ الْجَبَلَ.** | The man ascended the mountain. |
+| 16 | **كَفٌّ** | palm | **الْقَلَمُ فِي كَفِّ الرَّجُلِ.** | The pen is in the man's palm. |
+| 17 | **صِغَرٌ** | childhood | **الْوَلَدُ فِي زَمَنِ الصِّغَرِ.** | The boy is in the time of childhood. |
+| 18 | **الْجَنَّةُ** | paradise (the) | **الْجَنَّةُ بَيْتُ الْمُؤْمِنِ.** | Paradise is the house of the believer. |
+| 19 | **صَفٌّ** | row | **الْقِطَارُ فِيهِ صَفٌّ.** | The train has a row. |
+| 20 | **رَاكِبٌ** | passenger | **الرَّاكِبُ نَائِمٌ هُنَا.** | The passenger is sleeping here. |
+| 21 | **صَفْحَةٌ** | page | **قَرَأْتُ صَفْحَةً وَاحِدَةً.** | I read one page. |
+| 22 | **أَهْلٌ** | people | **أَهْلُ الْبَيْتِ كِرَامٌ.** | The people of the house are generous. |
+| 23 | **صُورَةٌ** | picture | **هَذِهِ صُورَةٌ جَمِيلَةٌ.** | This is a beautiful picture. |
+| 24 | **أَصْحَابٌ** | people / companions | **الْأَصْحَابُ فِي الْبُسْتَانِ.** | The companions are in the garden. |
+| 25 | **صَيْدَلِيَّةٌ** | pharmacy | **الصَّيْدَلِيَّةُ مَفْتُوحَةٌ.** | The pharmacy is open. |
+| 26 | **قَوْمٌ** | people | **هَذَا الْقَوْمُ طَيِّبٌ.** | This people is good. |
+| 27 | **صَيْفٌ** | summer | **الصَّيْفُ حَارٌّ جِدًّا.** | Summer is very hot. |
+| 28 | **حِصَّةٌ** | period | **الْحِصَّةُ الْأُولَى سَهْلَةٌ.** | The first period is easy. |
+| 29 | **ضَحِكَ : يَضْحَكُ** | to laugh | **يَضْحَكُ الطِّفْلُ الصَّغِيرُ.** | The small child laughs. |
+| 30 | **صَيْدَلِيَّةٌ** | pharmacy | **الْبَيْتُ قَرِيبٌ مِنَ الصَّيْدَلِيَّةِ.** | The house is near the pharmacy. |
+| 31 | **ضَرَبَ : يَضْرِبُ** | he beat | **ضَرَبَ الرَّجُلُ الْكَلْبَ.** | The man beat the dog. |
+| 32 | **صُورَةٌ** | picture | **الصُّورَةُ عَلَى الْجِدَارِ.** | The picture is on the wall. |
+| 33 | **ضَوْضَاءٌ** | noise | **لَا أُحِبُّ الضَّوْضَاءَ.** | I do not like noise. |
+| 34 | **وَرَقَةٌ** | piece of paper | **هَذِهِ وَرَقَةٌ بَيْضَاءُ.** | This is a piece of paper. |
+| 35 | **ضَيِّقٌ** | narrow | **الْقَمِيصُ ضَيِّقٌ عَلَيَّ.** | The shirt is narrow for me. |
+| 36 | **مِخَدَّةٌ** | pillow | **الْمِخَدَّةُ نَاعِمَةٌ جِدًّا.** | The pillow is very soft. |
+| 37 | **طَافَ : يَطُوفُ** | to go round | **يَطُوفُ الرَّجُلُ بِالْكَعْبَةِ.** | The man goes round the Kaaba. |
+| 38 | **مَخَادُّ** | pillows | **الْمَخَادُّ فِي الْغُرْفَةِ.** | The pillows are in the room. |
+| 39 | **طَبَاشِيرُ** | chalk | **الْمُعَلِّمُ كَتَبَ بِالطَّبَاشِيرِ.** | The teacher wrote with chalk. |
+| 40 | **لَاعِبٌ** | player | **اللَّاعِبُ سَرِيعٌ فِي الْمَلْعَبِ.** | The player is fast on the field. |
+| 41 | **طَبَخَ : يَطْبَخُ** | to cook | **يَطْبَخُ الرَّجُلُ الرُّزَّ.** | The man cooks the rice. |
+| 42 | **مَسْرُورٌ** | pleased / happy | **أَنَا مَسْرُورٌ جِدًّا.** | I am very happy. |
+
+---
+
+All three pages (10, 11, 12) are done with content unchanged and nicely formatted for GitHub. I noticed in row 32 of Page 11 the word appears as **تَيْتٌ / زَيْتٌ** — I preserved it exactly as you provided. Let me know if you'd like me to correct it to **زَيْتٌ** (oil) as in the example sentence.
+
+Ready for the next pages whenever you are! 📚
+
+######################################################
+
+Here are **Pages 13–17** presented in clean, GitHub-compatible Markdown tables, with all Arabic preserved exactly as you provided (full tashkil and bold).
+
+---
+
+## 📖 Page 13
+
+| Arabic Word | English Meaning | Practical Example Sentence |
+|---|---|---|
+| **طُولٌ** | length | **طُولُ السَّفِينَةِ مِائَةُ مِتْرٍ.** (The length of the ship is one hundred metres.) |
+| **يَطْوِي : طَوَى** | to fold (a-i) | **طَوَى الرَّجُلُ الثَّوْبَ نَظِيفًا.** (The man folded the cloth cleanly.) |
+| **طَيِّبٌ** | good | **هَذَا طَعَامٌ طَيِّبٌ لِلْغَدَاءِ.** (This is good food for lunch.) |
+| **طِينٌ** | mud | **لَعِبَ الْوَلَدُ فِي الطِّينِ.** (The boy played in the mud.) |
+| **ظَرْفٌ** | envelope | **وَضَعْتُ الرِّسَالَةَ فِي الظَّرْفِ.** (I placed the letter in the envelope.) |
+| **يَظُنُّ : ظَنَّ** | to think (a-u) | **ظَنَّ الطَّالِبُ الِامْتِحَانَ سَهْلًا.** (The student thought the exam was easy.) |
+| **يَعُودُ : عَادَ** | to return | **عَادَ الْمُسَافِرُ إِلَى بَيْتِهِ.** (The traveller returned to his house.) |
+| **عَادَةٌ** | habit | **الْقِرَاءَةُ عَادَةٌ جَمِيلَةٌ جِدًّا.** (Reading is a very beautiful habit.) |
+| **يَعِيشُ : عَاشَ** | to live (a-i) | **عَاشَ الشَّيْخُ فِي الْقَرْيَةِ.** (The old man lived in the village.) |
+| **عَاصِمَةٌ** | capital city | **الْقَاهِرَةُ عَاصِمَةُ مِصْرَ.** (Cairo is the capital city of Egypt.) |
+| **عَالٍ** | high, loud (m) | **هَذَا جَبَلٌ عَالٍ جِدًّا.** (This is a very high mountain.) |
+| **تِلْمِيذٌ** | pupil | **هَذَا التِّلْمِيذُ يَكْتُبُ الدَّرْسَ.** (This pupil is writing the lesson.) |
+| **مَحْفَظَةٌ** | purse | **فَقَدَ الرَّجُلُ مَحْفَظَتَهُ الْقَدِيمَةَ.** (The man lost his old purse.) |
+| **سُؤَالٌ** | question | **سَأَلَ التِّلْمِيذُ سُؤَالًا صَعْبًا.** (The pupil asked a difficult question.) |
+| **يَعْبُدُ : عَبَدَ** | to worship | **الْمُسْلِمُ يَعْبُدُ اللَّهَ وَحْدَهُ.** (The Muslim worships Allah alone.) |
+| **عَجَلَةٌ** | wheel | **انْكَسَرَتْ عَجَلَةُ السَّيَّارَةِ الْيَوْمَ.** (The car wheel broke today.) |
+| **يَعُدُّ : عَدَّ** | to count (a-u) | **عَدَّ التَّاجِرُ النُّقُودَ سَرِيعًا.** (The merchant counted the money quickly.) |
+| **بِانْتِظَامٍ** | regularly | **يَقْرَأُ الطَّالِبُ الْكِتَابَ بِانْتِظَامٍ.** (The student reads the book regularly.) |
+| **عِدَّةُ كُتُبٍ** | a number of books | **قَرَأْتُ عِدَّةُ كُتُبٍ جَدِيدَةٍ.** (I read a number of new books.) |
+| **عَدَسٌ** | lentil | **أَكَلَتِ الْأُسْرَةُ عَدَسًا لَذِيذًا.** (The family ate delicious lentils.) |
+| **يَعْرُجُ : عَرَجَ** | to ascend (a-u) | **عَرَجَ النَّبِيُّ إِلَى السَّمَاءِ.** (The Prophet ascended to heaven.) |
+| **جَيْبٌ** | pocket | **وَضَعْتُ الْقَلَمَ فِي جَيْبِي.** (I put the pen in my pocket.) |
+| **شُرْطِيٌّ** | policeman | **سَأَلَ الشُّرْطِيُّ عَنِ الْجَوَازِ.** (The policeman asked about the passport.) |
+| **مَكْتَبُ الْبَرِيدِ** | post office | **أَرْسَلْتُ الرِّسَالَةَ مِنْ مَكْتَبُ الْبَرِيدِ.** (I sent the letter from the post office.) |
+| **جُنَيْهٌ** | pound (money) | **اشْتَرَيْتُ الْقَلَمَ بِجُنَيْهٍ وَاحِدٍ.** (I bought the pen for one pound.) |
+| **كُتُبٌ مُقَرَّرَةٌ** | prescribed text books | **هَذِهِ هِيَ الْكُتُبُ الْمُقَرَّرَةُ لَنَا.** (These are the prescribed textbooks for us.) |
+| **هَدِيَّةٌ** | present | **قَبِلَ الصَّدِيقُ هَدِيَّةً جَمِيلَةً.** (The friend accepted a beautiful present.) |
+| **رَئِيسٌ** | president | **تَحَدَّثَ رَئِيسُ الدَّوْلَةِ الْيَوْمَ.** (The state president spoke today.) |
+| **ثَمَنٌ** | price | **ثَمَنُ هَذَا الْكِتَابِ غَالٍ.** (The price of this book is expensive.) |
+| **جَائِزَةٌ** | prize | **أَخَذَ الطَّالِبُ الْجَائِزَةَ الْأُولَى.** (The student took the first prize.) |
+| **نَبِيٌّ** | prophet | **مُحَمَّدٌ هُوَ نَبِيُّ اللَّهِ.** (Muhammad is the Prophet of Allah.) |
+| **إِعْلَانٌ** | public announcement | **رَأَيْتُ إِعْلَانًا فِي الصَّحِيفَةِ.** (I saw an announcement in the newspaper.) |
+| **عَالِيَةٌ** | high, loud (f) | **سَمِعْتُ أَصْوَاتًا عَالِيَةً جِدًّا.** (I heard very loud voices.) |
+| **عَامِلٌ** | laborer | **يَعْمَلُ الْعَامِلُ فِي الْمَصْنَعِ.** (The laborer works in the factory.) |
+| **عَامِلٌ** | laborer | **نَظَّفَ الْعَامِلُ الشَّارِعَ الْآنَ.** (The laborer cleaned the street now.) |
+| **مِذْيَاعٌ** | radio set | **فَتَحَ أَبِي الْمِذْيَاعَ الْقَدِيمَ.** (My father opened the old radio set.) |
+| **مُوسَى** | razor | **اشْتَرَى الْحَلَّاقُ مُوسَى جَدِيدَةً.** (The barber bought a new razor.) |
+| **اسْتِقْبَالٌ** | reception | **جَلَسَ الضَّيْفُ فِي غُرْفَةِ الِاسْتِقْبَالِ.** (The guest sat in the reception room.) |
+| **عِدَّةُ أَسْئِلَةٍ** | a number of questions | **كَتَبَ الْمُعَلِّمُ عِدَّةُ أَسْئِلَةٍ.** (The teacher wrote a number of questions.) |
+| **أَبْشِرْ** | rejoice at the good news | **أَبْشِرْ يَا أَخِي بِالْخَيْرِ.** (Rejoice at the good news, my brother!) |
+| **قَرِيبٌ** | relative | **زَارَنَا قَرِيبٌ مِنْ مَكَّةَ.** (A relative from Mecca visited us.) |
+| **مُتَقَاعِدٌ** | retired | **أَبِي مُعَلِّمٌ مُتَقَاعِدٌ الْآنَ.** (My father is a retired teacher now.) |
+
+---
+
+## 📖 Page 14
+
+| Arabic Word | English Meaning | Practical Example Sentence |
+|---|---|---|
+| **عَرْضٌ** | width | **عَرْضُ هَذَا الشَّارِعِ كَبِيرٌ.** (The width of this street is large.) |
+| **يَعْرِفُ : عَرَفَ** | to know | **عَرَفَ الطَّالِبُ جَوَابَ السُّؤَالِ.** (The student knew the answer to the question.) |
+| **ذَهَابًا وَ إِيَابًا** | return air-ticket | **اشْتَرَيْتُ تَذْكِرَةً ذَهَابًا وَ إِيَابًا.** (I bought a return ticket.) |
+| **أَعْزَبُ** | unmarried | **أَخِي الْكَبِيرُ رَجُلٌ أَعْزَبُ.** (My older brother is an unmarried man.) |
+| **عَشَاءٌ** | supper | **أَكَلْنَا الْعَشَاءَ فِي الْمَطْعَمِ.** (We ate supper in the restaurant.) |
+| **عَصًا** | stick | **يَمْشِي الشَّيْخُ بِمُسَاعَدَةِ عَصًا.** (The old man walks with the help of a stick.) |
+| **عَصِيرٌ** | juice | **شَرِبْتُ عَصِيرَ الْبُرْتُقَالِ الْبَارِدَ.** (I drank cold orange juice.) |
+| **عُطْلَةٌ** | holiday | **يَوْمُ الْجُمُعَةِ عُطْلَةٌ رَسْمِيَّةٌ.** (Friday is an official holiday.) |
+| **رُوبِيَّةٌ** | rupee | **أَعْطَانِي أَبِي رُوبِيَّةً هِنْدِيَّةً.** (My father gave me an Indian rupee.) |
+| **يَعْفُو : عَفَا** | to forgive (a-u) | **عَفَا اللَّهُ عَنِ الرَّجُلِ.** (Allah forgave the man.) |
+| **عَقْرَبٌ** | scorpion | **رَأَيْتُ عَقْرَبًا فِي الصَّحْرَاءِ.** (I saw a scorpion in the desert.) |
+| **عِلَاجٌ** | treatment | **وَجَدَ الْمَرِيضُ عِلَاجًا مُفِيدًا.** (The sick man found a useful treatment.) |
+| **عَلَاقَةٌ** | connection | **هَذِهِ الْعَلَاقَةُ قَوِيَّةٌ بَيْنَهُمَا.** (This connection is strong between them.) |
+| **عُلْبَةٌ** | packet, tin | **فَتَحْتُ عُلْبَةَ الْجُبْنَةِ الْبَارِحَةَ.** (I opened the cheese tin last night.) |
+| **عَلَقٌ** | cloth of blood | **خَلَقَ اللَّهُ الْإِنْسَانَ مِنْ عَلَقٍ.** (Allah created man from a clot of blood.) |
+| **يَعْلَمُ : عَلِمَ** | to know | **عَلِمَ الْمُعَلِّمُ بِوُصُولِ الْفَصْلِ.** (The teacher knew of the class's arrival.) |
+| **شَدِيدٌ** | severe | **شَعَرْتُ بِبَرْدٍ شَدِيدٍ الْيَوْمَ.** (I felt severe cold today.) |
+| **حِذَاءٌ** | shoe | **اشْتَرَيْتُ حِذَاءً أَسْوَدَ جَدِيدًا.** (I bought a new black shoe.) |
+| **يَعْمَلُ : عَمِلَ** | to work | **عَمِلَ الرَّجُلُ فِي الْمَكْتَبِ.** (The man worked in the office.) |
+| **عَمِيدٌ** | dean of a faculty, principal | **تَحَدَّثْتُ مَعَ عَمِيدِ الْكُلِّيَّةِ.** (I spoke with the dean of the college.) |
+| **عِنَبٌ** | grapes | **أَكَلْتُ عِنَبًا حُلْوًا جِدًّا.** (I ate very sweet grapes.) |
+| **إِيَابٌ** | return | **حَجَزْتُ تَذْكِرَةَ ذَهَابٍ وَإِيَابٍ.** (I booked a departure and return ticket.) |
+| **أُرُزٌ** | rice | **طَبَخَتِ الْأُمُّ أُرُزًا لَذِيذًا.** (The mother cooked delicious rice.) |
+| **يَمِينٌ** | right hand | **أَكَلْتُ الطَّعَامَ بِيَمِينِي.** (I ate the food with my right hand.) |
+| **نَهْرٌ** | river | **يَجْرِي الْمَاءُ فِي النَّهْرِ.** (The water runs in the river.) |
+| **صَفٌّ** | row | **وَقَفَ الطُّلَّابُ فِي صَفٍّ وَاحِدٍ.** (The students stood in a single row.) |
+| **مُسَطَّرٌ** | ruled | **اشْتَرَيْتُ دَفْتَرًا مُسَطَّرًا جَدِيدًا.** (I bought a new ruled notebook.) |
+| **عُطْلَةُ الصَّيْفِ** | summer holidays | **سَافَرْتُ فِي عُطْلَةُ الصَّيْفِ.** (I travelled during the summer holidays.) |
+| **مِلْحٌ** | salt | **وَضَعْتُ مِلْحًا فِي الطَّعَامِ.** (I put salt in the food.) |
+| **نُمُوذَجٌ** | sample | **أَخَذْتُ نُمُوذَجًا مِنَ الْوَرَقِ.** (I took a sample of the paper.) |
+| **زُحَلُ** | Saturn | **زُحَلُ كَوْكَبٌ بَعِيدٌ جَدًّا.** (Saturn is a very distant planet.) |
+| **عَقْرَبٌ** | scorpion | **قَتَلَ الرَّجُلُ الْعَقْرَبَ الصَّغِيرَ.** (The man killed the small scorpion.) |
+| **مَقْعَدٌ** | seat | **جَلَسْتُ عَلَى مَقْعَدٍ نَظِيفٍ.** (I sat on a clean seat.) |
+| **ثَانِيَةٌ** | second (unit of time) | **انْتَظِرْ هُنَا ثَانِيَةً وَاحِدَةً.** (Wait here for one second.) |
+| **خَادِمٌ** | servant | **سَاعَدَنِي الْخَادِمُ فِي الْبَيْتِ.** (The servant helped me in the house.) |
+| **عِمَارَةٌ** | building | **هَذِهِ عِمَارَةٌ سَكَنِيَّةٌ عَالِيَةٌ.** (This is a tall residential building.) |
+| **عَمَلٌ** | work | **ذَهَبَ أَبِي إِلَى الْعَمَلِ.** (My father went to work.) |
+| **دَكَاكِينُ** | shop (p) | **الْقَرْيَةُ فِيهَا دَكَاكِينُ كَثِيرَةٌ.** (The village has many shops.) |
+| **دُكَّانٌ** | shop (s) | **فَتَحَ التَّاجِرُ دُكَّانَهُ صَبَاحًا.** (The merchant opened his shop in the morning.) |
+| **شَبَهٌ** | similarity | **هُنَاكَ شَبَهٌ بَيْنَ الْأَخَوَيْنِ.** (There is a similarity between the two brothers.) |
+
+---
+
+## 📖 Page 15
+
+| Arabic Word | English Meaning | Practical Example Sentence |
+|---|---|---|
+| **عُنْوَانٌ** | address | **كَتَبْتُ عُنْوَانِي عَلَى الْوَرَقَةِ.** (I wrote my address on the paper.) |
+| **عِيَادَةٌ** | visiting the sick | **عِيَادَةُ الْمَرِيضِ وَاجِبَةٌ عَلَيْنَا.** (Visiting the sick is obligatory upon us.) |
+| **يَغِيبُ : غَابَ** | to be absent | **غَابَ التِّلْمِيذُ عَنِ الْمَدْرَسَةِ.** (The pupil was absent from school.) |
+| **غَابَةٌ** | forest | **تَعِيشُ الْأُسُودُ فِي الْغَابَةِ.** (Lions live in the forest.) |
+| **رَائِحَةٌ** | smell | **شَمِمْتُ رَائِحَةً طَيِّبَةً جِدًّا.** (I smelled a very good scent.) |
+| **غَالٍ** | expensive | **هَذَا الْقَلَمُ غَالٍ جَدًّا.** (This pen is very expensive.) |
+| **غَبِيٌّ** | stupid | **الرَّجُلُ لَيْسَ غَبِيًّا بَلْ ذَكِيٌّ.** (The man is not stupid, rather he is intelligent.) |
+| **غَدَاءٌ** | lunch | **أَكَلْتُ غَدَاءً لَذِيذًا الْيَوْمَ.** (I ate a delicious lunch today.) |
+| **غَرِيبٌ** | stranger | **رَأَيْتُ رَجُلًا غَرِيبًا فِي الدَّارِ.** (I saw a strange man in the house.) |
+| **يَغْسِلُ : غَسَلَ** | to wash | **غَسَلَ الْوَلَدُ يَدَيْهِ بِالصَّابُونِ.** (The boy washed his hands with soap.) |
+| **يَغْلِبُ : غَلَبَ** | to overcome (a-i) | **غَلَبَ الْفَرِيقُ الْقَوِيُّ فِي الْمُبَارَاةِ.** (The strong team won/overcame in the match.) |
+| **فَاكِهَانِيٌّ** | fruit seller | **اشْتَرَيْتُ التُّفَّاحَ مِنَ الْفَاكِهَانِيِّ.** (I bought apples from the fruit seller.) |
+| **يَفْتَحُ : فَتَحَ** | to open | **فَتَحَ الطَّالِبُ الْكِتَابَ لِيَقْرَأَ.** (The student opened the book to read.) |
+| **فَجْرٌ** | dawn | **اسْتَيْقَظْتُ قَبْلَ الْفَجْرِ الْيَوْمَ.** (I woke up before dawn today.) |
+| **يَفْرَحُ : فَرِحَ** | to be pleased, happy with | **فَرِحَ الْأَبُ بِنَجَاحِ ابْنِهِ.** (The father rejoiced in his son's success.) |
+| **فَرْقٌ** | difference | **هُنَاكَ فَرْقٌ كَبِيرٌ بَيْنَهُمَا.** (There is a big difference between them.) |
+| **فَرِيقٌ** | team | **فَازَ فَرِيقُنَا فِي الْمُبَارَاةِ.** (Our team won the match.) |
+| **يَفْعَلُ : فَعَلَ** | to do | **مَاذَا فَعَلَ الْوَلَدُ فِي الْبُسْتَانِ؟** (What did the boy do in the garden?) |
+| **قِصَّةٌ** | story | **قَرَأْتُ قِصَّةً جَمِيلَةً عَنِ الصِّدْقِ.** (I read a beautiful story about honesty.) |
+| **يَفْهَمُ : فَهِمَ** | to understand | **فَهِمَ التِّلْمِيذُ الدَّرْسَ جَيِّدًا.** (The pupil understood the lesson well.) |
+| **فَهِمْتُهُ جَيِّدًا** | I have understood it well | **قَرَأْتُ الدَّرْسَ وَفَهِمْتُهُ جَيِّدًا.** (I read the lesson and understood it well.) |
+| **مُنْذُ** | since | **مَا رَأَيْتُ أَبِي مُنْذُ يَوْمَيْنِ.** (I haven't seen my father since two days ago.) |
+| **نَعْسَانُ** | sleepy | **الرَّجُلُ نَعْسَانُ وَيُرِيدُ النَّوْمَ.** (The man is sleepy and wants to sleep.) |
+| **كُمٌّ** | sleeve | **قَطَعَ الْخَيَّاطُ كُمَّ الْقَمِيصِ.** (The tailor cut the shirt sleeve.) |
+| **مَهْلًا** | slowly please, don't hurry | **مَهْلًا يَا صَدِيقِي، لَا تَجْرِ.** (Slow down my friend, do not run.) |
+| **غَافِلٌ** | unmindful | **الرَّجُلُ غَافِلٌ عَنِ الْوَاجِبِ.** (The man is unmindful of the duty.) |
+| **حَيَّةٌ** | snake | **رَأَيْتُ حَيَّةً طَوِيلَةً فِي الْبَيْتِ.** (I saw a long snake in the house.) |
+| **صَابُونٌ** | soap | **غَسَلْتُ الْوَجْهَ بِالصَّابُونِ.** (I washed the face with soap.) |
+| **لَيِّنٌ** | soft | **هَذَا الْفِرَاشُ لَيِّنٌ جِدًّا.** (This bed is very soft.) |
+| **أَحْيَانًا** | sometimes | **أَذْهَبُ إِلَى الْمَكْتَبَةِ أَحْيَانًا.** (I go to the library sometimes.) |
+| **وَاسِعٌ** | spacious, large | **هَذَا بَيْتٌ جَدِيدٌ وَاسِعٌ.** (This is a spacious new house.) |
+| **نَظَّارَةٌ** | spectacles | **اشْتَرَى جَدِّي نَظَّارَةً جَدِيدَةً.** (My grandfather bought new spectacles.) |
+| **زَوْجٌ** | spouse | **ذَهَبَ الزَّوْجُ مَعَ زَوْجَتِهِ.** (The husband went with his spouse.) |
+| **رَبِيعٌ** | spring | **الْجَوُّ جَمِيلٌ فِي الرَّبِيعِ.** (The weather is beautiful in spring.) |
+| **سُلَّمٌ** | staircase | **صَعِدَ الرَّجُلُ عَلَى السُّلَّمِ.** (The man ascended the staircase.) |
+| **كَوْكَبٌ** | star | **رَأَيْتُ كَوْكَبًا لَامِعًا فِي السَّمَاءِ.** (I saw a shiny star in the sky.) |
+| **مَحَطَّةٌ** | station | **وَصَلَ الْقِطَارُ إِلَى الْمَحَطَّةِ.** (The train arrived at the station.) |
+| **بُخَارٌ** | steam | **يَخْرُجُ الْبُخَارُ مِنَ الْمَاءِ السَّاخِنِ.** (Steam comes out of the hot water.) |
+| **عَصًا** | stick | **أَخَذَ الشَّيْخُ عَصًا لِيَمْشِيَ.** (The old man took a stick to walk.) |
+| **فَقَطْ** | only | **مَعِي جُنَيْهٌ وَاحِدٌ فَقَطْ.** (I have one pound only.) |
+| **غَرِيبٌ** | stranger | **هُنَاكَ غَرِيبٌ دَقَّ الْبَابَ.** (There is a stranger who knocked on the door.) |
+| **أَجْنَبِيٌّ** | stranger | **هَذَا الرَّجُلُ أَجْنَبِيٌّ مِنَ الْيَابَانِ.** (This man is a foreigner/stranger from Japan.) |
+
+---
+
+## 📖 Page 16
+
+| Arabic Word | English Meaning | Practical Example Sentence |
+|---|---|---|
+| **قُوَّةٌ** | strength | **الْمُؤْمِنُ الْقَوِيُّ فِيهِ قُوَّةٌ.** (The strong believer has strength in him.) |
+| **بِقُوَّةٍ** | strongly, fast | **دَفَعَ الرَّجُلُ الْبَابَ بِقُوَّةٍ.** (The man pushed the door strongly.) |
+| **غَبِيٌّ** | stupid | **لَا تَكُنْ غَبِيًّا فِي الْعَمَلِ.** (Do not be stupid in the work.) |
+| **يَقُولُ : قَالَ** | to say, to tell (a-u) | **قَالَ الْمُعَلِّمُ لِلْوَلَدِ: اجْلِسْ.** (The teacher said to the boy: Sit down.) |
+| **قَادِمٌ** | coming | **أَنَا قَادِمٌ إِلَى الْقَاهِرَةِ غَدًا.** (I am coming to Cairo tomorrow.) |
+| **قَاعَةٌ** | hall | **جَلَسَ الطُّلَّابُ فِي قَاعَةِ الِامْتِحَانِ.** (The students sat in the examination hall.) |
+| **يَقُومُ : قَامَ** | to get up (a-u) | **قَامَ الطَّالِبُ لِيُحَيِّيَ الْمُعَلِّمَ.** (The student stood up to greet the teacher.) |
+| **يَقْتُلُ : قَتَلَ** | to kill | **قَتَلَ الرَّجُلُ الْعَقْرَبَ بِالْعَصَا.** (The man killed the scorpion with the stick.) |
+| **يَقْرَأُ : قَرَأَ** | to read | **قَرَأَ الْوَلَدُ الْقُرْآنَ كُلَّ صَبَاحٍ.** (The boy reads the Qur'an every morning.) |
+| **قَرِيبٌ** | relative | **هَذَا الرَّجُلُ قَرِيبِي الرَّحِيمُ.** (This man is my merciful relative.) |
+| **قِصَّةٌ** | story | **سَمِعْتُ قِصَّةً عَنِ التَّارِيخِ الْقَدِيمِ.** (I heard a story about ancient history.) |
+| **قَطُّ** | never (emphasize past negative) | **مَا شَرِبْتُ الْخَمْرَ قَطُّ.** (I have never drunk wine.) |
+| **قِطَارٌ** | train | **وَصَلَ الْقِطَارُ السَّرِيعُ الْآنَ.** (The fast train arrived now.) |
+| **يَقْطَعُ : قَطَعَ** | to cut | **قَطَعَ الْجَزَّارُ اللَّحْمَ بِالسِّكِّينِ.** (The butcher cut the meat with the knife.) |
+| **قُمَاشٌ** | cloth | **اشْتَرَيْتُ قُمَاشًا لَطِيفًا لِلْقَمِيصِ.** (I bought a nice cloth for the shirt.) |
+| **قُمَامَةٌ** | garbage | **وَضَعْتُ الْقُمَامَةَ فِي الصُّنْدُوقِ.** (I put the garbage in the box.) |
+| **قَهْوَةٌ** | coffee | **شَرِبْتُ قَهْوَةً سَاخِنَةً مَعَ أَبِي.** (I drank hot coffee with my father.) |
+| **قُوَّةٌ** | strength | **يَحْتَاجُ الْعَمَلُ إِلَى قُوَّةٍ كَبِيرَةٍ.** (The work needs great strength.) |
+| **قَوْمٌ** | people | **عَادَ النَّبِيُّ إِلَى قَوْمِهِ مُسْرِعًا.** (The Prophet returned to his people quickly.) |
+| **كَ** | like | **الْوَلَدُ الصَّغِيرُ كَالْأَسَدِ فِي الْقُوَّةِ.** (The little boy is like a lion in strength.) |
+| **كَادَ : يَكَادُ** | almost | **يَكَادُ الْمَطَرُ يَسْقُطُ الْآنَ.** (The rain is almost falling now.) |
+| **تَذْكِرَةٌ** | ticket | **أَرَيْتُ التَّذْكِرَةَ لِرَجُلِ الْمَحَطَّةِ.** (I showed the ticket to the station man.) |
+| **فِي الْمَنَامِ** | in a dream | **رَأَيْتُ أَبِي فِي الْمَنَامِ الْبَارِحَةَ.** (I saw my father in the dream last night.) |
+| **فِي أَثْنَاءِ** | during | **دَخَلَ الطَّالِبُ فِي أَثْنَاءِ الدَّرْسِ.** (The student entered during the lesson.) |
+| **قَائِمَةٌ** | list | **كَتَبْتُ الْأَسْمَاءَ فِي الْقَائِمَةِ.** (I wrote the names on the list.) |
+| **صَيْفٌ** | summer | **الْجَوُّ حَارٌّ جِدًّا فِي الصَّيْفِ.** (The weather is very hot in the summer.) |
+| **عُطْلَةُ الصَّيْفِ** | summer holidays | **سَافَرْنَا فِي عُطْلَةُ الصَّيْفِ الْقَصِيرَةِ.** (We travelled during the short summer holidays.) |
+| **عَشَاءٌ** | supper | **جَهَّزَتِ الْأُمُّ عَشَاءً طَيِّبًا عَقِبَ الْيَوْمِ.** (The mother prepared a good supper at the end of the day.) |
+| **سُورَةٌ** | surah | **حَفِظْتُ سُورَةَ الْإِخْلَاصِ كَامِلَةً.** (I memorized Surah Al-Ikhlas completely.) |
+| **حَلْوَى** | sweetmeat (diptote) | **اشْتَرَيْتُ حَلْوَى لَذِيذَةً لِلْأَوْلَادِ.** (I bought delicious sweetmeats for the children.) |
+| **خُذْ** | take | **خُذْ هَذَا الْكِتَابَ الْجَدِيدَ يَا أَخِي.** (Take this new book, my brother.) |
+| **اسْتَرِحْ!** | take rest! | **اجْلِسْ هُنَا وَاسْتَرِحْ قَلِيلًا!** (Sit here and take rest for a while!) |
+| **تَنَاوُلٌ** | taking, eating | **تَنَاوُلُ الدَّوَاءِ مُهِمٌّ جِدًّا لِلْمَرِيضِ.** (Taking medicine is very important for the sick person.) |
+| **شَايٌ** | tea | **شَرِبْتُ شَايًا حَارًّا بَعْدَ الْغَدَاءِ.** (I drank hot tea after lunch.) |
+| **فَرِيقٌ** | team | **هَذَا فَرِيقٌ قَوِيٌّ مِنَ الْقَاهِرَةِ.** (This is a strong team from Cairo.) |
+| **بَرْقِيَّةٌ** | telegram | **أَرْسَلْتُ بَرْقِيَّةً عاجِلَةً إِلَى أَبِي.** (I sent an urgent telegram to my father.) |
+| **هَاتِفٌ** | telephone | **رَنَّ الْهَاتِفُ فِي الْمَكْتَبِ الْآنَ.** (The telephone rang in the office now.) |
+| **مَا** | that which, what | **فَهِمْتُ مَا قُلْتَ لِي الْبَارِحَةَ.** (I understood what you said to me last night.) |
+| **السِّيرَةُ** | the prophet's biography | **قَرَأْتُ السِّيرَةَ النَّبَوِيَّةَ الشَّرِيفَةَ.** (I read the noble biography of the Prophet.) |
+| **لِصٌّ** | thief | **دَخَلَ اللِّصُّ الْبَيْتَ لَيْلًا سَرِيعًا.** (The thief entered the house quickly at night.) |
+| **شَيْءٌ** | thing | **هَلْ وَجَدْتَ شَيْءًا فِي الطَّرِيقِ؟** (Did you find anything on the road?) |
+| **أَلْفٌ** | thousand | **مَعِي أَلْفٌ جُنَيْهٍ فِي الْمَحْفَظَةِ.** (I have a thousand pounds in the purse.) |
+| **تَذْكِرَةٌ** | ticket | **اشْتَرَيْتُ تَذْكِرَةَ الطَّائِرَةِ جَدِيدَةً.** (I bought a brand new plane ticket.) |
+
+---
+
+## 📖 Page 17
+
+| Arabic Word | English Meaning | Practical Example Sentence |
+|---|---|---|
+| **يَكَادُ : كَادَ** | to be about to do (i-a) | **كَادَ الْوَلَدُ يَسْقُطُ فِي الشَّارِعِ.** (The boy was about to fall in the street.) |
+| **يَكِيلُ : كَالَ** | to measure (a-i) | **كَالَ التَّاجِرُ الْقَمْحَ بِالْمِيزَانِ.** (The merchant measured the wheat with the scale.) |
+| **كَامِلٌ** | complete | **قَرَأْتُ الْكِتَابَ الْكَامِلَ فِي يَوْمٍ.** (I read the complete book in a day.) |
+| **كَانَ** | was | **كَانَ الْجَوُّ بَارِدًا جِدًّا الْبَارِحَةَ.** (The weather was very cold last night.) |
+| **يَكُونُ : كَانَ** | to be (a-u) | **يَكُونُ الطَّالِبُ نَاجِحًا إِنْ شَاءَ اللَّهُ.** (The student will be successful, God willing.) |
+| **كَأَنَّ** | it looks as if | **كَأَنَّ السَّمَاءَ تُمْطِرُ الْآنَ سَرِيعًا.** (It looks as if the sky is raining quickly now.) |
+| **يَكْتُبُ : كَتَبَ** | to write | **كَتَبَ التِّلْمِيذُ الدَّرْسَ عَلَى السَّبُّورَةِ.** (The pupil wrote the lesson on the writing board.) |
+| **كُتُبٌ مُقَرَّرَةٌ** | prescribed text books | **هَذِهِ هِيَ الْكُتُبُ الْمُقَرَّرَةُ لِلْفَصْلِ.** (These are the prescribed textbooks for the class.) |
+| **يَكْذِبُ : كَذَبَ** | to tell a lie | **الْمُؤْمِنُ لَا كَذَبَ فِي كَلَامِهِ قَطُّ.** (The believer never tells a lie in his speech.) |
+| **كَذَلِكَ** | like that | **قَالَ أَبِي كَذَلِكَ لِلْوَلَدِ أَيْضًا.** (My father said like that to the boy as well.) |
+| **كُرَةُ السَّلَّةِ** | basketball | **لَعِبْتُ كُرَةُ السَّلَّةِ مَعَ أَصْحَابِي.** (I played basketball with my companions.) |
+| **كُرَةُ الْقَدَمِ** | football | **شَاهَدْتُ مُبَارَاةَ كُرَةُ الْقَدَمِ الْيَوْمَ.** (I watched a football match today.) |
+| **كَرِيهٌ** | unpleasant | **شَمِمْتُ رَائِحَةً كَرِيهَةً فِي الشَّارِعِ.** (I smelled an unpleasant scent in the street.) |
+| **كُسَالَى** | lazy (fp) | **الطَّالِبَاتُ لَسْنَ كُسَالَى فِي الدَّرْسِ.** (The female students are not lazy in the lesson.) |
+| **كُسَالَى** | lazy (mp) | **الرِّجَالُ الْكُسَالَى لَا يَعْمَلُونَ جَيِّدًا.** (The lazy men do not work well.) |
+| **يَكْسِرُ : كَسَرَ** | to break | **كَسَرَ الْوَلَدُ الْقَلَمَ الْقَدِيمَ الْيَوْمَ.** (The boy broke the old pen today.) |
+| **كَسْلَانُ** | lazy (ms) | **الْوَلَدُ كَسْلَانُ لَا يَكْتُبُ الْوَاجِبَ.** (The boy is lazy, he doesn't write the homework.) |
+| **كَسْلَى** | lazy (fs) | **الْبِنْتُ كَسْلَى عَنِ الْعَمَلِ الْآنَ.** (The girl is lazy to do the work now.) |
+| **كَفٌّ** | palm | **وَضَعْتُ النُّقُودَ فِي كَفِّ يَدِي.** (I put the money in the palm of my hand.) |
+| **يَشْتَرِي : اِشْتَرَى** | to buy | **اِشْتَرَى أَبِي كِتَابًا جَدِيدًا لِي.** (My father bought a new book for me.) |
+| **كَلِمَةٌ** | word | **كَتَبْتُ كَلِمَةً صَعْبَةً عَلَى الْوَرَقَةِ.** (I wrote a difficult word on the paper.) |
+| **كُلٌّ** | all | **حَضَرَ كُلُّ الطُّلَّابِ إِلَى الْفَصْلِ.** (All the students attended the class.) |
+| **يَزَالُ : زَالَ** | to cease to do (i-a) | **مَا زَالَ الْمَطَرُ يَسْقُطُ بِقُوَّةٍ.** (The rain hasn't ceased to fall strongly.) |
+| **وَقْتٌ** | time | **لَيْسَ مَعِي وَقْتٌ طَوِيلٌ الْآنَ.** (I do not have a long time right now.) |
+| **أَنْ** | to | **أُرِيدُ أَنْ أَقْرَأَ هَذَا الْكِتَابَ.** (I want to read this book.) |
+| **يَسُبُّ : سَبَّ** | to abuse (a-u) | **الْمُسْلِمُ لَا سَبَّ أَحَدًا قَطُّ.** (The Muslim never abuses anyone.) |
+| **يَصِلُ : وَصَلَ** | to arrive (a-i) | **وَصَلَ الْمُسَافِرُ إِلَى بَيْتِهِ لَيْلًا.** (The traveller arrived at his house at night.) |
+| **يَعْرُجُ : عَرَجَ** | to ascend (a-u) | **عَرَجَ الْعَامِلُ عَلَى السُّلَّمِ سَرِيعًا.** (The worker ascended the staircase quickly.) |
+| **يَحْضُرُ : حَضَرَ** | to attend, to be present | **حَضَرَ الضَّيْفُ إِلَى الْقَاعَةِ الْكَبِيرَةِ.** (The guest attended the large hall.) |
+| **يُقَدِّرُ : أَمْكَنَ** | to be able | **أَمْكَنَ الطَّالِبُ أَنْ يَجْلِسَ هُنَا.** (The student was able to sit here.) |
+| **يَكَادُ : كَادَ** | to be about to do (i-a) | **كَادَ الْقِطَارُ يَصِلُ إِلَى الْمَحَطَّةِ.** (The train was about to arrive at the station.) |
+| **يَغِيبُ : غَابَ** | to be absent | **غَابَ الرَّجُلُ عَنِ الْعَمَلِ الْبَارِحَةَ.** (The man was absent from work last night.) |
+| **يَجِبُ : وَجَبَ** | to be necessary (a-i) | **وَجَبَ الدَّرْسُ عَلَى كُلِّ تِلْمِيذٍ.** (The lesson is necessary for every pupil.) |
+| **يَفْرَحُ : فَرِحَ** | to be pleased, happy with | **فَرِحَ الْوَلَدُ بِالْهَدِيَّةِ الْجَمِيلَةِ.** (The boy was happy with the beautiful present.) |
+| **يَحْزَنُ : حَزِنَ** | to be sorrowful (i-a) | **حَزِنَ الصَّدِيقُ بِسَبَبِ مَرَضِ أَبِيهِ.** (The friend was sorrowful because of his father's sickness.) |
+| **يَشْهَدُ : شَهِدَ** | to bear witness | **شَهِدَ الرَّجُلُ الصَّادِقُ فِي الْمَحْكَمَةِ.** (The truthful man bore witness in the court.) |
+| **يَبْدَأُ : بَدَأَ** | to begin (a-a) | **بَدَأَ الْمُعَلِّمُ الدَّرْسَ بِاسْمِ اللَّهِ.** (The teacher began the lesson with the name of Allah.) |
+| **يَسُدُّ : سَدَّ** | to block (a-u) | **سَدَّ الْعَامِلُ الْبَالُوعَةَ الْقَدِيمَةَ سَرِيعًا.** (The worker blocked the old drain quickly.) |
+| **يَرْكَعُ : رَكَعَ** | to bow down in prayer | **رَكَعَ الرَّجُلُ فِي الصَّلَاةِ خَاشِعًا.** (The man bowed down in prayer with humility.) |
+| **يَكْسِرُ : كَسَرَ** | to break | **كسَرَ الْوَلَدُ كُوبَ الْمَاءِ الْبَارِحَةَ.** (The boy broke the water glass last night.) |
+| **يَبْنِي : بَنَى** | to build (a-i) | **بَنَى الْعَامِلُ عِمَارَةً جَدِيدَةً كَبِيرَةً.** (The laborer built a large new building.) |
+
+---
+
+All five pages (13–17) are done with content unchanged and nicely formatted for GitHub. Let me know if you have more pages or want any adjustments! 📚
+
+
+#######################################################
 
 
 
